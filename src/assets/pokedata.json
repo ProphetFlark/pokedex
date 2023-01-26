@@ -1,0 +1,6397 @@
+[
+  {
+    "accent": "rgba(116, 157, 132, 0.9)",
+    "accent2": "rgb(211, 122, 102)",
+    "name": "bulbasaur"
+  },
+  {
+    "accent": "rgba(116, 157, 132, 0.9)",
+    "accent2": "rgb(215, 133, 144)",
+    "name": "ivysaur"
+  },
+  {
+    "accent": "rgba(96, 139, 137, 0.9)",
+    "accent2": "rgb(215, 133, 144)",
+    "name": "venusaur"
+  },
+  {
+    "accent": "rgba(211, 158, 107, 0.9)",
+    "accent2": "rgb(212, 133, 138)",
+    "name": "charmander"
+  },
+  {
+    "accent": "rgba(209, 132, 112, 0.9)",
+    "accent2": "rgb(129, 20, 18)",
+    "name": "charmeleon"
+  },
+  {
+    "accent": "rgba(211, 158, 107, 0.9)",
+    "accent2": "rgb(6, 106, 50)",
+    "name": "charizard"
+  },
+  {
+    "accent": "rgba(145, 178, 183, 0.9)",
+    "accent2": "rgb(100, 180, 210)",
+    "name": "squirtle"
+  },
+  {
+    "accent": "rgba(179, 195, 209, 0.9)",
+    "accent2": "rgb(80, 127, 231)",
+    "name": "wartortle"
+  },
+  {
+    "accent": "rgba(115, 113, 118, 0.9)",
+    "accent2": "rgb(105, 105, 105)",
+    "name": "blastoise"
+  },
+  {
+    "accent": "rgba(168, 185, 120, 0.9)",
+    "accent2": "rgb(120, 208, 40)",
+    "name": "caterpie"
+  },
+  {
+    "accent": "rgba(144, 177, 98, 0.9)",
+    "accent2": "rgb(17, 19, 13)",
+    "name": "metapod"
+  },
+  {
+    "accent": "rgba(180, 180, 229, 0.9)",
+    "accent2": "rgb(0, 0, 0)",
+    "name": "butterfree"
+  },
+  {
+    "accent": "rgba(180, 140, 112, 0.9)",
+    "accent2": "rgb(17, 13, 12)",
+    "name": "weedle"
+  },
+  {
+    "accent": "rgba(199, 174, 99, 0.9)",
+    "accent2": "rgb(23, 19, 15)",
+    "name": "kakuna"
+  },
+  {
+    "accent": "rgba(206, 198, 179, 0.9)",
+    "accent2": "rgb(43, 39, 44)",
+    "name": "beedrill"
+  },
+  {
+    "accent": "rgba(188, 161, 122, 0.9)",
+    "accent2": "rgb(21, 17, 14)",
+    "name": "pidgey"
+  },
+  {
+    "accent": "rgba(202, 174, 141, 0.9)",
+    "accent2": "rgb(34, 27, 23)",
+    "name": "pidgeotto"
+  },
+  {
+    "accent": "rgba(206, 175, 139, 0.9)",
+    "accent2": "rgb(29, 24, 19)",
+    "name": "pidgeot"
+  },
+  {
+    "accent": "rgba(169, 145, 164, 0.9)",
+    "accent2": "rgb(15, 13, 14)",
+    "name": "rattata"
+  },
+  {
+    "accent": "rgba(182, 150, 111, 0.9)",
+    "accent2": "rgb(21, 17, 13)",
+    "name": "raticate"
+  },
+  {
+    "accent": "rgba(184, 132, 120, 0.9)",
+    "accent2": "rgb(21, 16, 15)",
+    "name": "spearow"
+  },
+  {
+    "accent": "rgba(175, 133, 101, 0.9)",
+    "accent2": "rgb(28, 20, 17)",
+    "name": "fearow"
+  },
+  {
+    "accent": "rgba(158, 122, 139, 0.9)",
+    "accent2": "rgb(15, 11, 12)",
+    "name": "ekans"
+  },
+  {
+    "accent": "rgba(144, 130, 144, 0.9)",
+    "accent2": "rgb(38, 33, 33)",
+    "name": "arbok"
+  },
+  {
+    "accent": "rgba(229, 197, 119, 0.9)",
+    "accent2": "rgb(26, 21, 16)",
+    "name": "pikachu"
+  },
+  {
+    "accent": "rgba(217, 185, 125, 0.9)",
+    "accent2": "rgb(51, 40, 30)",
+    "name": "raichu"
+  },
+  {
+    "accent": "rgba(207, 188, 139, 0.9)",
+    "accent2": "rgb(24, 26, 23)",
+    "name": "sandshrew"
+  },
+  {
+    "accent": "rgba(173, 143, 98, 0.9)",
+    "accent2": "rgb(18, 15, 12)",
+    "name": "sandslash"
+  },
+  {
+    "accent": "rgba(184, 195, 219, 0.9)",
+    "accent2": "rgb(31, 67, 73)",
+    "name": "nidoran-f"
+  },
+  {
+    "accent": "rgba(157, 188, 198, 0.9)",
+    "accent2": "rgb(30, 43, 59)",
+    "name": "nidorina"
+  },
+  {
+    "accent": "rgba(100, 127, 149, 0.9)",
+    "accent2": "rgb(210, 200, 177)",
+    "name": "nidoqueen"
+  },
+  {
+    "accent": "rgba(157, 121, 158, 0.9)",
+    "accent2": "rgb(30, 79, 77)",
+    "name": "nidoran-m"
+  },
+  {
+    "accent": "rgba(160, 134, 166, 0.9)",
+    "accent2": "rgb(20, 19, 21)",
+    "name": "nidorino"
+  },
+  {
+    "accent": "rgba(165, 137, 165, 0.9)",
+    "accent2": "rgb(39, 46, 51)",
+    "name": "nidoking"
+  },
+  {
+    "accent": "rgba(237, 199, 204, 0.9)",
+    "accent2": "rgb(31, 28, 29)",
+    "name": "clefairy"
+  },
+  {
+    "accent": "rgba(231, 206, 200, 0.9)",
+    "accent2": "rgb(44, 38, 37)",
+    "name": "clefable"
+  },
+  {
+    "accent": "rgba(200, 132, 101, 0.9)",
+    "accent2": "rgb(34, 23, 18)",
+    "name": "vulpix"
+  },
+  {
+    "accent": "rgba(227, 214, 163, 0.9)",
+    "accent2": "rgb(34, 31, 24)",
+    "name": "ninetales"
+  },
+  {
+    "accent": "rgba(237, 198, 207, 0.9)",
+    "accent2": "rgb(24, 60, 71)",
+    "name": "jigglypuff"
+  },
+  {
+    "accent": "rgba(234, 213, 221, 0.9)",
+    "accent2": "rgb(35, 53, 58)",
+    "name": "wigglytuff"
+  },
+  {
+    "accent": "rgba(130, 116, 157, 0.9)",
+    "accent2": "rgb(17, 18, 21)",
+    "name": "zubat"
+  },
+  {
+    "accent": "rgba(139, 120, 165, 0.9)",
+    "accent2": "rgb(27, 27, 29)",
+    "name": "golbat"
+  },
+  {
+    "accent": "rgba(89, 140, 103, 0.9)",
+    "accent2": "rgb(205, 144, 155)",
+    "name": "oddish"
+  },
+  {
+    "accent": "rgba(153, 118, 114, 0.9)",
+    "accent2": "rgb(37, 57, 76)",
+    "name": "gloom"
+  },
+  {
+    "accent": "rgba(207, 136, 146, 0.9)",
+    "accent2": "rgb(62, 75, 101)",
+    "name": "vileplume"
+  },
+  {
+    "accent": "rgba(210, 149, 119, 0.9)",
+    "accent2": "rgb(29, 25, 24)",
+    "name": "paras"
+  },
+  {
+    "accent": "rgba(202, 138, 119, 0.9)",
+    "accent2": "rgb(21, 16, 15)",
+    "name": "parasect"
+  },
+  {
+    "accent": "rgba(102, 96, 139, 0.9)",
+    "accent2": "rgb(214, 158, 178)",
+    "name": "venonat"
+  },
+  {
+    "accent": "rgba(209, 200, 220, 0.9)",
+    "accent2": "rgb(41, 39, 44)",
+    "name": "venomoth"
+  },
+  {
+    "accent": "rgba(169, 147, 136, 0.9)",
+    "accent2": "rgb(20, 19, 19)",
+    "name": "diglett"
+  },
+  {
+    "accent": "rgba(157, 136, 126, 0.9)",
+    "accent2": "rgb(17, 16, 15)",
+    "name": "dugtrio"
+  },
+  {
+    "accent": "rgba(216, 199, 170, 0.9)",
+    "accent2": "rgb(37, 31, 29)",
+    "name": "meowth"
+  },
+  {
+    "accent": "rgba(222, 204, 170, 0.9)",
+    "accent2": "rgb(40, 37, 33)",
+    "name": "persian"
+  },
+  {
+    "accent": "rgba(232, 204, 156, 0.9)",
+    "accent2": "rgb(30, 28, 25)",
+    "name": "psyduck"
+  },
+  {
+    "accent": "rgba(98, 141, 175, 0.9)",
+    "accent2": "rgb(232, 222, 198)",
+    "name": "golduck"
+  },
+  {
+    "accent": "rgba(212, 193, 180, 0.9)",
+    "accent2": "rgb(31, 27, 25)",
+    "name": "mankey"
+  },
+  {
+    "accent": "rgba(187, 164, 151, 0.9)",
+    "accent2": "rgb(26, 24, 24)",
+    "name": "primeape"
+  },
+  {
+    "accent": "rgba(214, 180, 148, 0.9)",
+    "accent2": "rgb(46, 45, 46)",
+    "name": "growlithe"
+  },
+  {
+    "accent": "rgba(217, 184, 155, 0.9)",
+    "accent2": "rgb(48, 52, 55)",
+    "name": "arcanine"
+  },
+  {
+    "accent": "rgba(151, 173, 200, 0.9)",
+    "accent2": "rgb(18, 18, 21)",
+    "name": "poliwag"
+  },
+  {
+    "accent": "rgba(88, 110, 139, 0.9)",
+    "accent2": "rgb(219, 226, 236)",
+    "name": "poliwhirl"
+  },
+  {
+    "accent": "rgba(80, 108, 141, 0.9)",
+    "accent2": "rgb(214, 222, 233)",
+    "name": "poliwrath"
+  },
+  {
+    "accent": "rgba(213, 192, 101, 0.9)",
+    "accent2": "rgb(31, 28, 22)",
+    "name": "abra"
+  },
+  {
+    "accent": "rgba(197, 176, 97, 0.9)",
+    "accent2": "rgb(45, 39, 34)",
+    "name": "kadabra"
+  },
+  {
+    "accent": "rgba(201, 183, 110, 0.9)",
+    "accent2": "rgb(44, 38, 37)",
+    "name": "alakazam"
+  },
+  {
+    "accent": "rgba(159, 181, 188, 0.9)",
+    "accent2": "rgb(24, 28, 29)",
+    "name": "machop"
+  },
+  {
+    "accent": "rgba(157, 159, 180, 0.9)",
+    "accent2": "rgb(49, 47, 57)",
+    "name": "machoke"
+  },
+  {
+    "accent": "rgba(144, 157, 169, 0.9)",
+    "accent2": "rgb(26, 27, 29)",
+    "name": "machamp"
+  },
+  {
+    "accent": "rgba(184, 203, 138, 0.9)",
+    "accent2": "rgb(19, 20, 17)",
+    "name": "bellsprout"
+  },
+  {
+    "accent": "rgba(184, 200, 140, 0.9)",
+    "accent2": "rgb(22, 23, 21)",
+    "name": "weepinbell"
+  },
+  {
+    "accent": "rgba(174, 204, 133, 0.9)",
+    "accent2": "rgb(17, 20, 17)",
+    "name": "victreebel"
+  },
+  {
+    "accent": "rgba(98, 124, 141, 0.9)",
+    "accent2": "rgb(201, 135, 156)",
+    "name": "tentacool"
+  },
+  {
+    "accent": "rgba(136, 158, 175, 0.9)",
+    "accent2": "rgb(64, 32, 42)",
+    "name": "tentacruel"
+  },
+  {
+    "accent": "rgba(163, 160, 156, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "geodude"
+  },
+  {
+    "accent": "rgba(164, 165, 159, 0.9)",
+    "accent2": "rgb(31, 33, 31)",
+    "name": "graveler"
+  },
+  {
+    "accent": "rgba(133, 126, 124, 0.9)",
+    "accent2": "rgb(24, 22, 22)",
+    "name": "golem"
+  },
+  {
+    "accent": "rgba(233, 188, 133, 0.9)",
+    "accent2": "rgb(44, 45, 52)",
+    "name": "ponyta"
+  },
+  {
+    "accent": "rgba(233, 182, 137, 0.9)",
+    "accent2": "rgb(57, 52, 58)",
+    "name": "rapidash"
+  },
+  {
+    "accent": "rgba(218, 169, 181, 0.9)",
+    "accent2": "rgb(25, 21, 22)",
+    "name": "slowpoke"
+  },
+  {
+    "accent": "rgba(202, 174, 180, 0.9)",
+    "accent2": "rgb(31, 28, 29)",
+    "name": "slowbro"
+  },
+  {
+    "accent": "rgba(168, 175, 180, 0.9)",
+    "accent2": "rgb(34, 51, 62)",
+    "name": "magnemite"
+  },
+  {
+    "accent": "rgba(168, 171, 175, 0.9)",
+    "accent2": "rgb(26, 45, 54)",
+    "name": "magneton"
+  },
+  {
+    "accent": "rgba(177, 163, 140, 0.9)",
+    "accent2": "rgb(25, 27, 22)",
+    "name": "farfetchd"
+  },
+  {
+    "accent": "rgba(190, 151, 126, 0.9)",
+    "accent2": "rgb(38, 36, 35)",
+    "name": "doduo"
+  },
+  {
+    "accent": "rgba(183, 148, 133, 0.9)",
+    "accent2": "rgb(35, 32, 32)",
+    "name": "dodrio"
+  },
+  {
+    "accent": "rgba(216, 221, 230, 0.9)",
+    "accent2": "rgb(27, 28, 29)",
+    "name": "seel"
+  },
+  {
+    "accent": "rgba(222, 229, 237, 0.9)",
+    "accent2": "rgb(30, 31, 32)",
+    "name": "dewgong"
+  },
+  {
+    "accent": "rgba(151, 133, 161, 0.9)",
+    "accent2": "rgb(25, 23, 26)",
+    "name": "grimer"
+  },
+  {
+    "accent": "rgba(149, 135, 156, 0.9)",
+    "accent2": "rgb(35, 35, 35)",
+    "name": "muk"
+  },
+  {
+    "accent": "rgba(158, 149, 184, 0.9)",
+    "accent2": "rgb(28, 26, 28)",
+    "name": "shellder"
+  },
+  {
+    "accent": "rgba(134, 129, 151, 0.9)",
+    "accent2": "rgb(29, 27, 35)",
+    "name": "cloyster"
+  },
+  {
+    "accent": "rgba(157, 137, 155, 0.9)",
+    "accent2": "rgb(27, 20, 20)",
+    "name": "gastly"
+  },
+  {
+    "accent": "rgba(104, 94, 114, 0.9)",
+    "accent2": "rgb(207, 180, 198)",
+    "name": "haunter"
+  },
+  {
+    "accent": "rgba(116, 112, 144, 0.9)",
+    "accent2": "rgb(216, 192, 194)",
+    "name": "gengar"
+  },
+  {
+    "accent": "rgba(135, 134, 145, 0.9)",
+    "accent2": "rgb(22, 22, 24)",
+    "name": "onix"
+  },
+  {
+    "accent": "rgba(202, 175, 97, 0.9)",
+    "accent2": "rgb(75, 70, 64)",
+    "name": "drowzee"
+  },
+  {
+    "accent": "rgba(222, 200, 108, 0.9)",
+    "accent2": "rgb(28, 26, 18)",
+    "name": "hypno"
+  },
+  {
+    "accent": "rgba(215, 166, 143, 0.9)",
+    "accent2": "rgb(39, 34, 33)",
+    "name": "krabby"
+  },
+  {
+    "accent": "rgba(208, 157, 134, 0.9)",
+    "accent2": "rgb(38, 33, 31)",
+    "name": "kingler"
+  },
+  {
+    "accent": "rgba(209, 166, 169, 0.9)",
+    "accent2": "rgb(15, 13, 13)",
+    "name": "voltorb"
+  },
+  {
+    "accent": "rgba(203, 193, 202, 0.9)",
+    "accent2": "rgb(16, 15, 17)",
+    "name": "electrode"
+  },
+  {
+    "accent": "rgba(230, 205, 208, 0.9)",
+    "accent2": "rgb(34, 31, 31)",
+    "name": "exeggcute"
+  },
+  {
+    "accent": "rgba(151, 175, 139, 0.9)",
+    "accent2": "rgb(17, 21, 17)",
+    "name": "exeggutor"
+  },
+  {
+    "accent": "rgba(200, 191, 178, 0.9)",
+    "accent2": "rgb(22, 21, 21)",
+    "name": "cubone"
+  },
+  {
+    "accent": "rgba(180, 165, 158, 0.9)",
+    "accent2": "rgb(30, 28, 28)",
+    "name": "marowak"
+  },
+  {
+    "accent": "rgba(180, 156, 154, 0.9)",
+    "accent2": "rgb(28, 26, 26)",
+    "name": "hitmonlee"
+  },
+  {
+    "accent": "rgba(194, 182, 169, 0.9)",
+    "accent2": "rgb(22, 21, 20)",
+    "name": "hitmonchan"
+  },
+  {
+    "accent": "rgba(219, 175, 179, 0.9)",
+    "accent2": "rgb(43, 35, 39)",
+    "name": "lickitung"
+  },
+  {
+    "accent": "rgba(166, 161, 167, 0.9)",
+    "accent2": "rgb(21, 20, 24)",
+    "name": "koffing"
+  },
+  {
+    "accent": "rgba(165, 155, 165, 0.9)",
+    "accent2": "rgb(21, 19, 20)",
+    "name": "weezing"
+  },
+  {
+    "accent": "rgba(150, 153, 161, 0.9)",
+    "accent2": "rgb(25, 25, 27)",
+    "name": "rhyhorn"
+  },
+  {
+    "accent": "rgba(116, 125, 134, 0.9)",
+    "accent2": "rgb(213, 217, 224)",
+    "name": "rhydon"
+  },
+  {
+    "accent": "rgba(227, 190, 205, 0.9)",
+    "accent2": "rgb(31, 26, 28)",
+    "name": "chansey"
+  },
+  {
+    "accent": "rgba(85, 108, 127, 0.9)",
+    "accent2": "rgb(218, 155, 145)",
+    "name": "tangela"
+  },
+  {
+    "accent": "rgba(178, 160, 146, 0.9)",
+    "accent2": "rgb(30, 26, 26)",
+    "name": "kangaskhan"
+  },
+  {
+    "accent": "rgba(148, 201, 213, 0.9)",
+    "accent2": "rgb(15, 19, 20)",
+    "name": "horsea"
+  },
+  {
+    "accent": "rgba(219, 201, 205, 0.9)",
+    "accent2": "rgb(33, 31, 32)",
+    "name": "seadra"
+  },
+  {
+    "accent": "rgba(217, 195, 193, 0.9)",
+    "accent2": "rgb(24, 23, 23)",
+    "name": "goldeen"
+  },
+  {
+    "accent": "rgba(164, 142, 104, 0.9)",
+    "accent2": "rgb(15, 13, 10)",
+    "name": "seaking"
+  },
+  {
+    "accent": "rgba(108, 169, 190, 0.9)",
+    "accent2": "rgb(213, 205, 180)",
+    "name": "staryu"
+  },
+  {
+    "accent": "rgba(157, 145, 153, 0.9)",
+    "accent2": "rgb(16, 16, 16)",
+    "name": "starmie"
+  },
+  {
+    "accent": "rgba(219, 182, 192, 0.9)",
+    "accent2": "rgb(42, 68, 88)",
+    "name": "mr-mime"
+  },
+  {
+    "accent": "rgba(171, 197, 166, 0.9)",
+    "accent2": "rgb(26, 32, 26)",
+    "name": "scyther"
+  },
+  {
+    "accent": "rgba(197, 146, 139, 0.9)",
+    "accent2": "rgb(38, 30, 31)",
+    "name": "jynx"
+  },
+  {
+    "accent": "rgba(205, 180, 121, 0.9)",
+    "accent2": "rgb(13, 31, 45)",
+    "name": "electabuzz"
+  },
+  {
+    "accent": "rgba(209, 147, 95, 0.9)",
+    "accent2": "rgb(27, 26, 27)",
+    "name": "magmar"
+  },
+  {
+    "accent": "rgba(158, 148, 149, 0.9)",
+    "accent2": "rgb(19, 18, 18)",
+    "name": "pinsir"
+  },
+  {
+    "accent": "rgba(220, 157, 132, 0.9)",
+    "accent2": "rgb(29, 21, 18)",
+    "name": "tauros"
+  },
+  {
+    "accent": "rgba(160, 133, 109, 0.9)",
+    "accent2": "rgb(24, 22, 23)",
+    "name": "magikarp"
+  },
+  {
+    "accent": "rgba(114, 156, 180, 0.9)",
+    "accent2": "rgb(215, 206, 198)",
+    "name": "gyarados"
+  },
+  {
+    "accent": "rgba(186, 168, 203, 0.9)",
+    "accent2": "rgb(15, 13, 15)",
+    "name": "lapras"
+  },
+  {
+    "accent": "rgba(69, 116, 139, 0.9)",
+    "accent2": "rgb(196, 181, 165)",
+    "name": "ditto"
+  },
+  {
+    "accent": "rgba(181, 145, 106, 0.9)",
+    "accent2": "rgb(21, 17, 13)",
+    "name": "eevee"
+  },
+  {
+    "accent": "rgba(96, 152, 168, 0.9)",
+    "accent2": "rgb(214, 214, 202)",
+    "name": "vaporeon"
+  },
+  {
+    "accent": "rgba(228, 203, 132, 0.9)",
+    "accent2": "rgb(28, 22, 24)",
+    "name": "jolteon"
+  },
+  {
+    "accent": "rgba(213, 162, 113, 0.9)",
+    "accent2": "rgb(21, 22, 20)",
+    "name": "flareon"
+  },
+  {
+    "accent": "rgba(164, 158, 166, 0.9)",
+    "accent2": "rgb(33, 49, 52)",
+    "name": "porygon"
+  },
+  {
+    "accent": "rgba(198, 206, 188, 0.9)",
+    "accent2": "rgb(51, 79, 86)",
+    "name": "omanyte"
+  },
+  {
+    "accent": "rgba(169, 188, 179, 0.9)",
+    "accent2": "rgb(30, 44, 52)",
+    "name": "omastar"
+  },
+  {
+    "accent": "rgba(184, 141, 105, 0.9)",
+    "accent2": "rgb(8, 12, 17)",
+    "name": "kabuto"
+  },
+  {
+    "accent": "rgba(164, 138, 119, 0.9)",
+    "accent2": "rgb(20, 17, 16)",
+    "name": "kabutops"
+  },
+  {
+    "accent": "rgba(164, 153, 175, 0.9)",
+    "accent2": "rgb(29, 27, 30)",
+    "name": "aerodactyl"
+  },
+  {
+    "accent": "rgba(204, 200, 193, 0.9)",
+    "accent2": "rgb(47, 98, 118)",
+    "name": "snorlax"
+  },
+  {
+    "accent": "rgba(108, 165, 198, 0.9)",
+    "accent2": "rgb(21, 33, 40)",
+    "name": "articuno"
+  },
+  {
+    "accent": "rgba(218, 188, 121, 0.9)",
+    "accent2": "rgb(23, 24, 24)",
+    "name": "zapdos"
+  },
+  {
+    "accent": "rgba(234, 170, 116, 0.9)",
+    "accent2": "rgb(49, 40, 32)",
+    "name": "moltres"
+  },
+  {
+    "accent": "rgba(189, 196, 213, 0.9)",
+    "accent2": "rgb(20, 19, 23)",
+    "name": "dratini"
+  },
+  {
+    "accent": "rgba(168, 193, 215, 0.9)",
+    "accent2": "rgb(22, 31, 41)",
+    "name": "dragonair"
+  },
+  {
+    "accent": "rgba(224, 184, 133, 0.9)",
+    "accent2": "rgb(47, 99, 90)",
+    "name": "dragonite"
+  },
+  {
+    "accent": "rgba(188, 174, 190, 0.9)",
+    "accent2": "rgb(31, 28, 30)",
+    "name": "mewtwo"
+  },
+  {
+    "accent": "rgba(221, 184, 194, 0.9)",
+    "accent2": "rgb(39, 34, 37)",
+    "name": "mew"
+  },
+  {
+    "accent": "rgba(173, 198, 146, 0.9)",
+    "accent2": "rgb(23, 27, 20)",
+    "name": "chikorita"
+  },
+  {
+    "accent": "rgba(201, 193, 138, 0.9)",
+    "accent2": "rgb(33, 35, 25)",
+    "name": "bayleef"
+  },
+  {
+    "accent": "rgba(194, 171, 138, 0.9)",
+    "accent2": "rgb(35, 35, 26)",
+    "name": "meganium"
+  },
+  {
+    "accent": "rgba(223, 176, 124, 0.9)",
+    "accent2": "rgb(59, 94, 100)",
+    "name": "cyndaquil"
+  },
+  {
+    "accent": "rgba(221, 174, 112, 0.9)",
+    "accent2": "rgb(59, 86, 87)",
+    "name": "quilava"
+  },
+  {
+    "accent": "rgba(216, 185, 120, 0.9)",
+    "accent2": "rgb(51, 50, 54)",
+    "name": "typhlosion"
+  },
+  {
+    "accent": "rgba(89, 131, 137, 0.9)",
+    "accent2": "rgb(215, 177, 151)",
+    "name": "totodile"
+  },
+  {
+    "accent": "rgba(110, 144, 146, 0.9)",
+    "accent2": "rgb(234, 184, 144)",
+    "name": "croconaw"
+  },
+  {
+    "accent": "rgba(97, 159, 177, 0.9)",
+    "accent2": "rgb(220, 158, 142)",
+    "name": "feraligatr"
+  },
+  {
+    "accent": "rgba(168, 135, 121, 0.9)",
+    "accent2": "rgb(44, 39, 36)",
+    "name": "sentret"
+  },
+  {
+    "accent": "rgba(191, 164, 141, 0.9)",
+    "accent2": "rgb(41, 35, 34)",
+    "name": "furret"
+  },
+  {
+    "accent": "rgba(196, 161, 143, 0.9)",
+    "accent2": "rgb(42, 40, 39)",
+    "name": "hoothoot"
+  },
+  {
+    "accent": "rgba(217, 189, 156, 0.9)",
+    "accent2": "rgb(38, 37, 37)",
+    "name": "noctowl"
+  },
+  {
+    "accent": "rgba(156, 131, 113, 0.9)",
+    "accent2": "rgb(37, 31, 28)",
+    "name": "ledyba"
+  },
+  {
+    "accent": "rgba(201, 154, 143, 0.9)",
+    "accent2": "rgb(44, 49, 54)",
+    "name": "ledian"
+  },
+  {
+    "accent": "rgba(180, 192, 133, 0.9)",
+    "accent2": "rgb(40, 55, 57)",
+    "name": "spinarak"
+  },
+  {
+    "accent": "rgba(184, 130, 127, 0.9)",
+    "accent2": "rgb(30, 28, 27)",
+    "name": "ariados"
+  },
+  {
+    "accent": "rgba(103, 110, 139, 0.9)",
+    "accent2": "rgb(227, 209, 190)",
+    "name": "crobat"
+  },
+  {
+    "accent": "rgba(95, 109, 150, 0.9)",
+    "accent2": "rgb(232, 221, 167)",
+    "name": "chinchou"
+  },
+  {
+    "accent": "rgba(114, 125, 162, 0.9)",
+    "accent2": "rgb(228, 212, 169)",
+    "name": "lanturn"
+  },
+  {
+    "accent": "rgba(229, 193, 183, 0.9)",
+    "accent2": "rgb(76, 62, 49)",
+    "name": "pichu"
+  },
+  {
+    "accent": "rgba(239, 226, 160, 0.9)",
+    "accent2": "rgb(17, 34, 43)",
+    "name": "cleffa"
+  },
+  {
+    "accent": "rgba(235, 205, 208, 0.9)",
+    "accent2": "rgb(24, 20, 20)",
+    "name": "igglybuff"
+  },
+  {
+    "accent": "rgba(232, 221, 194, 0.9)",
+    "accent2": "rgb(41, 66, 73)",
+    "name": "togepi"
+  },
+  {
+    "accent": "rgba(218, 225, 211, 0.9)",
+    "accent2": "rgb(32, 39, 40)",
+    "name": "togetic"
+  },
+  {
+    "accent": "rgba(168, 162, 93, 0.9)",
+    "accent2": "rgb(27, 26, 25)",
+    "name": "natu"
+  },
+  {
+    "accent": "rgba(185, 171, 140, 0.9)",
+    "accent2": "rgb(36, 35, 33)",
+    "name": "xatu"
+  },
+  {
+    "accent": "rgba(204, 176, 186, 0.9)",
+    "accent2": "rgb(38, 37, 39)",
+    "name": "mareep"
+  },
+  {
+    "accent": "rgba(210, 195, 161, 0.9)",
+    "accent2": "rgb(58, 78, 99)",
+    "name": "flaaffy"
+  },
+  {
+    "accent": "rgba(225, 200, 133, 0.9)",
+    "accent2": "rgb(53, 50, 44)",
+    "name": "ampharos"
+  },
+  {
+    "accent": "rgba(186, 158, 107, 0.9)",
+    "accent2": "rgb(53, 72, 56)",
+    "name": "bellossom"
+  },
+  {
+    "accent": "rgba(74, 150, 189, 0.9)",
+    "accent2": "rgb(189, 168, 167)",
+    "name": "marill"
+  },
+  {
+    "accent": "rgba(65, 136, 171, 0.9)",
+    "accent2": "rgb(210, 182, 182)",
+    "name": "azumarill"
+  },
+  {
+    "accent": "rgba(169, 192, 107, 0.9)",
+    "accent2": "rgb(20, 23, 14)",
+    "name": "sudowoodo"
+  },
+  {
+    "accent": "rgba(152, 133, 101, 0.9)",
+    "accent2": "rgb(20, 19, 14)",
+    "name": "politoed"
+  },
+  {
+    "accent": "rgba(201, 155, 144, 0.9)",
+    "accent2": "rgb(31, 33, 23)",
+    "name": "hoppip"
+  },
+  {
+    "accent": "rgba(156, 191, 97, 0.9)",
+    "accent2": "rgb(14, 17, 10)",
+    "name": "skiploom"
+  },
+  {
+    "accent": "rgba(180, 181, 184, 0.9)",
+    "accent2": "rgb(46, 55, 74)",
+    "name": "jumpluff"
+  },
+  {
+    "accent": "rgba(189, 162, 165, 0.9)",
+    "accent2": "rgb(21, 19, 20)",
+    "name": "aipom"
+  },
+  {
+    "accent": "rgba(166, 164, 101, 0.9)",
+    "accent2": "rgb(23, 23, 20)",
+    "name": "sunkern"
+  },
+  {
+    "accent": "rgba(191, 204, 130, 0.9)",
+    "accent2": "rgb(22, 25, 16)",
+    "name": "sunflora"
+  },
+  {
+    "accent": "rgba(184, 143, 112, 0.9)",
+    "accent2": "rgb(27, 24, 23)",
+    "name": "yanma"
+  },
+  {
+    "accent": "rgba(143, 177, 194, 0.9)",
+    "accent2": "rgb(20, 27, 29)",
+    "name": "wooper"
+  },
+  {
+    "accent": "rgba(203, 175, 190, 0.9)",
+    "accent2": "rgb(43, 44, 53)",
+    "name": "quagsire"
+  },
+  {
+    "accent": "rgba(154, 187, 209, 0.9)",
+    "accent2": "rgb(20, 25, 31)",
+    "name": "espeon"
+  },
+  {
+    "accent": "rgba(59, 65, 68, 0.9)",
+    "accent2": "rgb(220, 188, 121)",
+    "name": "umbreon"
+  },
+  {
+    "accent": "rgba(47, 68, 87, 0.9)",
+    "accent2": "rgb(221, 190, 149)",
+    "name": "murkrow"
+  },
+  {
+    "accent": "rgba(212, 172, 167, 0.9)",
+    "accent2": "rgb(36, 30, 30)",
+    "name": "slowking"
+  },
+  {
+    "accent": "rgba(75, 103, 122, 0.9)",
+    "accent2": "rgb(212, 134, 133)",
+    "name": "misdreavus"
+  },
+  {
+    "accent": "rgba(63, 78, 90, 0.9)",
+    "accent2": "rgb(223, 226, 232)",
+    "name": "unown"
+  },
+  {
+    "accent": "rgba(94, 147, 173, 0.9)",
+    "accent2": "rgb(204, 139, 139)",
+    "name": "wobbuffet"
+  },
+  {
+    "accent": "rgba(219, 163, 78, 0.9)",
+    "accent2": "rgb(47, 34, 32)",
+    "name": "girafarig"
+  },
+  {
+    "accent": "rgba(182, 143, 147, 0.9)",
+    "accent2": "rgb(32, 28, 27)",
+    "name": "pineco"
+  },
+  {
+    "accent": "rgba(68, 89, 96, 0.9)",
+    "accent2": "rgb(199, 170, 168)",
+    "name": "forretress"
+  },
+  {
+    "accent": "rgba(228, 220, 152, 0.9)",
+    "accent2": "rgb(56, 96, 98)",
+    "name": "dunsparce"
+  },
+  {
+    "accent": "rgba(200, 135, 176, 0.9)",
+    "accent2": "rgb(56, 81, 110)",
+    "name": "gligar"
+  },
+  {
+    "accent": "rgba(108, 113, 136, 0.9)",
+    "accent2": "rgb(214, 214, 214)",
+    "name": "steelix"
+  },
+  {
+    "accent": "rgba(207, 143, 151, 0.9)",
+    "accent2": "rgb(42, 39, 39)",
+    "name": "snubbull"
+  },
+  {
+    "accent": "rgba(205, 168, 193, 0.9)",
+    "accent2": "rgb(38, 35, 37)",
+    "name": "granbull"
+  },
+  {
+    "accent": "rgba(170, 92, 93, 0.9)",
+    "accent2": "rgb(23, 20, 19)",
+    "name": "qwilfish"
+  },
+  {
+    "accent": "rgba(174, 189, 150, 0.9)",
+    "accent2": "rgb(59, 95, 94)",
+    "name": "scizor"
+  },
+  {
+    "accent": "rgba(214, 170, 109, 0.9)",
+    "accent2": "rgb(28, 23, 17)",
+    "name": "shuckle"
+  },
+  {
+    "accent": "rgba(78, 113, 139, 0.9)",
+    "accent2": "rgb(218, 215, 207)",
+    "name": "heracross"
+  },
+  {
+    "accent": "rgba(65, 101, 116, 0.9)",
+    "accent2": "rgb(212, 159, 164)",
+    "name": "sneasel"
+  },
+  {
+    "accent": "rgba(155, 121, 99, 0.9)",
+    "accent2": "rgb(32, 26, 22)",
+    "name": "teddiursa"
+  },
+  {
+    "accent": "rgba(224, 125, 102, 0.9)",
+    "accent2": "rgb(27, 17, 14)",
+    "name": "ursaring"
+  },
+  {
+    "accent": "rgba(214, 154, 104, 0.9)",
+    "accent2": "rgb(32, 28, 25)",
+    "name": "slugma"
+  },
+  {
+    "accent": "rgba(163, 127, 111, 0.9)",
+    "accent2": "rgb(30, 21, 15)",
+    "name": "magcargo"
+  },
+  {
+    "accent": "rgba(189, 117, 108, 0.9)",
+    "accent2": "rgb(36, 28, 28)",
+    "name": "swinub"
+  },
+  {
+    "accent": "rgba(166, 128, 113, 0.9)",
+    "accent2": "rgb(21, 17, 14)",
+    "name": "piloswine"
+  },
+  {
+    "accent": "rgba(230, 149, 162, 0.9)",
+    "accent2": "rgb(25, 19, 21)",
+    "name": "corsola"
+  },
+  {
+    "accent": "rgba(214, 103, 87, 0.9)",
+    "accent2": "rgb(29, 18, 14)",
+    "name": "remoraid"
+  },
+  {
+    "accent": "rgba(179, 198, 186, 0.9)",
+    "accent2": "rgb(22, 25, 24)",
+    "name": "octillery"
+  },
+  {
+    "accent": "rgba(185, 175, 187, 0.9)",
+    "accent2": "rgb(55, 69, 86)",
+    "name": "delibird"
+  },
+  {
+    "accent": "rgba(204, 157, 152, 0.9)",
+    "accent2": "rgb(31, 27, 25)",
+    "name": "mantine"
+  },
+  {
+    "accent": "rgba(166, 146, 163, 0.9)",
+    "accent2": "rgb(35, 33, 39)",
+    "name": "skarmory"
+  },
+  {
+    "accent": "rgba(76, 67, 65, 0.9)",
+    "accent2": "rgb(201, 176, 167)",
+    "name": "houndour"
+  },
+  {
+    "accent": "rgba(81, 79, 77, 0.9)",
+    "accent2": "rgb(207, 176, 163)",
+    "name": "houndoom"
+  },
+  {
+    "accent": "rgba(88, 144, 169, 0.9)",
+    "accent2": "rgb(209, 189, 152)",
+    "name": "kingdra"
+  },
+  {
+    "accent": "rgba(141, 187, 185, 0.9)",
+    "accent2": "rgb(13, 16, 16)",
+    "name": "phanpy"
+  },
+  {
+    "accent": "rgba(154, 132, 162, 0.9)",
+    "accent2": "rgb(15, 18, 21)",
+    "name": "donphan"
+  },
+  {
+    "accent": "rgba(117, 127, 138, 0.9)",
+    "accent2": "rgb(218, 224, 224)",
+    "name": "porygon2"
+  },
+  {
+    "accent": "rgba(181, 149, 125, 0.9)",
+    "accent2": "rgb(37, 30, 30)",
+    "name": "stantler"
+  },
+  {
+    "accent": "rgba(202, 188, 168, 0.9)",
+    "accent2": "rgb(30, 27, 23)",
+    "name": "smeargle"
+  },
+  {
+    "accent": "rgba(184, 161, 166, 0.9)",
+    "accent2": "rgb(33, 28, 23)",
+    "name": "tyrogue"
+  },
+  {
+    "accent": "rgba(149, 141, 143, 0.9)",
+    "accent2": "rgb(22, 23, 24)",
+    "name": "hitmontop"
+  },
+  {
+    "accent": "rgba(216, 184, 151, 0.9)",
+    "accent2": "rgb(32, 34, 30)",
+    "name": "smoochum"
+  },
+  {
+    "accent": "rgba(226, 203, 130, 0.9)",
+    "accent2": "rgb(46, 44, 41)",
+    "name": "elekid"
+  },
+  {
+    "accent": "rgba(224, 186, 174, 0.9)",
+    "accent2": "rgb(51, 55, 60)",
+    "name": "magby"
+  },
+  {
+    "accent": "rgba(219, 181, 191, 0.9)",
+    "accent2": "rgb(33, 31, 32)",
+    "name": "miltank"
+  },
+  {
+    "accent": "rgba(198, 178, 137, 0.9)",
+    "accent2": "rgb(40, 39, 37)",
+    "name": "blissey"
+  },
+  {
+    "accent": "rgba(212, 138, 129, 0.9)",
+    "accent2": "rgb(28, 21, 20)",
+    "name": "raikou"
+  },
+  {
+    "accent": "rgba(148, 162, 176, 0.9)",
+    "accent2": "rgb(27, 35, 39)",
+    "name": "entei"
+  },
+  {
+    "accent": "rgba(146, 158, 132, 0.9)",
+    "accent2": "rgb(31, 32, 29)",
+    "name": "suicune"
+  },
+  {
+    "accent": "rgba(144, 116, 98, 0.9)",
+    "accent2": "rgb(31, 28, 27)",
+    "name": "larvitar"
+  },
+  {
+    "accent": "rgba(150, 161, 190, 0.9)",
+    "accent2": "rgb(13, 13, 14)",
+    "name": "pupitar"
+  },
+  {
+    "accent": "rgba(208, 141, 98, 0.9)",
+    "accent2": "rgb(51, 45, 42)",
+    "name": "tyranitar"
+  },
+  {
+    "accent": "rgba(199, 204, 221, 0.9)",
+    "accent2": "rgb(48, 54, 79)",
+    "name": "lugia"
+  },
+  {
+    "accent": "rgba(145, 158, 127, 0.9)",
+    "accent2": "rgb(70, 37, 33)",
+    "name": "ho-oh"
+  },
+  {
+    "accent": "rgba(207, 224, 192, 0.9)",
+    "accent2": "rgb(41, 51, 53)",
+    "name": "celebi"
+  },
+  {
+    "accent": "rgba(182, 197, 122, 0.9)",
+    "accent2": "rgb(23, 27, 17)",
+    "name": "treecko"
+  },
+  {
+    "accent": "rgba(111, 150, 111, 0.9)",
+    "accent2": "rgb(235, 152, 150)",
+    "name": "grovyle"
+  },
+  {
+    "accent": "rgba(149, 174, 173, 0.9)",
+    "accent2": "rgb(18, 23, 24)",
+    "name": "sceptile"
+  },
+  {
+    "accent": "rgba(85, 156, 189, 0.9)",
+    "accent2": "rgb(222, 194, 170)",
+    "name": "torchic"
+  },
+  {
+    "accent": "rgba(217, 166, 128, 0.9)",
+    "accent2": "rgb(39, 31, 26)",
+    "name": "combusken"
+  },
+  {
+    "accent": "rgba(242, 183, 89, 0.9)",
+    "accent2": "rgb(28, 23, 18)",
+    "name": "blaziken"
+  },
+  {
+    "accent": "rgba(100, 127, 150, 0.9)",
+    "accent2": "rgb(222, 198, 175)",
+    "name": "mudkip"
+  },
+  {
+    "accent": "rgba(116, 162, 120, 0.9)",
+    "accent2": "rgb(231, 176, 142)",
+    "name": "marshtomp"
+  },
+  {
+    "accent": "rgba(225, 185, 138, 0.9)",
+    "accent2": "rgb(30, 26, 23)",
+    "name": "swampert"
+  },
+  {
+    "accent": "rgba(45, 45, 45, 0.9)",
+    "accent2": "rgb(193, 192, 193)",
+    "name": "poochyena"
+  },
+  {
+    "accent": "rgba(175, 174, 174, 0.9)",
+    "accent2": "rgb(54, 54, 54)",
+    "name": "mightyena"
+  },
+  {
+    "accent": "rgba(189, 178, 166, 0.9)",
+    "accent2": "rgb(30, 29, 28)",
+    "name": "zigzagoon"
+  },
+  {
+    "accent": "rgba(203, 190, 183, 0.9)",
+    "accent2": "rgb(44, 42, 39)",
+    "name": "linoone"
+  },
+  {
+    "accent": "rgba(80, 88, 89, 0.9)",
+    "accent2": "rgb(230, 191, 136)",
+    "name": "wurmple"
+  },
+  {
+    "accent": "rgba(220, 170, 160, 0.9)",
+    "accent2": "rgb(23, 19, 18)",
+    "name": "silcoon"
+  },
+  {
+    "accent": "rgba(227, 230, 239, 0.9)",
+    "accent2": "rgb(20, 20, 21)",
+    "name": "beautifly"
+  },
+  {
+    "accent": "rgba(215, 200, 215, 0.9)",
+    "accent2": "rgb(23, 22, 23)",
+    "name": "cascoon"
+  },
+  {
+    "accent": "rgba(169, 165, 111, 0.9)",
+    "accent2": "rgb(22, 23, 15)",
+    "name": "dustox"
+  },
+  {
+    "accent": "rgba(96, 152, 124, 0.9)",
+    "accent2": "rgb(245, 223, 159)",
+    "name": "lotad"
+  },
+  {
+    "accent": "rgba(148, 182, 123, 0.9)",
+    "accent2": "rgb(19, 22, 16)",
+    "name": "lombre"
+  },
+  {
+    "accent": "rgba(192, 199, 147, 0.9)",
+    "accent2": "rgb(29, 30, 22)",
+    "name": "ludicolo"
+  },
+  {
+    "accent": "rgba(167, 157, 145, 0.9)",
+    "accent2": "rgb(23, 22, 22)",
+    "name": "seedot"
+  },
+  {
+    "accent": "rgba(182, 166, 150, 0.9)",
+    "accent2": "rgb(19, 19, 17)",
+    "name": "nuzleaf"
+  },
+  {
+    "accent": "rgba(186, 176, 161, 0.9)",
+    "accent2": "rgb(44, 96, 62)",
+    "name": "shiftry"
+  },
+  {
+    "accent": "rgba(62, 65, 88, 0.9)",
+    "accent2": "rgb(220, 173, 175)",
+    "name": "taillow"
+  },
+  {
+    "accent": "rgba(60, 63, 86, 0.9)",
+    "accent2": "rgb(205, 146, 164)",
+    "name": "swellow"
+  },
+  {
+    "accent": "rgba(225, 232, 234, 0.9)",
+    "accent2": "rgb(38, 48, 53)",
+    "name": "wingull"
+  },
+  {
+    "accent": "rgba(186, 200, 179, 0.9)",
+    "accent2": "rgb(21, 23, 20)",
+    "name": "pelipper"
+  },
+  {
+    "accent": "rgba(220, 222, 195, 0.9)",
+    "accent2": "rgb(30, 36, 39)",
+    "name": "ralts"
+  },
+  {
+    "accent": "rgba(167, 188, 153, 0.9)",
+    "accent2": "rgb(19, 20, 18)",
+    "name": "kirlia"
+  },
+  {
+    "accent": "rgba(197, 213, 192, 0.9)",
+    "accent2": "rgb(28, 33, 26)",
+    "name": "gardevoir"
+  },
+  {
+    "accent": "rgba(161, 202, 212, 0.9)",
+    "accent2": "rgb(18, 27, 30)",
+    "name": "surskit"
+  },
+  {
+    "accent": "rgba(224, 199, 194, 0.9)",
+    "accent2": "rgb(35, 32, 32)",
+    "name": "masquerain"
+  },
+  {
+    "accent": "rgba(212, 204, 183, 0.9)",
+    "accent2": "rgb(42, 47, 43)",
+    "name": "shroomish"
+  },
+  {
+    "accent": "rgba(207, 194, 182, 0.9)",
+    "accent2": "rgb(26, 23, 21)",
+    "name": "breloom"
+  },
+  {
+    "accent": "rgba(224, 217, 217, 0.9)",
+    "accent2": "rgb(48, 46, 46)",
+    "name": "slakoth"
+  },
+  {
+    "accent": "rgba(187, 173, 162, 0.9)",
+    "accent2": "rgb(27, 24, 23)",
+    "name": "vigoroth"
+  },
+  {
+    "accent": "rgba(211, 213, 212, 0.9)",
+    "accent2": "rgb(25, 25, 25)",
+    "name": "slaking"
+  },
+  {
+    "accent": "rgba(182, 179, 151, 0.9)",
+    "accent2": "rgb(20, 21, 17)",
+    "name": "nincada"
+  },
+  {
+    "accent": "rgba(221, 204, 196, 0.9)",
+    "accent2": "rgb(36, 35, 34)",
+    "name": "ninjask"
+  },
+  {
+    "accent": "rgba(190, 170, 136, 0.9)",
+    "accent2": "rgb(17, 15, 13)",
+    "name": "shedinja"
+  },
+  {
+    "accent": "rgba(227, 199, 190, 0.9)",
+    "accent2": "rgb(26, 23, 23)",
+    "name": "whismur"
+  },
+  {
+    "accent": "rgba(169, 153, 172, 0.9)",
+    "accent2": "rgb(18, 17, 18)",
+    "name": "loudred"
+  },
+  {
+    "accent": "rgba(175, 163, 179, 0.9)",
+    "accent2": "rgb(26, 25, 30)",
+    "name": "exploud"
+  },
+  {
+    "accent": "rgba(230, 210, 156, 0.9)",
+    "accent2": "rgb(63, 64, 70)",
+    "name": "makuhita"
+  },
+  {
+    "accent": "rgba(222, 186, 143, 0.9)",
+    "accent2": "rgb(59, 60, 84)",
+    "name": "hariyama"
+  },
+  {
+    "accent": "rgba(81, 153, 199, 0.9)",
+    "accent2": "rgb(206, 182, 210)",
+    "name": "azurill"
+  },
+  {
+    "accent": "rgba(95, 100, 138, 0.9)",
+    "accent2": "rgb(221, 123, 131)",
+    "name": "nosepass"
+  },
+  {
+    "accent": "rgba(242, 201, 185, 0.9)",
+    "accent2": "rgb(50, 37, 50)",
+    "name": "skitty"
+  },
+  {
+    "accent": "rgba(206, 170, 172, 0.9)",
+    "accent2": "rgb(25, 21, 21)",
+    "name": "delcatty"
+  },
+  {
+    "accent": "rgba(132, 111, 166, 0.9)",
+    "accent2": "rgb(14, 12, 19)",
+    "name": "sableye"
+  },
+  {
+    "accent": "rgba(94, 89, 89, 0.9)",
+    "accent2": "rgb(238, 215, 159)",
+    "name": "mawile"
+  },
+  {
+    "accent": "rgba(212, 213, 213, 0.9)",
+    "accent2": "rgb(38, 53, 59)",
+    "name": "aron"
+  },
+  {
+    "accent": "rgba(187, 186, 188, 0.9)",
+    "accent2": "rgb(33, 33, 34)",
+    "name": "lairon"
+  },
+  {
+    "accent": "rgba(94, 95, 99, 0.9)",
+    "accent2": "rgb(219, 218, 221)",
+    "name": "aggron"
+  },
+  {
+    "accent": "rgba(203, 215, 223, 0.9)",
+    "accent2": "rgb(46, 91, 108)",
+    "name": "meditite"
+  },
+  {
+    "accent": "rgba(215, 145, 155, 0.9)",
+    "accent2": "rgb(32, 24, 25)",
+    "name": "medicham"
+  },
+  {
+    "accent": "rgba(175, 198, 152, 0.9)",
+    "accent2": "rgb(20, 22, 18)",
+    "name": "electrike"
+  },
+  {
+    "accent": "rgba(173, 188, 168, 0.9)",
+    "accent2": "rgb(28, 36, 39)",
+    "name": "manectric"
+  },
+  {
+    "accent": "rgba(232, 175, 156, 0.9)",
+    "accent2": "rgb(30, 21, 21)",
+    "name": "plusle"
+  },
+  {
+    "accent": "rgba(186, 214, 210, 0.9)",
+    "accent2": "rgb(19, 26, 30)",
+    "name": "minun"
+  },
+  {
+    "accent": "rgba(192, 156, 149, 0.9)",
+    "accent2": "rgb(54, 54, 53)",
+    "name": "volbeat"
+  },
+  {
+    "accent": "rgba(159, 162, 172, 0.9)",
+    "accent2": "rgb(23, 35, 40)",
+    "name": "illumise"
+  },
+  {
+    "accent": "rgba(96, 148, 131, 0.9)",
+    "accent2": "rgb(221, 185, 168)",
+    "name": "roselia"
+  },
+  {
+    "accent": "rgba(162, 195, 148, 0.9)",
+    "accent2": "rgb(17, 20, 16)",
+    "name": "gulpin"
+  },
+  {
+    "accent": "rgba(155, 139, 179, 0.9)",
+    "accent2": "rgb(37, 37, 38)",
+    "name": "swalot"
+  },
+  {
+    "accent": "rgba(210, 165, 126, 0.9)",
+    "accent2": "rgb(25, 55, 89)",
+    "name": "carvanha"
+  },
+  {
+    "accent": "rgba(27, 71, 103, 0.9)",
+    "accent2": "rgb(213, 199, 211)",
+    "name": "sharpedo"
+  },
+  {
+    "accent": "rgba(54, 111, 152, 0.9)",
+    "accent2": "rgb(249, 232, 191)",
+    "name": "wailmer"
+  },
+  {
+    "accent": "rgba(184, 184, 182, 0.9)",
+    "accent2": "rgb(41, 107, 143)",
+    "name": "wailord"
+  },
+  {
+    "accent": "rgba(238, 218, 159, 0.9)",
+    "accent2": "rgb(31, 30, 24)",
+    "name": "numel"
+  },
+  {
+    "accent": "rgba(201, 154, 137, 0.9)",
+    "accent2": "rgb(34, 39, 41)",
+    "name": "camerupt"
+  },
+  {
+    "accent": "rgba(207, 182, 160, 0.9)",
+    "accent2": "rgb(46, 41, 39)",
+    "name": "torkoal"
+  },
+  {
+    "accent": "rgba(171, 160, 163, 0.9)",
+    "accent2": "rgb(21, 20, 21)",
+    "name": "spoink"
+  },
+  {
+    "accent": "rgba(90, 88, 89, 0.9)",
+    "accent2": "rgb(213, 178, 202)",
+    "name": "grumpig"
+  },
+  {
+    "accent": "rgba(219, 173, 162, 0.9)",
+    "accent2": "rgb(13, 11, 10)",
+    "name": "spinda"
+  },
+  {
+    "accent": "rgba(228, 153, 119, 0.9)",
+    "accent2": "rgb(23, 18, 16)",
+    "name": "trapinch"
+  },
+  {
+    "accent": "rgba(80, 118, 85, 0.9)",
+    "accent2": "rgb(217, 218, 161)",
+    "name": "vibrava"
+  },
+  {
+    "accent": "rgba(182, 182, 147, 0.9)",
+    "accent2": "rgb(33, 34, 28)",
+    "name": "flygon"
+  },
+  {
+    "accent": "rgba(155, 184, 134, 0.9)",
+    "accent2": "rgb(28, 30, 27)",
+    "name": "cacnea"
+  },
+  {
+    "accent": "rgba(172, 201, 158, 0.9)",
+    "accent2": "rgb(47, 72, 49)",
+    "name": "cacturne"
+  },
+  {
+    "accent": "rgba(182, 220, 239, 0.9)",
+    "accent2": "rgb(38, 75, 91)",
+    "name": "swablu"
+  },
+  {
+    "accent": "rgba(216, 231, 242, 0.9)",
+    "accent2": "rgb(57, 116, 141)",
+    "name": "altaria"
+  },
+  {
+    "accent": "rgba(218, 187, 199, 0.9)",
+    "accent2": "rgb(46, 42, 43)",
+    "name": "zangoose"
+  },
+  {
+    "accent": "rgba(78, 95, 111, 0.9)",
+    "accent2": "rgb(230, 186, 140)",
+    "name": "seviper"
+  },
+  {
+    "accent": "rgba(209, 195, 156, 0.9)",
+    "accent2": "rgb(20, 20, 18)",
+    "name": "lunatone"
+  },
+  {
+    "accent": "rgba(224, 177, 114, 0.9)",
+    "accent2": "rgb(34, 26, 18)",
+    "name": "solrock"
+  },
+  {
+    "accent": "rgba(156, 187, 203, 0.9)",
+    "accent2": "rgb(13, 15, 16)",
+    "name": "barboach"
+  },
+  {
+    "accent": "rgba(66, 87, 126, 0.9)",
+    "accent2": "rgb(196, 201, 182)",
+    "name": "whiscash"
+  },
+  {
+    "accent": "rgba(224, 160, 134, 0.9)",
+    "accent2": "rgb(27, 20, 17)",
+    "name": "corphish"
+  },
+  {
+    "accent": "rgba(192, 122, 111, 0.9)",
+    "accent2": "rgb(30, 36, 43)",
+    "name": "crawdaunt"
+  },
+  {
+    "accent": "rgba(197, 175, 143, 0.9)",
+    "accent2": "rgb(19, 17, 14)",
+    "name": "baltoy"
+  },
+  {
+    "accent": "rgba(64, 63, 63, 0.9)",
+    "accent2": "rgb(232, 183, 178)",
+    "name": "claydol"
+  },
+  {
+    "accent": "rgba(206, 169, 178, 0.9)",
+    "accent2": "rgb(26, 24, 26)",
+    "name": "lileep"
+  },
+  {
+    "accent": "rgba(185, 193, 158, 0.9)",
+    "accent2": "rgb(19, 20, 17)",
+    "name": "cradily"
+  },
+  {
+    "accent": "rgba(173, 162, 159, 0.9)",
+    "accent2": "rgb(23, 23, 22)",
+    "name": "anorith"
+  },
+  {
+    "accent": "rgba(104, 121, 142, 0.9)",
+    "accent2": "rgb(232, 202, 171)",
+    "name": "armaldo"
+  },
+  {
+    "accent": "rgba(180, 176, 161, 0.9)",
+    "accent2": "rgb(18, 19, 19)",
+    "name": "feebas"
+  },
+  {
+    "accent": "rgba(225, 188, 173, 0.9)",
+    "accent2": "rgb(44, 72, 84)",
+    "name": "milotic"
+  },
+  {
+    "accent": "rgba(207, 207, 212, 0.9)",
+    "accent2": "rgb(21, 21, 21)",
+    "name": "castform"
+  },
+  {
+    "accent": "rgba(188, 199, 131, 0.9)",
+    "accent2": "rgb(43, 33, 31)",
+    "name": "kecleon"
+  },
+  {
+    "accent": "rgba(105, 112, 141, 0.9)",
+    "accent2": "rgb(237, 226, 162)",
+    "name": "shuppet"
+  },
+  {
+    "accent": "rgba(138, 132, 128, 0.9)",
+    "accent2": "rgb(15, 14, 14)",
+    "name": "banette"
+  },
+  {
+    "accent": "rgba(166, 166, 158, 0.9)",
+    "accent2": "rgb(17, 17, 16)",
+    "name": "duskull"
+  },
+  {
+    "accent": "rgba(181, 177, 173, 0.9)",
+    "accent2": "rgb(31, 30, 30)",
+    "name": "dusclops"
+  },
+  {
+    "accent": "rgba(109, 143, 105, 0.9)",
+    "accent2": "rgb(205, 184, 155)",
+    "name": "tropius"
+  },
+  {
+    "accent": "rgba(209, 194, 199, 0.9)",
+    "accent2": "rgb(30, 28, 29)",
+    "name": "chimecho"
+  },
+  {
+    "accent": "rgba(211, 215, 228, 0.9)",
+    "accent2": "rgb(57, 68, 90)",
+    "name": "absol"
+  },
+  {
+    "accent": "rgba(121, 173, 179, 0.9)",
+    "accent2": "rgb(224, 170, 167)",
+    "name": "wynaut"
+  },
+  {
+    "accent": "rgba(236, 200, 149, 0.9)",
+    "accent2": "rgb(58, 58, 57)",
+    "name": "snorunt"
+  },
+  {
+    "accent": "rgba(199, 203, 217, 0.9)",
+    "accent2": "rgb(24, 27, 28)",
+    "name": "glalie"
+  },
+  {
+    "accent": "rgba(215, 216, 215, 0.9)",
+    "accent2": "rgb(78, 108, 152)",
+    "name": "spheal"
+  },
+  {
+    "accent": "rgba(185, 209, 215, 0.9)",
+    "accent2": "rgb(35, 103, 131)",
+    "name": "sealeo"
+  },
+  {
+    "accent": "rgba(87, 144, 171, 0.9)",
+    "accent2": "rgb(205, 222, 231)",
+    "name": "walrein"
+  },
+  {
+    "accent": "rgba(47, 64, 79, 0.9)",
+    "accent2": "rgb(207, 206, 222)",
+    "name": "clamperl"
+  },
+  {
+    "accent": "rgba(178, 180, 178, 0.9)",
+    "accent2": "rgb(23, 26, 28)",
+    "name": "huntail"
+  },
+  {
+    "accent": "rgba(229, 179, 200, 0.9)",
+    "accent2": "rgb(30, 24, 28)",
+    "name": "gorebyss"
+  },
+  {
+    "accent": "rgba(122, 111, 104, 0.9)",
+    "accent2": "rgb(203, 179, 162)",
+    "name": "relicanth"
+  },
+  {
+    "accent": "rgba(231, 153, 159, 0.9)",
+    "accent2": "rgb(22, 18, 20)",
+    "name": "luvdisc"
+  },
+  {
+    "accent": "rgba(164, 187, 197, 0.9)",
+    "accent2": "rgb(20, 24, 25)",
+    "name": "bagon"
+  },
+  {
+    "accent": "rgba(202, 200, 203, 0.9)",
+    "accent2": "rgb(24, 23, 23)",
+    "name": "shelgon"
+  },
+  {
+    "accent": "rgba(154, 128, 143, 0.9)",
+    "accent2": "rgb(32, 92, 111)",
+    "name": "salamence"
+  },
+  {
+    "accent": "rgba(111, 148, 167, 0.9)",
+    "accent2": "rgb(218, 207, 209)",
+    "name": "beldum"
+  },
+  {
+    "accent": "rgba(76, 112, 129, 0.9)",
+    "accent2": "rgb(211, 209, 212)",
+    "name": "metang"
+  },
+  {
+    "accent": "rgba(97, 129, 147, 0.9)",
+    "accent2": "rgb(202, 200, 200)",
+    "name": "metagross"
+  },
+  {
+    "accent": "rgba(192, 166, 158, 0.9)",
+    "accent2": "rgb(33, 28, 27)",
+    "name": "regirock"
+  },
+  {
+    "accent": "rgba(168, 208, 227, 0.9)",
+    "accent2": "rgb(23, 31, 35)",
+    "name": "regice"
+  },
+  {
+    "accent": "rgba(161, 157, 160, 0.9)",
+    "accent2": "rgb(29, 29, 29)",
+    "name": "registeel"
+  },
+  {
+    "accent": "rgba(200, 164, 174, 0.9)",
+    "accent2": "rgb(40, 36, 39)",
+    "name": "latias"
+  },
+  {
+    "accent": "rgba(75, 130, 172, 0.9)",
+    "accent2": "rgb(197, 198, 199)",
+    "name": "latios"
+  },
+  {
+    "accent": "rgba(32, 91, 152, 0.9)",
+    "accent2": "rgb(215, 177, 188)",
+    "name": "kyogre"
+  },
+  {
+    "accent": "rgba(183, 99, 89, 0.9)",
+    "accent2": "rgb(28, 19, 23)",
+    "name": "groudon"
+  },
+  {
+    "accent": "rgba(73, 121, 94, 0.9)",
+    "accent2": "rgb(202, 169, 138)",
+    "name": "rayquaza"
+  },
+  {
+    "accent": "rgba(243, 234, 188, 0.9)",
+    "accent2": "rgb(60, 112, 116)",
+    "name": "jirachi"
+  },
+  {
+    "accent": "rgba(185, 139, 114, 0.9)",
+    "accent2": "rgb(43, 50, 52)",
+    "name": "deoxys-normal"
+  },
+  {
+    "accent": "rgba(177, 187, 127, 0.9)",
+    "accent2": "rgb(41, 67, 41)",
+    "name": "turtwig"
+  },
+  {
+    "accent": "rgba(104, 130, 87, 0.9)",
+    "accent2": "rgb(207, 182, 92)",
+    "name": "grotle"
+  },
+  {
+    "accent": "rgba(94, 113, 78, 0.9)",
+    "accent2": "rgb(199, 196, 192)",
+    "name": "torterra"
+  },
+  {
+    "accent": "rgba(220, 167, 108, 0.9)",
+    "accent2": "rgb(34, 28, 22)",
+    "name": "chimchar"
+  },
+  {
+    "accent": "rgba(200, 150, 106, 0.9)",
+    "accent2": "rgb(39, 65, 78)",
+    "name": "monferno"
+  },
+  {
+    "accent": "rgba(205, 150, 106, 0.9)",
+    "accent2": "rgb(50, 62, 75)",
+    "name": "infernape"
+  },
+  {
+    "accent": "rgba(94, 141, 172, 0.9)",
+    "accent2": "rgb(234, 223, 175)",
+    "name": "piplup"
+  },
+  {
+    "accent": "rgba(93, 119, 138, 0.9)",
+    "accent2": "rgb(218, 186, 105)",
+    "name": "prinplup"
+  },
+  {
+    "accent": "rgba(53, 66, 80, 0.9)",
+    "accent2": "rgb(225, 204, 172)",
+    "name": "empoleon"
+  },
+  {
+    "accent": "rgba(88, 79, 77, 0.9)",
+    "accent2": "rgb(216, 197, 184)",
+    "name": "starly"
+  },
+  {
+    "accent": "rgba(90, 83, 80, 0.9)",
+    "accent2": "rgb(216, 189, 171)",
+    "name": "staravia"
+  },
+  {
+    "accent": "rgba(93, 84, 82, 0.9)",
+    "accent2": "rgb(226, 182, 156)",
+    "name": "staraptor"
+  },
+  {
+    "accent": "rgba(165, 130, 89, 0.9)",
+    "accent2": "rgb(31, 27, 23)",
+    "name": "bidoof"
+  },
+  {
+    "accent": "rgba(170, 137, 96, 0.9)",
+    "accent2": "rgb(51, 44, 41)",
+    "name": "bibarel"
+  },
+  {
+    "accent": "rgba(183, 136, 110, 0.9)",
+    "accent2": "rgb(42, 41, 40)",
+    "name": "kricketot"
+  },
+  {
+    "accent": "rgba(170, 106, 90, 0.9)",
+    "accent2": "rgb(39, 37, 38)",
+    "name": "kricketune"
+  },
+  {
+    "accent": "rgba(100, 134, 143, 0.9)",
+    "accent2": "rgb(231, 185, 76)",
+    "name": "shinx"
+  },
+  {
+    "accent": "rgba(83, 101, 106, 0.9)",
+    "accent2": "rgb(220, 174, 70)",
+    "name": "luxio"
+  },
+  {
+    "accent": "rgba(72, 79, 82, 0.9)",
+    "accent2": "rgb(233, 182, 60)",
+    "name": "luxray"
+  },
+  {
+    "accent": "rgba(157, 193, 109, 0.9)",
+    "accent2": "rgb(17, 22, 14)",
+    "name": "budew"
+  },
+  {
+    "accent": "rgba(163, 180, 180, 0.9)",
+    "accent2": "rgb(26, 32, 31)",
+    "name": "roserade"
+  },
+  {
+    "accent": "rgba(107, 129, 149, 0.9)",
+    "accent2": "rgb(217, 208, 207)",
+    "name": "cranidos"
+  },
+  {
+    "accent": "rgba(86, 98, 110, 0.9)",
+    "accent2": "rgb(206, 202, 203)",
+    "name": "rampardos"
+  },
+  {
+    "accent": "rgba(111, 108, 104, 0.9)",
+    "accent2": "rgb(223, 196, 151)",
+    "name": "shieldon"
+  },
+  {
+    "accent": "rgba(109, 108, 108, 0.9)",
+    "accent2": "rgb(225, 211, 185)",
+    "name": "bastiodon"
+  },
+  {
+    "accent": "rgba(91, 128, 77, 0.9)",
+    "accent2": "rgb(224, 187, 75)",
+    "name": "burmy"
+  },
+  {
+    "accent": "rgba(86, 131, 84, 0.9)",
+    "accent2": "rgb(230, 230, 226)",
+    "name": "wormadam-plant"
+  },
+  {
+    "accent": "rgba(217, 169, 103, 0.9)",
+    "accent2": "rgb(52, 48, 44)",
+    "name": "mothim"
+  },
+  {
+    "accent": "rgba(217, 176, 110, 0.9)",
+    "accent2": "rgb(34, 29, 22)",
+    "name": "combee"
+  },
+  {
+    "accent": "rgba(162, 129, 84, 0.9)",
+    "accent2": "rgb(37, 35, 32)",
+    "name": "vespiquen"
+  },
+  {
+    "accent": "rgba(190, 220, 229, 0.9)",
+    "accent2": "rgb(25, 32, 34)",
+    "name": "pachirisu"
+  },
+  {
+    "accent": "rgba(212, 154, 96, 0.9)",
+    "accent2": "rgb(49, 47, 43)",
+    "name": "buizel"
+  },
+  {
+    "accent": "rgba(214, 168, 112, 0.9)",
+    "accent2": "rgb(50, 68, 71)",
+    "name": "floatzel"
+  },
+  {
+    "accent": "rgba(202, 111, 119, 0.9)",
+    "accent2": "rgb(60, 130, 64)",
+    "name": "cherubi"
+  },
+  {
+    "accent": "rgba(101, 101, 109, 0.9)",
+    "accent2": "rgb(192, 109, 126)",
+    "name": "cherrim"
+  },
+  {
+    "accent": "rgba(210, 153, 165, 0.9)",
+    "accent2": "rgb(28, 23, 22)",
+    "name": "shellos"
+  },
+  {
+    "accent": "rgba(192, 141, 128, 0.9)",
+    "accent2": "rgb(28, 23, 18)",
+    "name": "gastrodon"
+  },
+  {
+    "accent": "rgba(185, 151, 154, 0.9)",
+    "accent2": "rgb(29, 24, 29)",
+    "name": "ambipom"
+  },
+  {
+    "accent": "rgba(182, 165, 171, 0.9)",
+    "accent2": "rgb(17, 16, 15)",
+    "name": "drifloon"
+  },
+  {
+    "accent": "rgba(174, 153, 155, 0.9)",
+    "accent2": "rgb(26, 23, 25)",
+    "name": "drifblim"
+  },
+  {
+    "accent": "rgba(196, 161, 126, 0.9)",
+    "accent2": "rgb(28, 22, 18)",
+    "name": "buneary"
+  },
+  {
+    "accent": "rgba(207, 178, 136, 0.9)",
+    "accent2": "rgb(37, 30, 24)",
+    "name": "lopunny"
+  },
+  {
+    "accent": "rgba(133, 101, 144, 0.9)",
+    "accent2": "rgb(24, 19, 25)",
+    "name": "mismagius"
+  },
+  {
+    "accent": "rgba(54, 68, 88, 0.9)",
+    "accent2": "rgb(207, 176, 170)",
+    "name": "honchkrow"
+  },
+  {
+    "accent": "rgba(151, 151, 164, 0.9)",
+    "accent2": "rgb(21, 24, 27)",
+    "name": "glameow"
+  },
+  {
+    "accent": "rgba(168, 163, 176, 0.9)",
+    "accent2": "rgb(25, 26, 30)",
+    "name": "purugly"
+  },
+  {
+    "accent": "rgba(217, 172, 114, 0.9)",
+    "accent2": "rgb(30, 25, 21)",
+    "name": "chingling"
+  },
+  {
+    "accent": "rgba(90, 70, 96, 0.9)",
+    "accent2": "rgb(237, 219, 189)",
+    "name": "stunky"
+  },
+  {
+    "accent": "rgba(96, 76, 102, 0.9)",
+    "accent2": "rgb(236, 219, 189)",
+    "name": "skuntank"
+  },
+  {
+    "accent": "rgba(65, 119, 135, 0.9)",
+    "accent2": "rgb(235, 191, 119)",
+    "name": "bronzor"
+  },
+  {
+    "accent": "rgba(91, 136, 134, 0.9)",
+    "accent2": "rgb(208, 175, 166)",
+    "name": "bronzong"
+  },
+  {
+    "accent": "rgba(144, 150, 110, 0.9)",
+    "accent2": "rgb(18, 20, 16)",
+    "name": "bonsly"
+  },
+  {
+    "accent": "rgba(178, 163, 174, 0.9)",
+    "accent2": "rgb(31, 32, 37)",
+    "name": "mime-jr"
+  },
+  {
+    "accent": "rgba(222, 189, 192, 0.9)",
+    "accent2": "rgb(33, 28, 29)",
+    "name": "happiny"
+  },
+  {
+    "accent": "rgba(71, 92, 96, 0.9)",
+    "accent2": "rgb(207, 187, 171)",
+    "name": "chatot"
+  },
+  {
+    "accent": "rgba(189, 161, 158, 0.9)",
+    "accent2": "rgb(30, 37, 25)",
+    "name": "spiritomb"
+  },
+  {
+    "accent": "rgba(99, 121, 132, 0.9)",
+    "accent2": "rgb(214, 142, 133)",
+    "name": "gible"
+  },
+  {
+    "accent": "rgba(99, 102, 133, 0.9)",
+    "accent2": "rgb(214, 135, 120)",
+    "name": "gabite"
+  },
+  {
+    "accent": "rgba(84, 87, 113, 0.9)",
+    "accent2": "rgb(222, 151, 109)",
+    "name": "garchomp"
+  },
+  {
+    "accent": "rgba(94, 119, 134, 0.9)",
+    "accent2": "rgb(233, 216, 185)",
+    "name": "munchlax"
+  },
+  {
+    "accent": "rgba(84, 106, 116, 0.9)",
+    "accent2": "rgb(230, 206, 195)",
+    "name": "riolu"
+  },
+  {
+    "accent": "rgba(91, 107, 114, 0.9)",
+    "accent2": "rgb(228, 212, 178)",
+    "name": "lucario"
+  },
+  {
+    "accent": "rgba(177, 153, 101, 0.9)",
+    "accent2": "rgb(22, 19, 13)",
+    "name": "hippopotas"
+  },
+  {
+    "accent": "rgba(168, 150, 118, 0.9)",
+    "accent2": "rgb(42, 40, 38)",
+    "name": "hippowdon"
+  },
+  {
+    "accent": "rgba(98, 108, 142, 0.9)",
+    "accent2": "rgb(223, 219, 218)",
+    "name": "skorupi"
+  },
+  {
+    "accent": "rgba(144, 115, 153, 0.9)",
+    "accent2": "rgb(33, 43, 58)",
+    "name": "drapion"
+  },
+  {
+    "accent": "rgba(77, 94, 124, 0.9)",
+    "accent2": "rgb(230, 199, 173)",
+    "name": "croagunk"
+  },
+  {
+    "accent": "rgba(88, 110, 138, 0.9)",
+    "accent2": "rgb(213, 122, 108)",
+    "name": "toxicroak"
+  },
+  {
+    "accent": "rgba(155, 172, 113, 0.9)",
+    "accent2": "rgb(36, 43, 27)",
+    "name": "carnivine"
+  },
+  {
+    "accent": "rgba(168, 174, 184, 0.9)",
+    "accent2": "rgb(51, 61, 66)",
+    "name": "finneon"
+  },
+  {
+    "accent": "rgba(67, 80, 85, 0.9)",
+    "accent2": "rgb(171, 219, 218)",
+    "name": "lumineon"
+  },
+  {
+    "accent": "rgba(107, 160, 196, 0.9)",
+    "accent2": "rgb(14, 18, 21)",
+    "name": "mantyke"
+  },
+  {
+    "accent": "rgba(116, 129, 122, 0.9)",
+    "accent2": "rgb(232, 236, 238)",
+    "name": "snover"
+  },
+  {
+    "accent": "rgba(93, 121, 119, 0.9)",
+    "accent2": "rgb(200, 195, 208)",
+    "name": "abomasnow"
+  },
+  {
+    "accent": "rgba(158, 108, 124, 0.9)",
+    "accent2": "rgb(24, 21, 24)",
+    "name": "weavile"
+  },
+  {
+    "accent": "rgba(80, 92, 103, 0.9)",
+    "accent2": "rgb(207, 198, 191)",
+    "name": "magnezone"
+  },
+  {
+    "accent": "rgba(205, 139, 144, 0.9)",
+    "accent2": "rgb(38, 29, 28)",
+    "name": "lickilicky"
+  },
+  {
+    "accent": "rgba(144, 110, 97, 0.9)",
+    "accent2": "rgb(29, 25, 24)",
+    "name": "rhyperior"
+  },
+  {
+    "accent": "rgba(99, 123, 148, 0.9)",
+    "accent2": "rgb(201, 98, 130)",
+    "name": "tangrowth"
+  },
+  {
+    "accent": "rgba(193, 170, 118, 0.9)",
+    "accent2": "rgb(42, 41, 41)",
+    "name": "electivire"
+  },
+  {
+    "accent": "rgba(205, 125, 78, 0.9)",
+    "accent2": "rgb(49, 44, 40)",
+    "name": "magmortar"
+  },
+  {
+    "accent": "rgba(192, 205, 203, 0.9)",
+    "accent2": "rgb(40, 80, 100)",
+    "name": "togekiss"
+  },
+  {
+    "accent": "rgba(75, 80, 59, 0.9)",
+    "accent2": "rgb(234, 162, 152)",
+    "name": "yanmega"
+  },
+  {
+    "accent": "rgba(182, 197, 153, 0.9)",
+    "accent2": "rgb(25, 29, 23)",
+    "name": "leafeon"
+  },
+  {
+    "accent": "rgba(132, 185, 186, 0.9)",
+    "accent2": "rgb(28, 44, 46)",
+    "name": "glaceon"
+  },
+  {
+    "accent": "rgba(109, 110, 126, 0.9)",
+    "accent2": "rgb(219, 132, 109)",
+    "name": "gliscor"
+  },
+  {
+    "accent": "rgba(175, 152, 130, 0.9)",
+    "accent2": "rgb(30, 30, 27)",
+    "name": "mamoswine"
+  },
+  {
+    "accent": "rgba(88, 133, 155, 0.9)",
+    "accent2": "rgb(215, 116, 118)",
+    "name": "porygon-z"
+  },
+  {
+    "accent": "rgba(81, 121, 93, 0.9)",
+    "accent2": "rgb(222, 212, 210)",
+    "name": "gallade"
+  },
+  {
+    "accent": "rgba(84, 85, 98, 0.9)",
+    "accent2": "rgb(199, 121, 114)",
+    "name": "probopass"
+  },
+  {
+    "accent": "rgba(109, 108, 101, 0.9)",
+    "accent2": "rgb(208, 190, 129)",
+    "name": "dusknoir"
+  },
+  {
+    "accent": "rgba(195, 195, 197, 0.9)",
+    "accent2": "rgb(35, 36, 38)",
+    "name": "froslass"
+  },
+  {
+    "accent": "rgba(179, 186, 176, 0.9)",
+    "accent2": "rgb(62, 100, 127)",
+    "name": "rotom"
+  },
+  {
+    "accent": "rgba(182, 181, 163, 0.9)",
+    "accent2": "rgb(23, 23, 22)",
+    "name": "uxie"
+  },
+  {
+    "accent": "rgba(191, 171, 195, 0.9)",
+    "accent2": "rgb(26, 26, 28)",
+    "name": "mesprit"
+  },
+  {
+    "accent": "rgba(141, 173, 189, 0.9)",
+    "accent2": "rgb(20, 24, 25)",
+    "name": "azelf"
+  },
+  {
+    "accent": "rgba(80, 94, 120, 0.9)",
+    "accent2": "rgb(204, 217, 227)",
+    "name": "dialga"
+  },
+  {
+    "accent": "rgba(185, 176, 189, 0.9)",
+    "accent2": "rgb(42, 40, 46)",
+    "name": "palkia"
+  },
+  {
+    "accent": "rgba(147, 122, 110, 0.9)",
+    "accent2": "rgb(39, 36, 35)",
+    "name": "heatran"
+  },
+  {
+    "accent": "rgba(199, 187, 157, 0.9)",
+    "accent2": "rgb(49, 75, 59)",
+    "name": "regigigas"
+  },
+  {
+    "accent": "rgba(93, 85, 79, 0.9)",
+    "accent2": "rgb(205, 181, 142)",
+    "name": "giratina-altered"
+  },
+  {
+    "accent": "rgba(202, 174, 173, 0.9)",
+    "accent2": "rgb(36, 33, 32)",
+    "name": "cresselia"
+  },
+  {
+    "accent": "rgba(96, 157, 172, 0.9)",
+    "accent2": "rgb(215, 154, 145)",
+    "name": "phione"
+  },
+  {
+    "accent": "rgba(93, 164, 179, 0.9)",
+    "accent2": "rgb(239, 207, 148)",
+    "name": "manaphy"
+  },
+  {
+    "accent": "rgba(64, 61, 62, 0.9)",
+    "accent2": "rgb(209, 192, 189)",
+    "name": "darkrai"
+  },
+  {
+    "accent": "rgba(176, 177, 141, 0.9)",
+    "accent2": "rgb(47, 101, 52)",
+    "name": "shaymin-land"
+  },
+  {
+    "accent": "rgba(172, 170, 160, 0.9)",
+    "accent2": "rgb(38, 40, 37)",
+    "name": "arceus"
+  },
+  {
+    "accent": "rgba(225, 181, 136, 0.9)",
+    "accent2": "rgb(39, 56, 67)",
+    "name": "victini"
+  },
+  {
+    "accent": "rgba(90, 130, 88, 0.9)",
+    "accent2": "rgb(236, 227, 155)",
+    "name": "snivy"
+  },
+  {
+    "accent": "rgba(163, 191, 134, 0.9)",
+    "accent2": "rgb(29, 43, 27)",
+    "name": "servine"
+  },
+  {
+    "accent": "rgba(73, 143, 104, 0.9)",
+    "accent2": "rgb(232, 215, 140)",
+    "name": "serperior"
+  },
+  {
+    "accent": "rgba(202, 133, 93, 0.9)",
+    "accent2": "rgb(52, 46, 45)",
+    "name": "tepig"
+  },
+  {
+    "accent": "rgba(179, 120, 80, 0.9)",
+    "accent2": "rgb(49, 43, 43)",
+    "name": "pignite"
+  },
+  {
+    "accent": "rgba(167, 121, 89, 0.9)",
+    "accent2": "rgb(45, 44, 43)",
+    "name": "emboar"
+  },
+  {
+    "accent": "rgba(177, 199, 201, 0.9)",
+    "accent2": "rgb(39, 48, 61)",
+    "name": "oshawott"
+  },
+  {
+    "accent": "rgba(103, 137, 150, 0.9)",
+    "accent2": "rgb(231, 218, 178)",
+    "name": "dewott"
+  },
+  {
+    "accent": "rgba(78, 104, 134, 0.9)",
+    "accent2": "rgb(222, 213, 181)",
+    "name": "samurott"
+  },
+  {
+    "accent": "rgba(186, 156, 129, 0.9)",
+    "accent2": "rgb(35, 33, 30)",
+    "name": "patrat"
+  },
+  {
+    "accent": "rgba(171, 127, 94, 0.9)",
+    "accent2": "rgb(28, 21, 18)",
+    "name": "watchog"
+  },
+  {
+    "accent": "rgba(212, 168, 130, 0.9)",
+    "accent2": "rgb(38, 36, 37)",
+    "name": "lillipup"
+  },
+  {
+    "accent": "rgba(81, 76, 91, 0.9)",
+    "accent2": "rgb(231, 184, 148)",
+    "name": "herdier"
+  },
+  {
+    "accent": "rgba(193, 179, 158, 0.9)",
+    "accent2": "rgb(62, 67, 72)",
+    "name": "stoutland"
+  },
+  {
+    "accent": "rgba(107, 90, 119, 0.9)",
+    "accent2": "rgb(234, 195, 187)",
+    "name": "purrloin"
+  },
+  {
+    "accent": "rgba(109, 88, 110, 0.9)",
+    "accent2": "rgb(238, 192, 114)",
+    "name": "liepard"
+  },
+  {
+    "accent": "rgba(91, 154, 114, 0.9)",
+    "accent2": "rgb(239, 213, 151)",
+    "name": "pansage"
+  },
+  {
+    "accent": "rgba(76, 155, 111, 0.9)",
+    "accent2": "rgb(220, 201, 153)",
+    "name": "simisage"
+  },
+  {
+    "accent": "rgba(220, 144, 115, 0.9)",
+    "accent2": "rgb(37, 30, 27)",
+    "name": "pansear"
+  },
+  {
+    "accent": "rgba(204, 140, 117, 0.9)",
+    "accent2": "rgb(35, 27, 23)",
+    "name": "simisear"
+  },
+  {
+    "accent": "rgba(94, 158, 167, 0.9)",
+    "accent2": "rgb(240, 214, 151)",
+    "name": "panpour"
+  },
+  {
+    "accent": "rgba(74, 161, 180, 0.9)",
+    "accent2": "rgb(226, 202, 144)",
+    "name": "simipour"
+  },
+  {
+    "accent": "rgba(226, 184, 196, 0.9)",
+    "accent2": "rgb(28, 22, 25)",
+    "name": "munna"
+  },
+  {
+    "accent": "rgba(205, 156, 177, 0.9)",
+    "accent2": "rgb(39, 36, 43)",
+    "name": "musharna"
+  },
+  {
+    "accent": "rgba(182, 174, 171, 0.9)",
+    "accent2": "rgb(39, 39, 39)",
+    "name": "pidove"
+  },
+  {
+    "accent": "rgba(174, 167, 169, 0.9)",
+    "accent2": "rgb(46, 45, 45)",
+    "name": "tranquill"
+  },
+  {
+    "accent": "rgba(86, 90, 88, 0.9)",
+    "accent2": "rgb(209, 118, 127)",
+    "name": "unfezant"
+  },
+  {
+    "accent": "rgba(79, 79, 79, 0.9)",
+    "accent2": "rgb(230, 224, 215)",
+    "name": "blitzle"
+  },
+  {
+    "accent": "rgba(78, 76, 76, 0.9)",
+    "accent2": "rgb(232, 233, 236)",
+    "name": "zebstrika"
+  },
+  {
+    "accent": "rgba(58, 62, 74, 0.9)",
+    "accent2": "rgb(183, 147, 95)",
+    "name": "roggenrola"
+  },
+  {
+    "accent": "rgba(50, 57, 80, 0.9)",
+    "accent2": "rgb(199, 107, 80)",
+    "name": "boldore"
+  },
+  {
+    "accent": "rgba(69, 59, 74, 0.9)",
+    "accent2": "rgb(217, 109, 100)",
+    "name": "gigalith"
+  },
+  {
+    "accent": "rgba(155, 169, 180, 0.9)",
+    "accent2": "rgb(48, 44, 43)",
+    "name": "woobat"
+  },
+  {
+    "accent": "rgba(77, 86, 96, 0.9)",
+    "accent2": "rgb(181, 196, 217)",
+    "name": "swoobat"
+  },
+  {
+    "accent": "rgba(95, 90, 94, 0.9)",
+    "accent2": "rgb(241, 229, 226)",
+    "name": "drilbur"
+  },
+  {
+    "accent": "rgba(91, 75, 75, 0.9)",
+    "accent2": "rgb(190, 189, 192)",
+    "name": "excadrill"
+  },
+  {
+    "accent": "rgba(231, 187, 172, 0.9)",
+    "accent2": "rgb(40, 52, 61)",
+    "name": "audino"
+  },
+  {
+    "accent": "rgba(175, 149, 131, 0.9)",
+    "accent2": "rgb(55, 44, 36)",
+    "name": "timburr"
+  },
+  {
+    "accent": "rgba(154, 118, 123, 0.9)",
+    "accent2": "rgb(29, 21, 22)",
+    "name": "gurdurr"
+  },
+  {
+    "accent": "rgba(146, 134, 130, 0.9)",
+    "accent2": "rgb(28, 26, 24)",
+    "name": "conkeldurr"
+  },
+  {
+    "accent": "rgba(78, 102, 111, 0.9)",
+    "accent2": "rgb(236, 211, 167)",
+    "name": "tympole"
+  },
+  {
+    "accent": "rgba(76, 106, 117, 0.9)",
+    "accent2": "rgb(218, 204, 174)",
+    "name": "palpitoad"
+  },
+  {
+    "accent": "rgba(66, 101, 123, 0.9)",
+    "accent2": "rgb(138, 208, 205)",
+    "name": "seismitoad"
+  },
+  {
+    "accent": "rgba(183, 155, 150, 0.9)",
+    "accent2": "rgb(53, 52, 52)",
+    "name": "throh"
+  },
+  {
+    "accent": "rgba(91, 120, 132, 0.9)",
+    "accent2": "rgb(183, 221, 218)",
+    "name": "sawk"
+  },
+  {
+    "accent": "rgba(168, 169, 91, 0.9)",
+    "accent2": "rgb(28, 30, 22)",
+    "name": "sewaddle"
+  },
+  {
+    "accent": "rgba(148, 184, 82, 0.9)",
+    "accent2": "rgb(41, 62, 36)",
+    "name": "swadloon"
+  },
+  {
+    "accent": "rgba(150, 174, 89, 0.9)",
+    "accent2": "rgb(31, 41, 23)",
+    "name": "leavanny"
+  },
+  {
+    "accent": "rgba(173, 93, 107, 0.9)",
+    "accent2": "rgb(52, 54, 52)",
+    "name": "venipede"
+  },
+  {
+    "accent": "rgba(112, 107, 119, 0.9)",
+    "accent2": "rgb(199, 143, 149)",
+    "name": "whirlipede"
+  },
+  {
+    "accent": "rgba(111, 67, 84, 0.9)",
+    "accent2": "rgb(201, 120, 131)",
+    "name": "scolipede"
+  },
+  {
+    "accent": "rgba(178, 198, 176, 0.9)",
+    "accent2": "rgb(34, 48, 40)",
+    "name": "cottonee"
+  },
+  {
+    "accent": "rgba(201, 197, 169, 0.9)",
+    "accent2": "rgb(47, 68, 46)",
+    "name": "whimsicott"
+  },
+  {
+    "accent": "rgba(181, 211, 151, 0.9)",
+    "accent2": "rgb(52, 90, 58)",
+    "name": "petilil"
+  },
+  {
+    "accent": "rgba(172, 179, 124, 0.9)",
+    "accent2": "rgb(54, 102, 53)",
+    "name": "lilligant"
+  },
+  {
+    "accent": "rgba(88, 125, 93, 0.9)",
+    "accent2": "rgb(223, 212, 207)",
+    "name": "basculin-red-striped"
+  },
+  {
+    "accent": "rgba(166, 138, 110, 0.9)",
+    "accent2": "rgb(33, 32, 31)",
+    "name": "sandile"
+  },
+  {
+    "accent": "rgba(162, 133, 115, 0.9)",
+    "accent2": "rgb(38, 37, 37)",
+    "name": "krokorok"
+  },
+  {
+    "accent": "rgba(148, 121, 133, 0.9)",
+    "accent2": "rgb(32, 32, 33)",
+    "name": "krookodile"
+  },
+  {
+    "accent": "rgba(199, 125, 109, 0.9)",
+    "accent2": "rgb(25, 20, 17)",
+    "name": "darumaka"
+  },
+  {
+    "accent": "rgba(178, 104, 88, 0.9)",
+    "accent2": "rgb(33, 25, 22)",
+    "name": "darmanitan-standard"
+  },
+  {
+    "accent": "rgba(154, 170, 122, 0.9)",
+    "accent2": "rgb(46, 83, 80)",
+    "name": "maractus"
+  },
+  {
+    "accent": "rgba(155, 121, 105, 0.9)",
+    "accent2": "rgb(26, 25, 24)",
+    "name": "dwebble"
+  },
+  {
+    "accent": "rgba(99, 84, 75, 0.9)",
+    "accent2": "rgb(212, 145, 101)",
+    "name": "crustle"
+  },
+  {
+    "accent": "rgba(223, 189, 138, 0.9)",
+    "accent2": "rgb(34, 30, 24)",
+    "name": "scraggy"
+  },
+  {
+    "accent": "rgba(199, 146, 108, 0.9)",
+    "accent2": "rgb(32, 26, 22)",
+    "name": "scrafty"
+  },
+  {
+    "accent": "rgba(85, 91, 91, 0.9)",
+    "accent2": "rgb(234, 175, 111)",
+    "name": "sigilyph"
+  },
+  {
+    "accent": "rgba(68, 67, 67, 0.9)",
+    "accent2": "rgb(225, 161, 115)",
+    "name": "yamask"
+  },
+  {
+    "accent": "rgba(79, 87, 86, 0.9)",
+    "accent2": "rgb(228, 185, 129)",
+    "name": "cofagrigus"
+  },
+  {
+    "accent": "rgba(97, 118, 144, 0.9)",
+    "accent2": "rgb(239, 241, 242)",
+    "name": "tirtouga"
+  },
+  {
+    "accent": "rgba(94, 121, 150, 0.9)",
+    "accent2": "rgb(158, 202, 213)",
+    "name": "carracosta"
+  },
+  {
+    "accent": "rgba(224, 161, 129, 0.9)",
+    "accent2": "rgb(55, 113, 147)",
+    "name": "archen"
+  },
+  {
+    "accent": "rgba(59, 119, 144, 0.9)",
+    "accent2": "rgb(214, 161, 122)",
+    "name": "archeops"
+  },
+  {
+    "accent": "rgba(98, 114, 101, 0.9)",
+    "accent2": "rgb(231, 223, 229)",
+    "name": "trubbish"
+  },
+  {
+    "accent": "rgba(139, 135, 124, 0.9)",
+    "accent2": "rgb(35, 55, 52)",
+    "name": "garbodor"
+  },
+  {
+    "accent": "rgba(90, 74, 87, 0.9)",
+    "accent2": "rgb(224, 195, 191)",
+    "name": "zorua"
+  },
+  {
+    "accent": "rgba(93, 59, 71, 0.9)",
+    "accent2": "rgb(198, 134, 129)",
+    "name": "zoroark"
+  },
+  {
+    "accent": "rgba(205, 196, 195, 0.9)",
+    "accent2": "rgb(43, 40, 38)",
+    "name": "minccino"
+  },
+  {
+    "accent": "rgba(196, 195, 207, 0.9)",
+    "accent2": "rgb(36, 35, 35)",
+    "name": "cinccino"
+  },
+  {
+    "accent": "rgba(205, 190, 209, 0.9)",
+    "accent2": "rgb(47, 52, 54)",
+    "name": "gothita"
+  },
+  {
+    "accent": "rgba(47, 48, 52, 0.9)",
+    "accent2": "rgb(215, 209, 215)",
+    "name": "gothorita"
+  },
+  {
+    "accent": "rgba(53, 53, 53, 0.9)",
+    "accent2": "rgb(217, 209, 214)",
+    "name": "gothitelle"
+  },
+  {
+    "accent": "rgba(178, 205, 170, 0.9)",
+    "accent2": "rgb(74, 111, 104)",
+    "name": "solosis"
+  },
+  {
+    "accent": "rgba(140, 186, 153, 0.9)",
+    "accent2": "rgb(214, 230, 200)",
+    "name": "duosion"
+  },
+  {
+    "accent": "rgba(136, 186, 151, 0.9)",
+    "accent2": "rgb(221, 216, 190)",
+    "name": "reuniclus"
+  },
+  {
+    "accent": "rgba(157, 194, 188, 0.9)",
+    "accent2": "rgb(24, 28, 26)",
+    "name": "ducklett"
+  },
+  {
+    "accent": "rgba(217, 227, 225, 0.9)",
+    "accent2": "rgb(56, 65, 75)",
+    "name": "swanna"
+  },
+  {
+    "accent": "rgba(196, 212, 230, 0.9)",
+    "accent2": "rgb(30, 37, 49)",
+    "name": "vanillite"
+  },
+  {
+    "accent": "rgba(183, 210, 230, 0.9)",
+    "accent2": "rgb(59, 75, 100)",
+    "name": "vanillish"
+  },
+  {
+    "accent": "rgba(190, 212, 232, 0.9)",
+    "accent2": "rgb(63, 76, 94)",
+    "name": "vanilluxe"
+  },
+  {
+    "accent": "rgba(222, 185, 161, 0.9)",
+    "accent2": "rgb(35, 31, 28)",
+    "name": "deerling"
+  },
+  {
+    "accent": "rgba(94, 70, 53, 0.9)",
+    "accent2": "rgb(232, 190, 136)",
+    "name": "sawsbuck"
+  },
+  {
+    "accent": "rgba(221, 208, 166, 0.9)",
+    "accent2": "rgb(59, 58, 59)",
+    "name": "emolga"
+  },
+  {
+    "accent": "rgba(70, 108, 139, 0.9)",
+    "accent2": "rgb(225, 184, 99)",
+    "name": "karrablast"
+  },
+  {
+    "accent": "rgba(168, 128, 127, 0.9)",
+    "accent2": "rgb(35, 36, 38)",
+    "name": "escavalier"
+  },
+  {
+    "accent": "rgba(221, 208, 200, 0.9)",
+    "accent2": "rgb(64, 57, 51)",
+    "name": "foongus"
+  },
+  {
+    "accent": "rgba(155, 136, 135, 0.9)",
+    "accent2": "rgb(38, 35, 36)",
+    "name": "amoonguss"
+  },
+  {
+    "accent": "rgba(169, 211, 224, 0.9)",
+    "accent2": "rgb(24, 87, 113)",
+    "name": "frillish"
+  },
+  {
+    "accent": "rgba(175, 215, 239, 0.9)",
+    "accent2": "rgb(68, 130, 169)",
+    "name": "jellicent"
+  },
+  {
+    "accent": "rgba(192, 139, 152, 0.9)",
+    "accent2": "rgb(28, 25, 28)",
+    "name": "alomomola"
+  },
+  {
+    "accent": "rgba(214, 188, 106, 0.9)",
+    "accent2": "rgb(46, 57, 79)",
+    "name": "joltik"
+  },
+  {
+    "accent": "rgba(195, 173, 132, 0.9)",
+    "accent2": "rgb(38, 37, 43)",
+    "name": "galvantula"
+  },
+  {
+    "accent": "rgba(142, 158, 146, 0.9)",
+    "accent2": "rgb(31, 38, 34)",
+    "name": "ferroseed"
+  },
+  {
+    "accent": "rgba(99, 123, 109, 0.9)",
+    "accent2": "rgb(212, 210, 209)",
+    "name": "ferrothorn"
+  },
+  {
+    "accent": "rgba(152, 155, 162, 0.9)",
+    "accent2": "rgb(27, 53, 52)",
+    "name": "klink"
+  },
+  {
+    "accent": "rgba(165, 169, 176, 0.9)",
+    "accent2": "rgb(44, 66, 66)",
+    "name": "klang"
+  },
+  {
+    "accent": "rgba(159, 162, 171, 0.9)",
+    "accent2": "rgb(46, 62, 66)",
+    "name": "klinklang"
+  },
+  {
+    "accent": "rgba(202, 215, 222, 0.9)",
+    "accent2": "rgb(60, 74, 83)",
+    "name": "tynamo"
+  },
+  {
+    "accent": "rgba(149, 134, 126, 0.9)",
+    "accent2": "rgb(22, 24, 25)",
+    "name": "eelektrik"
+  },
+  {
+    "accent": "rgba(80, 91, 111, 0.9)",
+    "accent2": "rgb(220, 199, 152)",
+    "name": "eelektross"
+  },
+  {
+    "accent": "rgba(144, 189, 184, 0.9)",
+    "accent2": "rgb(26, 34, 31)",
+    "name": "elgyem"
+  },
+  {
+    "accent": "rgba(178, 146, 136, 0.9)",
+    "accent2": "rgb(42, 51, 45)",
+    "name": "beheeyem"
+  },
+  {
+    "accent": "rgba(173, 184, 215, 0.9)",
+    "accent2": "rgb(17, 18, 19)",
+    "name": "litwick"
+  },
+  {
+    "accent": "rgba(68, 73, 80, 0.9)",
+    "accent2": "rgb(190, 203, 221)",
+    "name": "lampent"
+  },
+  {
+    "accent": "rgba(70, 71, 89, 0.9)",
+    "accent2": "rgb(182, 197, 216)",
+    "name": "chandelure"
+  },
+  {
+    "accent": "rgba(97, 111, 89, 0.9)",
+    "accent2": "rgb(217, 205, 177)",
+    "name": "axew"
+  },
+  {
+    "accent": "rgba(97, 105, 94, 0.9)",
+    "accent2": "rgb(195, 115, 116)",
+    "name": "fraxure"
+  },
+  {
+    "accent": "rgba(129, 113, 68, 0.9)",
+    "accent2": "rgb(32, 30, 28)",
+    "name": "haxorus"
+  },
+  {
+    "accent": "rgba(163, 202, 229, 0.9)",
+    "accent2": "rgb(38, 40, 43)",
+    "name": "cubchoo"
+  },
+  {
+    "accent": "rgba(214, 229, 234, 0.9)",
+    "accent2": "rgb(58, 60, 63)",
+    "name": "beartic"
+  },
+  {
+    "accent": "rgba(97, 122, 160, 0.9)",
+    "accent2": "rgb(213, 223, 241)",
+    "name": "cryogonal"
+  },
+  {
+    "accent": "rgba(189, 168, 164, 0.9)",
+    "accent2": "rgb(43, 44, 47)",
+    "name": "shelmet"
+  },
+  {
+    "accent": "rgba(109, 113, 126, 0.9)",
+    "accent2": "rgb(233, 123, 140)",
+    "name": "accelgor"
+  },
+  {
+    "accent": "rgba(209, 165, 120, 0.9)",
+    "accent2": "rgb(59, 52, 46)",
+    "name": "stunfisk"
+  },
+  {
+    "accent": "rgba(210, 166, 136, 0.9)",
+    "accent2": "rgb(31, 25, 21)",
+    "name": "mienfoo"
+  },
+  {
+    "accent": "rgba(198, 188, 197, 0.9)",
+    "accent2": "rgb(38, 36, 38)",
+    "name": "mienshao"
+  },
+  {
+    "accent": "rgba(12, 87, 107, 0.9)",
+    "accent2": "rgb(189, 111, 117)",
+    "name": "druddigon"
+  },
+  {
+    "accent": "rgba(94, 129, 127, 0.9)",
+    "accent2": "rgb(230, 206, 156)",
+    "name": "golett"
+  },
+  {
+    "accent": "rgba(98, 129, 126, 0.9)",
+    "accent2": "rgb(207, 180, 138)",
+    "name": "golurk"
+  },
+  {
+    "accent": "rgba(162, 134, 136, 0.9)",
+    "accent2": "rgb(36, 34, 34)",
+    "name": "pawniard"
+  },
+  {
+    "accent": "rgba(155, 125, 123, 0.9)",
+    "accent2": "rgb(38, 36, 36)",
+    "name": "bisharp"
+  },
+  {
+    "accent": "rgba(108, 93, 80, 0.9)",
+    "accent2": "rgb(225, 203, 156)",
+    "name": "bouffalant"
+  },
+  {
+    "accent": "rgba(207, 199, 189, 0.9)",
+    "accent2": "rgb(61, 60, 65)",
+    "name": "rufflet"
+  },
+  {
+    "accent": "rgba(95, 72, 79, 0.9)",
+    "accent2": "rgb(230, 213, 186)",
+    "name": "braviary"
+  },
+  {
+    "accent": "rgba(95, 87, 83, 0.9)",
+    "accent2": "rgb(227, 198, 185)",
+    "name": "vullaby"
+  },
+  {
+    "accent": "rgba(139, 120, 113, 0.9)",
+    "accent2": "rgb(42, 38, 40)",
+    "name": "mandibuzz"
+  },
+  {
+    "accent": "rgba(163, 116, 96, 0.9)",
+    "accent2": "rgb(36, 30, 26)",
+    "name": "heatmor"
+  },
+  {
+    "accent": "rgba(97, 95, 97, 0.9)",
+    "accent2": "rgb(189, 189, 193)",
+    "name": "durant"
+  },
+  {
+    "accent": "rgba(93, 89, 93, 0.9)",
+    "accent2": "rgb(109, 144, 185)",
+    "name": "deino"
+  },
+  {
+    "accent": "rgba(87, 83, 87, 0.9)",
+    "accent2": "rgb(123, 153, 190)",
+    "name": "zweilous"
+  },
+  {
+    "accent": "rgba(93, 80, 93, 0.9)",
+    "accent2": "rgb(116, 149, 188)",
+    "name": "hydreigon"
+  },
+  {
+    "accent": "rgba(195, 169, 162, 0.9)",
+    "accent2": "rgb(43, 48, 49)",
+    "name": "larvesta"
+  },
+  {
+    "accent": "rgba(208, 145, 129, 0.9)",
+    "accent2": "rgb(60, 59, 59)",
+    "name": "volcarona"
+  },
+  {
+    "accent": "rgba(67, 124, 134, 0.9)",
+    "accent2": "rgb(199, 188, 175)",
+    "name": "cobalion"
+  },
+  {
+    "accent": "rgba(133, 122, 115, 0.9)",
+    "accent2": "rgb(36, 35, 35)",
+    "name": "terrakion"
+  },
+  {
+    "accent": "rgba(166, 189, 136, 0.9)",
+    "accent2": "rgb(36, 39, 32)",
+    "name": "virizion"
+  },
+  {
+    "accent": "rgba(149, 147, 152, 0.9)",
+    "accent2": "rgb(28, 30, 28)",
+    "name": "tornadus-incarnate"
+  },
+  {
+    "accent": "rgba(98, 106, 119, 0.9)",
+    "accent2": "rgb(224, 227, 235)",
+    "name": "thundurus-incarnate"
+  },
+  {
+    "accent": "rgba(198, 209, 224, 0.9)",
+    "accent2": "rgb(39, 43, 48)",
+    "name": "reshiram"
+  },
+  {
+    "accent": "rgba(53, 57, 59, 0.9)",
+    "accent2": "rgb(88, 177, 198)",
+    "name": "zekrom"
+  },
+  {
+    "accent": "rgba(163, 139, 134, 0.9)",
+    "accent2": "rgb(23, 21, 19)",
+    "name": "landorus-incarnate"
+  },
+  {
+    "accent": "rgba(148, 159, 163, 0.9)",
+    "accent2": "rgb(36, 38, 38)",
+    "name": "kyurem"
+  },
+  {
+    "accent": "rgba(196, 182, 162, 0.9)",
+    "accent2": "rgb(47, 58, 86)",
+    "name": "keldeo-ordinary"
+  },
+  {
+    "accent": "rgba(201, 207, 187, 0.9)",
+    "accent2": "rgb(40, 41, 40)",
+    "name": "meloetta-aria"
+  },
+  {
+    "accent": "rgba(113, 84, 121, 0.9)",
+    "accent2": "rgb(215, 181, 196)",
+    "name": "genesect"
+  },
+  {
+    "accent": "rgba(181, 166, 111, 0.9)",
+    "accent2": "rgb(31, 26, 19)",
+    "name": "chespin"
+  },
+  {
+    "accent": "rgba(105, 98, 54, 0.9)",
+    "accent2": "rgb(216, 185, 133)",
+    "name": "quilladin"
+  },
+  {
+    "accent": "rgba(195, 198, 165, 0.9)",
+    "accent2": "rgb(51, 50, 36)",
+    "name": "chesnaught"
+  },
+  {
+    "accent": "rgba(233, 179, 113, 0.9)",
+    "accent2": "rgb(34, 27, 21)",
+    "name": "fennekin"
+  },
+  {
+    "accent": "rgba(219, 177, 120, 0.9)",
+    "accent2": "rgb(64, 61, 57)",
+    "name": "braixen"
+  },
+  {
+    "accent": "rgba(188, 115, 81, 0.9)",
+    "accent2": "rgb(46, 33, 29)",
+    "name": "delphox"
+  },
+  {
+    "accent": "rgba(77, 145, 169, 0.9)",
+    "accent2": "rgb(228, 224, 181)",
+    "name": "froakie"
+  },
+  {
+    "accent": "rgba(58, 112, 147, 0.9)",
+    "accent2": "rgb(220, 217, 209)",
+    "name": "frogadier"
+  },
+  {
+    "accent": "rgba(67, 75, 122, 0.9)",
+    "accent2": "rgb(233, 191, 182)",
+    "name": "greninja"
+  },
+  {
+    "accent": "rgba(147, 133, 120, 0.9)",
+    "accent2": "rgb(28, 24, 21)",
+    "name": "bunnelby"
+  },
+  {
+    "accent": "rgba(162, 147, 125, 0.9)",
+    "accent2": "rgb(32, 27, 24)",
+    "name": "diggersby"
+  },
+  {
+    "accent": "rgba(200, 159, 145, 0.9)",
+    "accent2": "rgb(44, 43, 42)",
+    "name": "fletchling"
+  },
+  {
+    "accent": "rgba(193, 141, 111, 0.9)",
+    "accent2": "rgb(42, 41, 41)",
+    "name": "fletchinder"
+  },
+  {
+    "accent": "rgba(163, 115, 86, 0.9)",
+    "accent2": "rgb(44, 42, 42)",
+    "name": "talonflame"
+  },
+  {
+    "accent": "rgba(97, 93, 92, 0.9)",
+    "accent2": "rgb(209, 199, 185)",
+    "name": "scatterbug"
+  },
+  {
+    "accent": "rgba(190, 182, 181, 0.9)",
+    "accent2": "rgb(36, 34, 34)",
+    "name": "spewpa"
+  },
+  {
+    "accent": "rgba(203, 127, 155, 0.9)",
+    "accent2": "rgb(51, 59, 59)",
+    "name": "vivillon"
+  },
+  {
+    "accent": "rgba(82, 70, 61, 0.9)",
+    "accent2": "rgb(221, 176, 130)",
+    "name": "litleo"
+  },
+  {
+    "accent": "rgba(209, 128, 71, 0.9)",
+    "accent2": "rgb(50, 41, 37)",
+    "name": "pyroar"
+  },
+  {
+    "accent": "rgba(224, 169, 144, 0.9)",
+    "accent2": "rgb(62, 77, 45)",
+    "name": "flabebe"
+  },
+  {
+    "accent": "rgba(175, 138, 125, 0.9)",
+    "accent2": "rgb(25, 83, 68)",
+    "name": "floette"
+  },
+  {
+    "accent": "rgba(44, 130, 110, 0.9)",
+    "accent2": "rgb(226, 160, 165)",
+    "name": "florges"
+  },
+  {
+    "accent": "rgba(64, 98, 76, 0.9)",
+    "accent2": "rgb(229, 213, 210)",
+    "name": "skiddo"
+  },
+  {
+    "accent": "rgba(83, 109, 79, 0.9)",
+    "accent2": "rgb(210, 185, 167)",
+    "name": "gogoat"
+  },
+  {
+    "accent": "rgba(81, 83, 89, 0.9)",
+    "accent2": "rgb(244, 236, 207)",
+    "name": "pancham"
+  },
+  {
+    "accent": "rgba(90, 90, 100, 0.9)",
+    "accent2": "rgb(217, 215, 201)",
+    "name": "pangoro"
+  },
+  {
+    "accent": "rgba(216, 221, 207, 0.9)",
+    "accent2": "rgb(55, 55, 53)",
+    "name": "furfrou"
+  },
+  {
+    "accent": "rgba(157, 156, 172, 0.9)",
+    "accent2": "rgb(18, 17, 18)",
+    "name": "espurr"
+  },
+  {
+    "accent": "rgba(58, 84, 132, 0.9)",
+    "accent2": "rgb(221, 221, 224)",
+    "name": "meowstic-male"
+  },
+  {
+    "accent": "rgba(108, 124, 131, 0.9)",
+    "accent2": "rgb(234, 233, 230)",
+    "name": "honedge"
+  },
+  {
+    "accent": "rgba(182, 127, 146, 0.9)",
+    "accent2": "rgb(39, 33, 34)",
+    "name": "doublade"
+  },
+  {
+    "accent": "rgba(175, 161, 145, 0.9)",
+    "accent2": "rgb(40, 37, 37)",
+    "name": "aegislash-shield"
+  },
+  {
+    "accent": "rgba(213, 151, 166, 0.9)",
+    "accent2": "rgb(43, 36, 39)",
+    "name": "spritzee"
+  },
+  {
+    "accent": "rgba(198, 130, 160, 0.9)",
+    "accent2": "rgb(40, 32, 35)",
+    "name": "aromatisse"
+  },
+  {
+    "accent": "rgba(238, 227, 232, 0.9)",
+    "accent2": "rgb(33, 30, 31)",
+    "name": "swirlix"
+  },
+  {
+    "accent": "rgba(218, 182, 195, 0.9)",
+    "accent2": "rgb(28, 23, 24)",
+    "name": "slurpuff"
+  },
+  {
+    "accent": "rgba(211, 201, 205, 0.9)",
+    "accent2": "rgb(75, 89, 105)",
+    "name": "inkay"
+  },
+  {
+    "accent": "rgba(163, 148, 173, 0.9)",
+    "accent2": "rgb(36, 50, 59)",
+    "name": "malamar"
+  },
+  {
+    "accent": "rgba(173, 159, 141, 0.9)",
+    "accent2": "rgb(30, 28, 29)",
+    "name": "binacle"
+  },
+  {
+    "accent": "rgba(100, 89, 85, 0.9)",
+    "accent2": "rgb(226, 205, 187)",
+    "name": "barbaracle"
+  },
+  {
+    "accent": "rgba(145, 118, 111, 0.9)",
+    "accent2": "rgb(18, 14, 14)",
+    "name": "skrelp"
+  },
+  {
+    "accent": "rgba(144, 97, 90, 0.9)",
+    "accent2": "rgb(29, 22, 19)",
+    "name": "dragalge"
+  },
+  {
+    "accent": "rgba(144, 187, 200, 0.9)",
+    "accent2": "rgb(24, 26, 27)",
+    "name": "clauncher"
+  },
+  {
+    "accent": "rgba(48, 106, 144, 0.9)",
+    "accent2": "rgb(216, 192, 119)",
+    "name": "clawitzer"
+  },
+  {
+    "accent": "rgba(202, 189, 121, 0.9)",
+    "accent2": "rgb(46, 57, 65)",
+    "name": "helioptile"
+  },
+  {
+    "accent": "rgba(202, 173, 104, 0.9)",
+    "accent2": "rgb(60, 57, 56)",
+    "name": "heliolisk"
+  },
+  {
+    "accent": "rgba(148, 129, 120, 0.9)",
+    "accent2": "rgb(20, 17, 16)",
+    "name": "tyrunt"
+  },
+  {
+    "accent": "rgba(176, 128, 121, 0.9)",
+    "accent2": "rgb(47, 37, 36)",
+    "name": "tyrantrum"
+  },
+  {
+    "accent": "rgba(176, 203, 212, 0.9)",
+    "accent2": "rgb(32, 42, 59)",
+    "name": "amaura"
+  },
+  {
+    "accent": "rgba(175, 189, 197, 0.9)",
+    "accent2": "rgb(41, 45, 54)",
+    "name": "aurorus"
+  },
+  {
+    "accent": "rgba(229, 198, 208, 0.9)",
+    "accent2": "rgb(59, 63, 79)",
+    "name": "sylveon"
+  },
+  {
+    "accent": "rgba(93, 123, 105, 0.9)",
+    "accent2": "rgb(225, 165, 141)",
+    "name": "hawlucha"
+  },
+  {
+    "accent": "rgba(215, 175, 95, 0.9)",
+    "accent2": "rgb(45, 43, 41)",
+    "name": "dedenne"
+  },
+  {
+    "accent": "rgba(170, 175, 188, 0.9)",
+    "accent2": "rgb(28, 39, 45)",
+    "name": "carbink"
+  },
+  {
+    "accent": "rgba(194, 180, 196, 0.9)",
+    "accent2": "rgb(43, 50, 39)",
+    "name": "goomy"
+  },
+  {
+    "accent": "rgba(192, 178, 197, 0.9)",
+    "accent2": "rgb(24, 21, 22)",
+    "name": "sliggoo"
+  },
+  {
+    "accent": "rgba(201, 188, 206, 0.9)",
+    "accent2": "rgb(46, 55, 48)",
+    "name": "goodra"
+  },
+  {
+    "accent": "rgba(195, 186, 179, 0.9)",
+    "accent2": "rgb(52, 46, 52)",
+    "name": "klefki"
+  },
+  {
+    "accent": "rgba(94, 89, 77, 0.9)",
+    "accent2": "rgb(218, 168, 162)",
+    "name": "phantump"
+  },
+  {
+    "accent": "rgba(96, 109, 89, 0.9)",
+    "accent2": "rgb(187, 171, 150)",
+    "name": "trevenant"
+  },
+  {
+    "accent": "rgba(100, 85, 67, 0.9)",
+    "accent2": "rgb(224, 164, 119)",
+    "name": "pumpkaboo-average"
+  },
+  {
+    "accent": "rgba(169, 129, 93, 0.9)",
+    "accent2": "rgb(26, 20, 18)",
+    "name": "gourgeist-average"
+  },
+  {
+    "accent": "rgba(202, 219, 232, 0.9)",
+    "accent2": "rgb(83, 98, 131)",
+    "name": "bergmite"
+  },
+  {
+    "accent": "rgba(204, 218, 234, 0.9)",
+    "accent2": "rgb(111, 128, 171)",
+    "name": "avalugg"
+  },
+  {
+    "accent": "rgba(152, 125, 158, 0.9)",
+    "accent2": "rgb(24, 20, 24)",
+    "name": "noibat"
+  },
+  {
+    "accent": "rgba(95, 81, 100, 0.9)",
+    "accent2": "rgb(208, 193, 190)",
+    "name": "noivern"
+  },
+  {
+    "accent": "rgba(77, 83, 91, 0.9)",
+    "accent2": "rgb(228, 205, 161)",
+    "name": "xerneas"
+  },
+  {
+    "accent": "rgba(73, 61, 68, 0.9)",
+    "accent2": "rgb(228, 83, 67)",
+    "name": "yveltal"
+  },
+  {
+    "accent": "rgba(89, 92, 61, 0.9)",
+    "accent2": "rgb(192, 212, 128)",
+    "name": "zygarde-50"
+  },
+  {
+    "accent": "rgba(202, 181, 197, 0.9)",
+    "accent2": "rgb(48, 45, 51)",
+    "name": "diancie"
+  },
+  {
+    "accent": "rgba(187, 154, 139, 0.9)",
+    "accent2": "rgb(22, 19, 18)",
+    "name": "hoopa"
+  },
+  {
+    "accent": "rgba(113, 51, 53, 0.9)",
+    "accent2": "rgb(216, 152, 88)",
+    "name": "volcanion"
+  },
+  {
+    "accent": "rgba(224, 200, 184, 0.9)",
+    "accent2": "rgb(38, 91, 77)",
+    "name": "rowlet"
+  },
+  {
+    "accent": "rgba(159, 157, 114, 0.9)",
+    "accent2": "rgb(27, 33, 22)",
+    "name": "dartrix"
+  },
+  {
+    "accent": "rgba(181, 139, 108, 0.9)",
+    "accent2": "rgb(13, 118, 88)",
+    "name": "decidueye"
+  },
+  {
+    "accent": "rgba(62, 63, 72, 0.9)",
+    "accent2": "rgb(230, 130, 82)",
+    "name": "litten"
+  },
+  {
+    "accent": "rgba(168, 103, 76, 0.9)",
+    "accent2": "rgb(33, 29, 27)",
+    "name": "torracat"
+  },
+  {
+    "accent": "rgba(166, 92, 81, 0.9)",
+    "accent2": "rgb(30, 28, 26)",
+    "name": "incineroar"
+  },
+  {
+    "accent": "rgba(74, 98, 141, 0.9)",
+    "accent2": "rgb(192, 183, 204)",
+    "name": "popplio"
+  },
+  {
+    "accent": "rgba(85, 145, 178, 0.9)",
+    "accent2": "rgb(197, 211, 219)",
+    "name": "brionne"
+  },
+  {
+    "accent": "rgba(157, 183, 200, 0.9)",
+    "accent2": "rgb(14, 95, 146)",
+    "name": "primarina"
+  },
+  {
+    "accent": "rgba(164, 148, 144, 0.9)",
+    "accent2": "rgb(27, 27, 26)",
+    "name": "pikipek"
+  },
+  {
+    "accent": "rgba(68, 66, 64, 0.9)",
+    "accent2": "rgb(230, 211, 201)",
+    "name": "trumbeak"
+  },
+  {
+    "accent": "rgba(62, 60, 60, 0.9)",
+    "accent2": "rgb(226, 177, 126)",
+    "name": "toucannon"
+  },
+  {
+    "accent": "rgba(193, 151, 116, 0.9)",
+    "accent2": "rgb(34, 29, 25)",
+    "name": "yungoos"
+  },
+  {
+    "accent": "rgba(167, 144, 101, 0.9)",
+    "accent2": "rgb(28, 25, 21)",
+    "name": "gumshoos"
+  },
+  {
+    "accent": "rgba(215, 174, 133, 0.9)",
+    "accent2": "rgb(43, 33, 26)",
+    "name": "grubbin"
+  },
+  {
+    "accent": "rgba(107, 134, 103, 0.9)",
+    "accent2": "rgb(218, 197, 171)",
+    "name": "charjabug"
+  },
+  {
+    "accent": "rgba(56, 83, 102, 0.9)",
+    "accent2": "rgb(230, 223, 180)",
+    "name": "vikavolt"
+  },
+  {
+    "accent": "rgba(54, 113, 142, 0.9)",
+    "accent2": "rgb(199, 193, 152)",
+    "name": "crabrawler"
+  },
+  {
+    "accent": "rgba(178, 193, 203, 0.9)",
+    "accent2": "rgb(43, 49, 65)",
+    "name": "crabominable"
+  },
+  {
+    "accent": "rgba(201, 80, 86, 0.9)",
+    "accent2": "rgb(42, 37, 34)",
+    "name": "oricorio-baile"
+  },
+  {
+    "accent": "rgba(227, 212, 163, 0.9)",
+    "accent2": "rgb(42, 35, 32)",
+    "name": "cutiefly"
+  },
+  {
+    "accent": "rgba(199, 177, 128, 0.9)",
+    "accent2": "rgb(41, 35, 31)",
+    "name": "ribombee"
+  },
+  {
+    "accent": "rgba(174, 158, 149, 0.9)",
+    "accent2": "rgb(30, 27, 25)",
+    "name": "rockruff"
+  },
+  {
+    "accent": "rgba(179, 162, 151, 0.9)",
+    "accent2": "rgb(34, 33, 31)",
+    "name": "lycanroc-midday"
+  },
+  {
+    "accent": "rgba(87, 110, 134, 0.9)",
+    "accent2": "rgb(210, 211, 211)",
+    "name": "wishiwashi-solo"
+  },
+  {
+    "accent": "rgba(153, 186, 197, 0.9)",
+    "accent2": "rgb(23, 29, 31)",
+    "name": "mareanie"
+  },
+  {
+    "accent": "rgba(110, 124, 150, 0.9)",
+    "accent2": "rgb(222, 190, 172)",
+    "name": "toxapex"
+  },
+  {
+    "accent": "rgba(168, 136, 122, 0.9)",
+    "accent2": "rgb(41, 40, 40)",
+    "name": "mudbray"
+  },
+  {
+    "accent": "rgba(95, 129, 111, 0.9)",
+    "accent2": "rgb(196, 220, 175)",
+    "name": "mudsdale"
+  },
+  {
+    "accent": "rgba(91, 71, 68, 0.9)",
+    "accent2": "rgb(224, 112, 94)",
+    "name": "dewpider"
+  },
+  {
+    "accent": "rgba(171, 201, 190, 0.9)",
+    "accent2": "rgb(56, 78, 85)",
+    "name": "araquanid"
+  },
+  {
+    "accent": "rgba(109, 160, 135, 0.9)",
+    "accent2": "rgb(235, 168, 177)",
+    "name": "fomantis"
+  },
+  {
+    "accent": "rgba(214, 142, 148, 0.9)",
+    "accent2": "rgb(39, 39, 37)",
+    "name": "lurantis"
+  },
+  {
+    "accent": "rgba(223, 206, 215, 0.9)",
+    "accent2": "rgb(39, 36, 37)",
+    "name": "morelull"
+  },
+  {
+    "accent": "rgba(212, 187, 193, 0.9)",
+    "accent2": "rgb(33, 31, 31)",
+    "name": "shiinotic"
+  },
+  {
+    "accent": "rgba(73, 67, 66, 0.9)",
+    "accent2": "rgb(210, 101, 75)",
+    "name": "salandit"
+  },
+  {
+    "accent": "rgba(89, 84, 88, 0.9)",
+    "accent2": "rgb(228, 98, 141)",
+    "name": "salazzle"
+  },
+  {
+    "accent": "rgba(77, 56, 47, 0.9)",
+    "accent2": "rgb(233, 167, 182)",
+    "name": "stufful"
+  },
+  {
+    "accent": "rgba(58, 54, 53, 0.9)",
+    "accent2": "rgb(225, 161, 175)",
+    "name": "bewear"
+  },
+  {
+    "accent": "rgba(182, 159, 138, 0.9)",
+    "accent2": "rgb(20, 19, 17)",
+    "name": "bounsweet"
+  },
+  {
+    "accent": "rgba(159, 173, 122, 0.9)",
+    "accent2": "rgb(26, 25, 21)",
+    "name": "steenee"
+  },
+  {
+    "accent": "rgba(160, 161, 117, 0.9)",
+    "accent2": "rgb(29, 32, 25)",
+    "name": "tsareena"
+  },
+  {
+    "accent": "rgba(207, 165, 123, 0.9)",
+    "accent2": "rgb(51, 50, 41)",
+    "name": "comfey"
+  },
+  {
+    "accent": "rgba(159, 155, 158, 0.9)",
+    "accent2": "rgb(21, 20, 20)",
+    "name": "oranguru"
+  },
+  {
+    "accent": "rgba(88, 95, 81, 0.9)",
+    "accent2": "rgb(240, 241, 214)",
+    "name": "passimian"
+  },
+  {
+    "accent": "rgba(170, 165, 171, 0.9)",
+    "accent2": "rgb(23, 21, 23)",
+    "name": "wimpod"
+  },
+  {
+    "accent": "rgba(183, 189, 185, 0.9)",
+    "accent2": "rgb(42, 44, 43)",
+    "name": "golisopod"
+  },
+  {
+    "accent": "rgba(205, 189, 166, 0.9)",
+    "accent2": "rgb(67, 59, 50)",
+    "name": "sandygast"
+  },
+  {
+    "accent": "rgba(221, 166, 117, 0.9)",
+    "accent2": "rgb(85, 56, 40)",
+    "name": "palossand"
+  },
+  {
+    "accent": "rgba(77, 67, 68, 0.9)",
+    "accent2": "rgb(217, 109, 150)",
+    "name": "pyukumuku"
+  },
+  {
+    "accent": "rgba(98, 90, 86, 0.9)",
+    "accent2": "rgb(178, 183, 186)",
+    "name": "type-null"
+  },
+  {
+    "accent": "rgba(71, 77, 80, 0.9)",
+    "accent2": "rgb(228, 232, 238)",
+    "name": "silvally"
+  },
+  {
+    "accent": "rgba(117, 95, 93, 0.9)",
+    "accent2": "rgb(200, 168, 165)",
+    "name": "minior-red-meteor"
+  },
+  {
+    "accent": "rgba(170, 176, 175, 0.9)",
+    "accent2": "rgb(37, 37, 37)",
+    "name": "komala"
+  },
+  {
+    "accent": "rgba(179, 120, 84, 0.9)",
+    "accent2": "rgb(39, 31, 27)",
+    "name": "turtonator"
+  },
+  {
+    "accent": "rgba(207, 202, 185, 0.9)",
+    "accent2": "rgb(27, 25, 23)",
+    "name": "togedemaru"
+  },
+  {
+    "accent": "rgba(178, 165, 132, 0.9)",
+    "accent2": "rgb(25, 24, 23)",
+    "name": "mimikyu-disguised"
+  },
+  {
+    "accent": "rgba(177, 151, 158, 0.9)",
+    "accent2": "rgb(34, 31, 37)",
+    "name": "bruxish"
+  },
+  {
+    "accent": "rgba(192, 208, 193, 0.9)",
+    "accent2": "rgb(43, 59, 57)",
+    "name": "drampa"
+  },
+  {
+    "accent": "rgba(62, 84, 87, 0.9)",
+    "accent2": "rgb(215, 191, 102)",
+    "name": "dhelmise"
+  },
+  {
+    "accent": "rgba(217, 211, 180, 0.9)",
+    "accent2": "rgb(59, 59, 58)",
+    "name": "jangmo-o"
+  },
+  {
+    "accent": "rgba(184, 170, 126, 0.9)",
+    "accent2": "rgb(35, 33, 30)",
+    "name": "hakamo-o"
+  },
+  {
+    "accent": "rgba(174, 160, 119, 0.9)",
+    "accent2": "rgb(37, 34, 30)",
+    "name": "kommo-o"
+  },
+  {
+    "accent": "rgba(163, 132, 69, 0.9)",
+    "accent2": "rgb(33, 33, 30)",
+    "name": "tapu-koko"
+  },
+  {
+    "accent": "rgba(190, 121, 137, 0.9)",
+    "accent2": "rgb(45, 42, 42)",
+    "name": "tapu-lele"
+  },
+  {
+    "accent": "rgba(154, 97, 74, 0.9)",
+    "accent2": "rgb(35, 34, 30)",
+    "name": "tapu-bulu"
+  },
+  {
+    "accent": "rgba(95, 92, 120, 0.9)",
+    "accent2": "rgb(216, 224, 238)",
+    "name": "tapu-fini"
+  },
+  {
+    "accent": "rgba(46, 92, 147, 0.9)",
+    "accent2": "rgb(224, 192, 151)",
+    "name": "cosmog"
+  },
+  {
+    "accent": "rgba(177, 160, 116, 0.9)",
+    "accent2": "rgb(36, 43, 71)",
+    "name": "cosmoem"
+  },
+  {
+    "accent": "rgba(183, 176, 158, 0.9)",
+    "accent2": "rgb(26, 27, 29)",
+    "name": "solgaleo"
+  },
+  {
+    "accent": "rgba(69, 59, 106, 0.9)",
+    "accent2": "rgb(214, 215, 156)",
+    "name": "lunala"
+  },
+  {
+    "accent": "rgba(198, 208, 216, 0.9)",
+    "accent2": "rgb(104, 146, 181)",
+    "name": "nihilego"
+  },
+  {
+    "accent": "rgba(69, 40, 36, 0.9)",
+    "accent2": "rgb(236, 97, 78)",
+    "name": "buzzwole"
+  },
+  {
+    "accent": "rgba(219, 211, 200, 0.9)",
+    "accent2": "rgb(137, 114, 81)",
+    "name": "pheromosa"
+  },
+  {
+    "accent": "rgba(63, 64, 58, 0.9)",
+    "accent2": "rgb(223, 222, 213)",
+    "name": "xurkitree"
+  },
+  {
+    "accent": "rgba(92, 131, 121, 0.9)",
+    "accent2": "rgb(206, 222, 187)",
+    "name": "celesteela"
+  },
+  {
+    "accent": "rgba(223, 205, 169, 0.9)",
+    "accent2": "rgb(49, 42, 37)",
+    "name": "kartana"
+  },
+  {
+    "accent": "rgba(54, 72, 82, 0.9)",
+    "accent2": "rgb(235, 212, 108)",
+    "name": "guzzlord"
+  },
+  {
+    "accent": "rgba(50, 49, 49, 0.9)",
+    "accent2": "rgb(201, 196, 187)",
+    "name": "necrozma"
+  },
+  {
+    "accent": "rgba(195, 187, 180, 0.9)",
+    "accent2": "rgb(34, 32, 31)",
+    "name": "magearna"
+  },
+  {
+    "accent": "rgba(87, 89, 99, 0.9)",
+    "accent2": "rgb(201, 125, 80)",
+    "name": "marshadow"
+  },
+  {
+    "accent": "rgba(83, 62, 121, 0.9)",
+    "accent2": "rgb(210, 108, 168)",
+    "name": "poipole"
+  },
+  {
+    "accent": "rgba(79, 64, 127, 0.9)",
+    "accent2": "rgb(219, 159, 198)",
+    "name": "naganadel"
+  },
+  {
+    "accent": "rgba(85, 87, 83, 0.9)",
+    "accent2": "rgb(110, 192, 225)",
+    "name": "stakataka"
+  },
+  {
+    "accent": "rgba(217, 198, 193, 0.9)",
+    "accent2": "rgb(32, 85, 103)",
+    "name": "blacephalon"
+  },
+  {
+    "accent": "rgba(188, 173, 91, 0.9)",
+    "accent2": "rgb(47, 46, 46)",
+    "name": "zeraora"
+  },
+  {
+    "accent": "rgba(214, 193, 145, 0.9)",
+    "accent2": "rgb(47, 40, 34)",
+    "name": "meltan"
+  },
+  {
+    "accent": "rgba(152, 148, 140, 0.9)",
+    "accent2": "rgb(46, 42, 42)",
+    "name": "melmetal"
+  },
+  {
+    "accent": "rgba(163, 159, 85, 0.9)",
+    "accent2": "rgb(21, 21, 16)",
+    "name": "grookey"
+  },
+  {
+    "accent": "rgba(192, 180, 101, 0.9)",
+    "accent2": "rgb(43, 52, 42)",
+    "name": "thwackey"
+  },
+  {
+    "accent": "rgba(56, 84, 64, 0.9)",
+    "accent2": "rgb(172, 150, 133)",
+    "name": "rillaboom"
+  },
+  {
+    "accent": "rgba(196, 136, 105, 0.9)",
+    "accent2": "rgb(33, 29, 27)",
+    "name": "scorbunny"
+  },
+  {
+    "accent": "rgba(203, 167, 151, 0.9)",
+    "accent2": "rgb(60, 60, 60)",
+    "name": "raboot"
+  },
+  {
+    "accent": "rgba(188, 128, 89, 0.9)",
+    "accent2": "rgb(23, 37, 53)",
+    "name": "cinderace"
+  },
+  {
+    "accent": "rgba(162, 185, 175, 0.9)",
+    "accent2": "rgb(16, 55, 81)",
+    "name": "sobble"
+  },
+  {
+    "accent": "rgba(84, 132, 142, 0.9)",
+    "accent2": "rgb(182, 188, 152)",
+    "name": "drizzile"
+  },
+  {
+    "accent": "rgba(72, 103, 115, 0.9)",
+    "accent2": "rgb(219, 219, 127)",
+    "name": "inteleon"
+  },
+  {
+    "accent": "rgba(114, 103, 95, 0.9)",
+    "accent2": "rgb(212, 199, 186)",
+    "name": "skwovet"
+  },
+  {
+    "accent": "rgba(151, 100, 91, 0.9)",
+    "accent2": "rgb(29, 20, 19)",
+    "name": "greedent"
+  },
+  {
+    "accent": "rgba(62, 75, 89, 0.9)",
+    "accent2": "rgb(198, 179, 106)",
+    "name": "rookidee"
+  },
+  {
+    "accent": "rgba(51, 63, 79, 0.9)",
+    "accent2": "rgb(103, 132, 165)",
+    "name": "corvisquire"
+  },
+  {
+    "accent": "rgba(58, 58, 91, 0.9)",
+    "accent2": "rgb(205, 103, 102)",
+    "name": "corviknight"
+  },
+  {
+    "accent": "rgba(91, 88, 113, 0.9)",
+    "accent2": "rgb(217, 197, 152)",
+    "name": "blipbug"
+  },
+  {
+    "accent": "rgba(183, 153, 85, 0.9)",
+    "accent2": "rgb(32, 32, 42)",
+    "name": "dottler"
+  },
+  {
+    "accent": "rgba(80, 59, 69, 0.9)",
+    "accent2": "rgb(217, 96, 65)",
+    "name": "orbeetle"
+  },
+  {
+    "accent": "rgba(147, 85, 66, 0.9)",
+    "accent2": "rgb(34, 28, 24)",
+    "name": "nickit"
+  },
+  {
+    "accent": "rgba(155, 94, 74, 0.9)",
+    "accent2": "rgb(39, 32, 26)",
+    "name": "thievul"
+  },
+  {
+    "accent": "rgba(214, 165, 75, 0.9)",
+    "accent2": "rgb(40, 41, 30)",
+    "name": "gossifleur"
+  },
+  {
+    "accent": "rgba(208, 201, 133, 0.9)",
+    "accent2": "rgb(53, 53, 32)",
+    "name": "eldegoss"
+  },
+  {
+    "accent": "rgba(220, 214, 212, 0.9)",
+    "accent2": "rgb(65, 53, 52)",
+    "name": "wooloo"
+  },
+  {
+    "accent": "rgba(91, 83, 84, 0.9)",
+    "accent2": "rgb(218, 208, 204)",
+    "name": "dubwool"
+  },
+  {
+    "accent": "rgba(165, 156, 132, 0.9)",
+    "accent2": "rgb(32, 45, 46)",
+    "name": "chewtle"
+  },
+  {
+    "accent": "rgba(96, 110, 93, 0.9)",
+    "accent2": "rgb(223, 178, 94)",
+    "name": "drednaw"
+  },
+  {
+    "accent": "rgba(210, 192, 125, 0.9)",
+    "accent2": "rgb(29, 25, 21)",
+    "name": "yamper"
+  },
+  {
+    "accent": "rgba(94, 101, 83, 0.9)",
+    "accent2": "rgb(239, 217, 122)",
+    "name": "boltund"
+  },
+  {
+    "accent": "rgba(71, 66, 65, 0.9)",
+    "accent2": "rgb(225, 121, 50)",
+    "name": "rolycoly"
+  },
+  {
+    "accent": "rgba(53, 50, 50, 0.9)",
+    "accent2": "rgb(203, 104, 67)",
+    "name": "carkol"
+  },
+  {
+    "accent": "rgba(67, 63, 59, 0.9)",
+    "accent2": "rgb(199, 77, 50)",
+    "name": "coalossal"
+  },
+  {
+    "accent": "rgba(187, 116, 97, 0.9)",
+    "accent2": "rgb(23, 22, 16)",
+    "name": "applin"
+  },
+  {
+    "accent": "rgba(166, 126, 88, 0.9)",
+    "accent2": "rgb(26, 24, 17)",
+    "name": "flapple"
+  },
+  {
+    "accent": "rgba(167, 149, 102, 0.9)",
+    "accent2": "rgb(30, 31, 23)",
+    "name": "appletun"
+  },
+  {
+    "accent": "rgba(166, 160, 127, 0.9)",
+    "accent2": "rgb(39, 38, 33)",
+    "name": "silicobra"
+  },
+  {
+    "accent": "rgba(83, 79, 51, 0.9)",
+    "accent2": "rgb(230, 226, 208)",
+    "name": "sandaconda"
+  },
+  {
+    "accent": "rgba(18, 91, 142, 0.9)",
+    "accent2": "rgb(174, 170, 158)",
+    "name": "cramorant"
+  },
+  {
+    "accent": "rgba(169, 154, 128, 0.9)",
+    "accent2": "rgb(25, 22, 20)",
+    "name": "arrokuda"
+  },
+  {
+    "accent": "rgba(161, 124, 97, 0.9)",
+    "accent2": "rgb(31, 27, 23)",
+    "name": "barraskewda"
+  },
+  {
+    "accent": "rgba(160, 126, 172, 0.9)",
+    "accent2": "rgb(26, 20, 28)",
+    "name": "toxel"
+  },
+  {
+    "accent": "rgba(106, 83, 119, 0.9)",
+    "accent2": "rgb(232, 214, 124)",
+    "name": "toxtricity-amped"
+  },
+  {
+    "accent": "rgba(156, 69, 62, 0.9)",
+    "accent2": "rgb(29, 15, 16)",
+    "name": "sizzlipede"
+  },
+  {
+    "accent": "rgba(194, 113, 53, 0.9)",
+    "accent2": "rgb(62, 37, 39)",
+    "name": "centiskorch"
+  },
+  {
+    "accent": "rgba(219, 174, 153, 0.9)",
+    "accent2": "rgb(54, 52, 75)",
+    "name": "clobbopus"
+  },
+  {
+    "accent": "rgba(54, 61, 94, 0.9)",
+    "accent2": "rgb(209, 213, 82)",
+    "name": "grapploct"
+  },
+  {
+    "accent": "rgba(168, 174, 178, 0.9)",
+    "accent2": "rgb(45, 90, 90)",
+    "name": "sinistea"
+  },
+  {
+    "accent": "rgba(181, 180, 184, 0.9)",
+    "accent2": "rgb(47, 81, 84)",
+    "name": "polteageist"
+  },
+  {
+    "accent": "rgba(186, 192, 203, 0.9)",
+    "accent2": "rgb(25, 25, 26)",
+    "name": "hatenna"
+  },
+  {
+    "accent": "rgba(179, 195, 210, 0.9)",
+    "accent2": "rgb(29, 31, 32)",
+    "name": "hattrem"
+  },
+  {
+    "accent": "rgba(181, 184, 200, 0.9)",
+    "accent2": "rgb(37, 40, 43)",
+    "name": "hatterene"
+  },
+  {
+    "accent": "rgba(204, 117, 154, 0.9)",
+    "accent2": "rgb(45, 39, 57)",
+    "name": "impidimp"
+  },
+  {
+    "accent": "rgba(77, 67, 80, 0.9)",
+    "accent2": "rgb(213, 81, 119)",
+    "name": "morgrem"
+  },
+  {
+    "accent": "rgba(70, 78, 100, 0.9)",
+    "accent2": "rgb(211, 141, 146)",
+    "name": "grimmsnarl"
+  },
+  {
+    "accent": "rgba(95, 97, 100, 0.9)",
+    "accent2": "rgb(215, 206, 211)",
+    "name": "obstagoon"
+  },
+  {
+    "accent": "rgba(113, 109, 105, 0.9)",
+    "accent2": "rgb(215, 200, 189)",
+    "name": "perrserker"
+  },
+  {
+    "accent": "rgba(225, 221, 224, 0.9)",
+    "accent2": "rgb(58, 56, 56)",
+    "name": "cursola"
+  },
+  {
+    "accent": "rgba(193, 197, 160, 0.9)",
+    "accent2": "rgb(39, 68, 52)",
+    "name": "sirfetchd"
+  },
+  {
+    "accent": "rgba(84, 92, 120, 0.9)",
+    "accent2": "rgb(224, 205, 206)",
+    "name": "mr-rime"
+  },
+  {
+    "accent": "rgba(96, 89, 90, 0.9)",
+    "accent2": "rgb(198, 164, 160)",
+    "name": "runerigus"
+  },
+  {
+    "accent": "rgba(235, 228, 200, 0.9)",
+    "accent2": "rgb(184, 169, 130)",
+    "name": "milcery"
+  },
+  {
+    "accent": "rgba(249, 232, 213, 0.9)",
+    "accent2": "rgb(208, 85, 85)",
+    "name": "alcremie"
+  },
+  {
+    "accent": "rgba(182, 129, 77, 0.9)",
+    "accent2": "rgb(39, 44, 43)",
+    "name": "falinks"
+  },
+  {
+    "accent": "rgba(78, 64, 76, 0.9)",
+    "accent2": "rgb(223, 183, 70)",
+    "name": "pincurchin"
+  },
+  {
+    "accent": "rgba(203, 220, 239, 0.9)",
+    "accent2": "rgb(57, 80, 117)",
+    "name": "snom"
+  },
+  {
+    "accent": "rgba(204, 208, 220, 0.9)",
+    "accent2": "rgb(51, 61, 93)",
+    "name": "frosmoth"
+  },
+  {
+    "accent": "rgba(144, 138, 139, 0.9)",
+    "accent2": "rgb(35, 34, 36)",
+    "name": "stonjourner"
+  },
+  {
+    "accent": "rgba(181, 205, 212, 0.9)",
+    "accent2": "rgb(49, 58, 58)",
+    "name": "eiscue-ice"
+  },
+  {
+    "accent": "rgba(97, 91, 116, 0.9)",
+    "accent2": "rgb(198, 190, 194)",
+    "name": "indeedee-male"
+  },
+  {
+    "accent": "rgba(187, 171, 127, 0.9)",
+    "accent2": "rgb(42, 39, 36)",
+    "name": "morpeko-full-belly"
+  },
+  {
+    "accent": "rgba(227, 160, 120, 0.9)",
+    "accent2": "rgb(27, 86, 90)",
+    "name": "cufant"
+  },
+  {
+    "accent": "rgba(22, 85, 81, 0.9)",
+    "accent2": "rgb(201, 159, 126)",
+    "name": "copperajah"
+  },
+  {
+    "accent": "rgba(208, 130, 104, 0.9)",
+    "accent2": "rgb(22, 87, 76)",
+    "name": "dracozolt"
+  },
+  {
+    "accent": "rgba(188, 206, 193, 0.9)",
+    "accent2": "rgb(33, 112, 150)",
+    "name": "arctozolt"
+  },
+  {
+    "accent": "rgba(77, 106, 112, 0.9)",
+    "accent2": "rgb(222, 142, 150)",
+    "name": "dracovish"
+  },
+  {
+    "accent": "rgba(166, 196, 216, 0.9)",
+    "accent2": "rgb(35, 92, 131)",
+    "name": "arctovish"
+  },
+  {
+    "accent": "rgba(205, 205, 210, 0.9)",
+    "accent2": "rgb(43, 48, 64)",
+    "name": "duraludon"
+  },
+  {
+    "accent": "rgba(109, 139, 124, 0.9)",
+    "accent2": "rgb(231, 165, 150)",
+    "name": "dreepy"
+  },
+  {
+    "accent": "rgba(87, 119, 122, 0.9)",
+    "accent2": "rgb(228, 180, 153)",
+    "name": "drakloak"
+  },
+  {
+    "accent": "rgba(101, 145, 147, 0.9)",
+    "accent2": "rgb(233, 177, 175)",
+    "name": "dragapult"
+  },
+  {
+    "accent": "rgba(84, 106, 134, 0.9)",
+    "accent2": "rgb(231, 177, 158)",
+    "name": "zacian"
+  },
+  {
+    "accent": "rgba(96, 63, 81, 0.9)",
+    "accent2": "rgb(191, 192, 208)",
+    "name": "zamazenta"
+  },
+  {
+    "accent": "rgba(36, 30, 78, 0.9)",
+    "accent2": "rgb(226, 68, 100)",
+    "name": "eternatus"
+  },
+  {
+    "accent": "rgba(177, 173, 166, 0.9)",
+    "accent2": "rgb(29, 28, 28)",
+    "name": "kubfu"
+  },
+  {
+    "accent": "rgba(71, 71, 69, 0.9)",
+    "accent2": "rgb(225, 223, 190)",
+    "name": "urshifu-single-strike"
+  },
+  {
+    "accent": "rgba(44, 59, 48, 0.9)",
+    "accent2": "rgb(189, 171, 165)",
+    "name": "zarude"
+  },
+  {
+    "accent": "rgba(220, 224, 133, 0.9)",
+    "accent2": "rgb(63, 77, 99)",
+    "name": "regieleki"
+  },
+  {
+    "accent": "rgba(60, 66, 70, 0.9)",
+    "accent2": "rgb(212, 48, 104)",
+    "name": "regidrago"
+  },
+  {
+    "accent": "rgba(162, 178, 209, 0.9)",
+    "accent2": "rgb(44, 45, 49)",
+    "name": "glastrier"
+  },
+  {
+    "accent": "rgba(61, 61, 88, 0.9)",
+    "accent2": "rgb(201, 189, 216)",
+    "name": "spectrier"
+  },
+  {
+    "accent": "rgba(26, 76, 72, 0.9)",
+    "accent2": "rgb(181, 176, 177)",
+    "name": "calyrex"
+  },
+  {
+    "accent": "rgba(202, 191, 174, 0.9)",
+    "accent2": "rgb(47, 44, 45)",
+    "name": "wyrdeer"
+  },
+  {
+    "accent": "rgba(75, 61, 55, 0.9)",
+    "accent2": "rgb(208, 180, 134)",
+    "name": "kleavor"
+  },
+  {
+    "accent": "rgba(108, 94, 87, 0.9)",
+    "accent2": "rgb(227, 210, 179)",
+    "name": "ursaluna"
+  },
+  {
+    "accent": "rgba(174, 118, 129, 0.9)",
+    "accent2": "rgb(22, 24, 21)",
+    "name": "basculegion-male"
+  },
+  {
+    "accent": "rgba(107, 111, 139, 0.9)",
+    "accent2": "rgb(209, 160, 185)",
+    "name": "sneasler"
+  },
+  {
+    "accent": "rgba(166, 147, 152, 0.9)",
+    "accent2": "rgb(34, 40, 54)",
+    "name": "overqwil"
+  },
+  {
+    "accent": "rgba(177, 145, 164, 0.9)",
+    "accent2": "rgb(21, 16, 18)",
+    "name": "enamorus-incarnate"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "sprigatito"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "floragato"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "meowscarada"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "fuecoco"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "crocalor"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "skeledirge"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "quaxly"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "quaxwell"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "quaquaval"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "lechonk"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "oinkologne"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tarountula"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "spidops"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "nymble"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "lokix"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "pawmi"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "pawmo"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "pawmot"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tandemaus"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "maushold"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "fidough"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "dachsbun"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "smoliv"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "dolliv"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "arboliva"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "squawkabilly"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "nacli"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "naclstack"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "garganacl"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "charcadet"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "armarouge"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "ceruledge"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tadbulb"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "bellibolt"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "wattrel"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "kilowattrel"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "maschiff"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "mabosstiff"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "shroodle"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "grafaiai"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "bramblin"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "brambleghast"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "toedscool"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "toedscruel"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "klawf"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "capsakid"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "scovillain"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "rellor"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "rabsca"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "flittle"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "espathra"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tinkatink"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tinkatuff"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tinkaton"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "wiglett"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "wugtrio"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "bombirdier"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "finizen"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "palafin"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "varoom"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "revavroom"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "cyclizar"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "orthworm"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "glimmet"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "glimmora"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "greavard"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "houndstone"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "flamigo"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "cetoddle"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "cetitan"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "veluza"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "dondozo"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tatsugiri"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "annihilape"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "clodsire"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "farigiraf"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "dudunsparce"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "kingambit"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "great-tusk"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "scream-tail"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "brute-bonnet"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "flutter-mane"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "slither-wing"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "sandy-shocks"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-treads"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-bundle"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-hands"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-jugulis"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-moth"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-thorns"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "frigibax"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "arctibax"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "baxcalibur"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "gimmighoul"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "gholdengo"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "wo-chien"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "chien-pao"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "ting-lu"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "chi-yu"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "roaring-moon"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "iron-valiant"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "koraidon"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "miraidon"
+  },
+  {
+    "accent": "rgba(164, 131, 115, 0.9)",
+    "accent2": "rgb(27, 26, 26)",
+    "name": "deoxys-attack"
+  },
+  {
+    "accent": "rgba(189, 139, 118, 0.9)",
+    "accent2": "rgb(45, 55, 61)",
+    "name": "deoxys-defense"
+  },
+  {
+    "accent": "rgba(148, 131, 116, 0.9)",
+    "accent2": "rgb(30, 28, 29)",
+    "name": "deoxys-speed"
+  },
+  {
+    "accent": "rgba(178, 154, 122, 0.9)",
+    "accent2": "rgb(27, 25, 21)",
+    "name": "wormadam-sandy"
+  },
+  {
+    "accent": "rgba(187, 125, 141, 0.9)",
+    "accent2": "rgb(28, 23, 25)",
+    "name": "wormadam-trash"
+  },
+  {
+    "accent": "rgba(199, 190, 170, 0.9)",
+    "accent2": "rgb(30, 32, 26)",
+    "name": "shaymin-sky"
+  },
+  {
+    "accent": "rgba(76, 67, 67, 0.9)",
+    "accent2": "rgb(193, 171, 125)",
+    "name": "giratina-origin"
+  },
+  {
+    "accent": "rgba(211, 123, 110, 0.9)",
+    "accent2": "rgb(48, 44, 43)",
+    "name": "rotom-heat"
+  },
+  {
+    "accent": "rgba(67, 133, 150, 0.9)",
+    "accent2": "rgb(218, 128, 96)",
+    "name": "rotom-wash"
+  },
+  {
+    "accent": "rgba(188, 130, 132, 0.9)",
+    "accent2": "rgb(47, 41, 40)",
+    "name": "rotom-frost"
+  },
+  {
+    "accent": "rgba(224, 180, 127, 0.9)",
+    "accent2": "rgb(74, 72, 67)",
+    "name": "rotom-fan"
+  },
+  {
+    "accent": "rgba(187, 154, 102, 0.9)",
+    "accent2": "rgb(54, 63, 55)",
+    "name": "rotom-mow"
+  },
+  {
+    "accent": "rgba(207, 207, 212, 0.9)",
+    "accent2": "rgb(21, 21, 21)",
+    "name": "castform-sunny"
+  },
+  {
+    "accent": "rgba(207, 207, 212, 0.9)",
+    "accent2": "rgb(21, 21, 21)",
+    "name": "castform-rainy"
+  },
+  {
+    "accent": "rgba(207, 207, 212, 0.9)",
+    "accent2": "rgb(21, 21, 21)",
+    "name": "castform-snowy"
+  },
+  {
+    "accent": "rgba(86, 137, 104, 0.9)",
+    "accent2": "rgb(222, 229, 222)",
+    "name": "basculin-blue-striped"
+  },
+  {
+    "accent": "rgba(82, 131, 144, 0.9)",
+    "accent2": "rgb(191, 210, 221)",
+    "name": "darmanitan-zen"
+  },
+  {
+    "accent": "rgba(184, 147, 136, 0.9)",
+    "accent2": "rgb(29, 24, 23)",
+    "name": "meloetta-pirouette"
+  },
+  {
+    "accent": "rgba(117, 129, 111, 0.9)",
+    "accent2": "rgb(228, 220, 217)",
+    "name": "tornadus-therian"
+  },
+  {
+    "accent": "rgba(107, 117, 142, 0.9)",
+    "accent2": "rgb(238, 238, 238)",
+    "name": "thundurus-therian"
+  },
+  {
+    "accent": "rgba(183, 145, 127, 0.9)",
+    "accent2": "rgb(38, 29, 27)",
+    "name": "landorus-therian"
+  },
+  {
+    "accent": "rgba(79, 84, 85, 0.9)",
+    "accent2": "rgb(198, 213, 214)",
+    "name": "kyurem-black"
+  },
+  {
+    "accent": "rgba(164, 171, 171, 0.9)",
+    "accent2": "rgb(37, 38, 39)",
+    "name": "kyurem-white"
+  },
+  {
+    "accent": "rgba(182, 168, 155, 0.9)",
+    "accent2": "rgb(40, 49, 59)",
+    "name": "keldeo-resolute"
+  },
+  {
+    "accent": "rgba(210, 210, 216, 0.9)",
+    "accent2": "rgb(48, 66, 105)",
+    "name": "meowstic-female"
+  },
+  {
+    "accent": "rgba(196, 184, 153, 0.9)",
+    "accent2": "rgb(52, 48, 47)",
+    "name": "aegislash-blade"
+  },
+  {
+    "accent": "rgba(100, 85, 67, 0.9)",
+    "accent2": "rgb(224, 164, 119)",
+    "name": "pumpkaboo-small"
+  },
+  {
+    "accent": "rgba(100, 85, 67, 0.9)",
+    "accent2": "rgb(224, 164, 119)",
+    "name": "pumpkaboo-large"
+  },
+  {
+    "accent": "rgba(100, 85, 67, 0.9)",
+    "accent2": "rgb(224, 164, 119)",
+    "name": "pumpkaboo-super"
+  },
+  {
+    "accent": "rgba(169, 129, 93, 0.9)",
+    "accent2": "rgb(26, 20, 18)",
+    "name": "gourgeist-small"
+  },
+  {
+    "accent": "rgba(169, 129, 93, 0.9)",
+    "accent2": "rgb(26, 20, 18)",
+    "name": "gourgeist-large"
+  },
+  {
+    "accent": "rgba(169, 129, 93, 0.9)",
+    "accent2": "rgb(26, 20, 18)",
+    "name": "gourgeist-super"
+  },
+  {
+    "accent": "rgba(91, 133, 124, 0.9)",
+    "accent2": "rgb(234, 173, 173)",
+    "name": "venusaur-mega"
+  },
+  {
+    "accent": "rgba(79, 107, 127, 0.9)",
+    "accent2": "rgb(194, 208, 219)",
+    "name": "charizard-mega-x"
+  },
+  {
+    "accent": "rgba(217, 152, 114, 0.9)",
+    "accent2": "rgb(60, 65, 72)",
+    "name": "charizard-mega-y"
+  },
+  {
+    "accent": "rgba(155, 159, 164, 0.9)",
+    "accent2": "rgb(35, 38, 43)",
+    "name": "blastoise-mega"
+  },
+  {
+    "accent": "rgba(195, 177, 162, 0.9)",
+    "accent2": "rgb(49, 47, 46)",
+    "name": "alakazam-mega"
+  },
+  {
+    "accent": "rgba(99, 67, 92, 0.9)",
+    "accent2": "rgb(211, 111, 128)",
+    "name": "gengar-mega"
+  },
+  {
+    "accent": "rgba(184, 166, 153, 0.9)",
+    "accent2": "rgb(33, 29, 28)",
+    "name": "kangaskhan-mega"
+  },
+  {
+    "accent": "rgba(200, 186, 153, 0.9)",
+    "accent2": "rgb(56, 51, 49)",
+    "name": "pinsir-mega"
+  },
+  {
+    "accent": "rgba(47, 95, 113, 0.9)",
+    "accent2": "rgb(226, 207, 158)",
+    "name": "gyarados-mega"
+  },
+  {
+    "accent": "rgba(109, 96, 109, 0.9)",
+    "accent2": "rgb(196, 184, 197)",
+    "name": "aerodactyl-mega"
+  },
+  {
+    "accent": "rgba(199, 184, 197, 0.9)",
+    "accent2": "rgb(39, 35, 37)",
+    "name": "mewtwo-mega-x"
+  },
+  {
+    "accent": "rgba(193, 173, 187, 0.9)",
+    "accent2": "rgb(30, 26, 27)",
+    "name": "mewtwo-mega-y"
+  },
+  {
+    "accent": "rgba(213, 203, 177, 0.9)",
+    "accent2": "rgb(46, 43, 42)",
+    "name": "ampharos-mega"
+  },
+  {
+    "accent": "rgba(176, 115, 109, 0.9)",
+    "accent2": "rgb(51, 51, 51)",
+    "name": "scizor-mega"
+  },
+  {
+    "accent": "rgba(69, 88, 115, 0.9)",
+    "accent2": "rgb(222, 162, 131)",
+    "name": "heracross-mega"
+  },
+  {
+    "accent": "rgba(78, 73, 76, 0.9)",
+    "accent2": "rgb(227, 224, 232)",
+    "name": "houndoom-mega"
+  },
+  {
+    "accent": "rgba(146, 157, 110, 0.9)",
+    "accent2": "rgb(33, 33, 28)",
+    "name": "tyranitar-mega"
+  },
+  {
+    "accent": "rgba(220, 155, 125, 0.9)",
+    "accent2": "rgb(53, 49, 48)",
+    "name": "blaziken-mega"
+  },
+  {
+    "accent": "rgba(227, 229, 232, 0.9)",
+    "accent2": "rgb(48, 49, 50)",
+    "name": "gardevoir-mega"
+  },
+  {
+    "accent": "rgba(87, 83, 91, 0.9)",
+    "accent2": "rgb(218, 169, 167)",
+    "name": "mawile-mega"
+  },
+  {
+    "accent": "rgba(168, 173, 184, 0.9)",
+    "accent2": "rgb(41, 43, 49)",
+    "name": "aggron-mega"
+  },
+  {
+    "accent": "rgba(212, 189, 188, 0.9)",
+    "accent2": "rgb(45, 51, 56)",
+    "name": "medicham-mega"
+  },
+  {
+    "accent": "rgba(221, 224, 143, 0.9)",
+    "accent2": "rgb(71, 114, 125)",
+    "name": "manectric-mega"
+  },
+  {
+    "accent": "rgba(83, 81, 81, 0.9)",
+    "accent2": "rgb(232, 141, 114)",
+    "name": "banette-mega"
+  },
+  {
+    "accent": "rgba(195, 203, 221, 0.9)",
+    "accent2": "rgb(44, 52, 68)",
+    "name": "absol-mega"
+  },
+  {
+    "accent": "rgba(90, 89, 107, 0.9)",
+    "accent2": "rgb(218, 150, 102)",
+    "name": "garchomp-mega"
+  },
+  {
+    "accent": "rgba(114, 102, 98, 0.9)",
+    "accent2": "rgb(222, 203, 153)",
+    "name": "lucario-mega"
+  },
+  {
+    "accent": "rgba(197, 207, 215, 0.9)",
+    "accent2": "rgb(55, 71, 74)",
+    "name": "abomasnow-mega"
+  },
+  {
+    "accent": "rgba(35, 36, 57, 0.9)",
+    "accent2": "rgb(208, 156, 167)",
+    "name": "floette-eternal"
+  },
+  {
+    "accent": "rgba(144, 140, 173, 0.9)",
+    "accent2": "rgb(18, 18, 19)",
+    "name": "latias-mega"
+  },
+  {
+    "accent": "rgba(142, 137, 169, 0.9)",
+    "accent2": "rgb(24, 24, 26)",
+    "name": "latios-mega"
+  },
+  {
+    "accent": "rgba(76, 95, 107, 0.9)",
+    "accent2": "rgb(221, 116, 101)",
+    "name": "swampert-mega"
+  },
+  {
+    "accent": "rgba(92, 115, 82, 0.9)",
+    "accent2": "rgb(227, 150, 111)",
+    "name": "sceptile-mega"
+  },
+  {
+    "accent": "rgba(201, 104, 135, 0.9)",
+    "accent2": "rgb(76, 63, 89)",
+    "name": "sableye-mega"
+  },
+  {
+    "accent": "rgba(217, 225, 235, 0.9)",
+    "accent2": "rgb(41, 44, 46)",
+    "name": "altaria-mega"
+  },
+  {
+    "accent": "rgba(155, 179, 183, 0.9)",
+    "accent2": "rgb(23, 28, 25)",
+    "name": "gallade-mega"
+  },
+  {
+    "accent": "rgba(233, 225, 220, 0.9)",
+    "accent2": "rgb(39, 37, 36)",
+    "name": "audino-mega"
+  },
+  {
+    "accent": "rgba(173, 165, 165, 0.9)",
+    "accent2": "rgb(41, 74, 108)",
+    "name": "sharpedo-mega"
+  },
+  {
+    "accent": "rgba(185, 176, 174, 0.9)",
+    "accent2": "rgb(28, 27, 25)",
+    "name": "slowbro-mega"
+  },
+  {
+    "accent": "rgba(150, 160, 174, 0.9)",
+    "accent2": "rgb(36, 55, 63)",
+    "name": "steelix-mega"
+  },
+  {
+    "accent": "rgba(179, 149, 140, 0.9)",
+    "accent2": "rgb(43, 71, 83)",
+    "name": "pidgeot-mega"
+  },
+  {
+    "accent": "rgba(77, 90, 102, 0.9)",
+    "accent2": "rgb(202, 214, 229)",
+    "name": "glalie-mega"
+  },
+  {
+    "accent": "rgba(234, 213, 221, 0.9)",
+    "accent2": "rgb(55, 50, 52)",
+    "name": "diancie-mega"
+  },
+  {
+    "accent": "rgba(93, 111, 117, 0.9)",
+    "accent2": "rgb(214, 206, 185)",
+    "name": "metagross-mega"
+  },
+  {
+    "accent": "rgba(85, 87, 136, 0.9)",
+    "accent2": "rgb(230, 229, 214)",
+    "name": "kyogre-primal"
+  },
+  {
+    "accent": "rgba(187, 132, 129, 0.9)",
+    "accent2": "rgb(55, 48, 55)",
+    "name": "groudon-primal"
+  },
+  {
+    "accent": "rgba(70, 112, 98, 0.9)",
+    "accent2": "rgb(238, 171, 118)",
+    "name": "rayquaza-mega"
+  },
+  {
+    "accent": "rgba(193, 157, 110, 0.9)",
+    "accent2": "rgb(52, 51, 52)",
+    "name": "pikachu-rock-star"
+  },
+  {
+    "accent": "rgba(214, 203, 175, 0.9)",
+    "accent2": "rgb(53, 69, 94)",
+    "name": "pikachu-belle"
+  },
+  {
+    "accent": "rgba(213, 169, 136, 0.9)",
+    "accent2": "rgb(46, 43, 41)",
+    "name": "pikachu-pop-star"
+  },
+  {
+    "accent": "rgba(182, 168, 138, 0.9)",
+    "accent2": "rgb(38, 38, 36)",
+    "name": "pikachu-phd"
+  },
+  {
+    "accent": "rgba(221, 183, 112, 0.9)",
+    "accent2": "rgb(55, 53, 54)",
+    "name": "pikachu-libre"
+  },
+  {
+    "accent": "rgba(217, 190, 119, 0.9)",
+    "accent2": "rgb(42, 31, 20)",
+    "name": "pikachu-cosplay"
+  },
+  {
+    "accent": "rgba(155, 132, 147, 0.9)",
+    "accent2": "rgb(26, 25, 25)",
+    "name": "hoopa-unbound"
+  },
+  {
+    "accent": "rgba(213, 141, 123, 0.9)",
+    "accent2": "rgb(62, 60, 59)",
+    "name": "camerupt-mega"
+  },
+  {
+    "accent": "rgba(173, 146, 124, 0.9)",
+    "accent2": "rgb(37, 33, 30)",
+    "name": "lopunny-mega"
+  },
+  {
+    "accent": "rgba(154, 81, 82, 0.9)",
+    "accent2": "rgb(46, 77, 91)",
+    "name": "salamence-mega"
+  },
+  {
+    "accent": "rgba(213, 204, 171, 0.9)",
+    "accent2": "rgb(46, 44, 47)",
+    "name": "beedrill-mega"
+  },
+  {
+    "accent": "rgba(81, 80, 75, 0.9)",
+    "accent2": "rgb(201, 176, 153)",
+    "name": "rattata-alola"
+  },
+  {
+    "accent": "rgba(89, 83, 75, 0.9)",
+    "accent2": "rgb(232, 219, 204)",
+    "name": "raticate-alola"
+  },
+  {
+    "accent": "rgba(89, 83, 75, 0.9)",
+    "accent2": "rgb(232, 219, 204)",
+    "name": "raticate-totem-alola"
+  },
+  {
+    "accent": "rgba(219, 184, 125, 0.9)",
+    "accent2": "rgb(36, 29, 25)",
+    "name": "pikachu-original-cap"
+  },
+  {
+    "accent": "rgba(214, 169, 107, 0.9)",
+    "accent2": "rgb(43, 35, 36)",
+    "name": "pikachu-hoenn-cap"
+  },
+  {
+    "accent": "rgba(209, 165, 111, 0.9)",
+    "accent2": "rgb(53, 42, 46)",
+    "name": "pikachu-sinnoh-cap"
+  },
+  {
+    "accent": "rgba(216, 182, 123, 0.9)",
+    "accent2": "rgb(37, 36, 40)",
+    "name": "pikachu-unova-cap"
+  },
+  {
+    "accent": "rgba(208, 166, 112, 0.9)",
+    "accent2": "rgb(36, 24, 21)",
+    "name": "pikachu-kalos-cap"
+  },
+  {
+    "accent": "rgba(215, 170, 113, 0.9)",
+    "accent2": "rgb(39, 30, 30)",
+    "name": "pikachu-alola-cap"
+  },
+  {
+    "accent": "rgba(205, 181, 115, 0.9)",
+    "accent2": "rgb(31, 27, 21)",
+    "name": "raichu-alola"
+  },
+  {
+    "accent": "rgba(196, 208, 221, 0.9)",
+    "accent2": "rgb(32, 36, 44)",
+    "name": "sandshrew-alola"
+  },
+  {
+    "accent": "rgba(161, 190, 210, 0.9)",
+    "accent2": "rgb(22, 23, 26)",
+    "name": "sandslash-alola"
+  },
+  {
+    "accent": "rgba(219, 230, 239, 0.9)",
+    "accent2": "rgb(37, 48, 58)",
+    "name": "vulpix-alola"
+  },
+  {
+    "accent": "rgba(197, 223, 237, 0.9)",
+    "accent2": "rgb(42, 114, 162)",
+    "name": "ninetales-alola"
+  },
+  {
+    "accent": "rgba(146, 106, 67, 0.9)",
+    "accent2": "rgb(30, 28, 24)",
+    "name": "diglett-alola"
+  },
+  {
+    "accent": "rgba(169, 139, 90, 0.9)",
+    "accent2": "rgb(31, 28, 24)",
+    "name": "dugtrio-alola"
+  },
+  {
+    "accent": "rgba(190, 189, 198, 0.9)",
+    "accent2": "rgb(41, 45, 51)",
+    "name": "meowth-alola"
+  },
+  {
+    "accent": "rgba(184, 185, 200, 0.9)",
+    "accent2": "rgb(32, 37, 42)",
+    "name": "persian-alola"
+  },
+  {
+    "accent": "rgba(162, 160, 169, 0.9)",
+    "accent2": "rgb(23, 22, 22)",
+    "name": "geodude-alola"
+  },
+  {
+    "accent": "rgba(157, 152, 143, 0.9)",
+    "accent2": "rgb(33, 31, 31)",
+    "name": "graveler-alola"
+  },
+  {
+    "accent": "rgba(95, 90, 90, 0.9)",
+    "accent2": "rgb(212, 194, 176)",
+    "name": "golem-alola"
+  },
+  {
+    "accent": "rgba(103, 135, 106, 0.9)",
+    "accent2": "rgb(246, 238, 91)",
+    "name": "grimer-alola"
+  },
+  {
+    "accent": "rgba(78, 104, 116, 0.9)",
+    "accent2": "rgb(242, 184, 114)",
+    "name": "muk-alola"
+  },
+  {
+    "accent": "rgba(99, 96, 63, 0.9)",
+    "accent2": "rgb(208, 191, 137)",
+    "name": "exeggutor-alola"
+  },
+  {
+    "accent": "rgba(99, 115, 114, 0.9)",
+    "accent2": "rgb(210, 209, 204)",
+    "name": "marowak-alola"
+  },
+  {
+    "accent": "rgba(32, 46, 92, 0.9)",
+    "accent2": "rgb(216, 158, 147)",
+    "name": "greninja-battle-bond"
+  },
+  {
+    "accent": "rgba(65, 101, 131, 0.9)",
+    "accent2": "rgb(212, 167, 169)",
+    "name": "greninja-ash"
+  },
+  {
+    "accent": "rgba(84, 89, 75, 0.9)",
+    "accent2": "rgb(193, 216, 138)",
+    "name": "zygarde-10-power-construct"
+  },
+  {
+    "accent": "rgba(223, 218, 98, 0.9)",
+    "accent2": "rgb(43, 40, 24)",
+    "name": "zygarde-50-power-construct"
+  },
+  {
+    "accent": "rgba(89, 92, 61, 0.9)",
+    "accent2": "rgb(192, 212, 128)",
+    "name": "zygarde-complete"
+  },
+  {
+    "accent": "rgba(78, 73, 62, 0.9)",
+    "accent2": "rgb(204, 203, 150)",
+    "name": "gumshoos-totem"
+  },
+  {
+    "accent": "rgba(227, 194, 192, 0.9)",
+    "accent2": "rgb(35, 28, 28)",
+    "name": "vikavolt-totem"
+  },
+  {
+    "accent": "rgba(169, 171, 197, 0.9)",
+    "accent2": "rgb(25, 24, 27)",
+    "name": "oricorio-pom-pom"
+  },
+  {
+    "accent": "rgba(102, 78, 78, 0.9)",
+    "accent2": "rgb(227, 213, 214)",
+    "name": "oricorio-pau"
+  },
+  {
+    "accent": "rgba(42, 73, 108, 0.9)",
+    "accent2": "rgb(204, 214, 227)",
+    "name": "oricorio-sensu"
+  },
+  {
+    "accent": "rgba(214, 142, 148, 0.9)",
+    "accent2": "rgb(39, 39, 37)",
+    "name": "lycanroc-midnight"
+  },
+  {
+    "accent": "rgba(89, 84, 88, 0.9)",
+    "accent2": "rgb(228, 98, 141)",
+    "name": "wishiwashi-school"
+  },
+  {
+    "accent": "rgba(216, 107, 148, 0.9)",
+    "accent2": "rgb(248, 220, 231)",
+    "name": "lurantis-totem"
+  },
+  {
+    "accent": "rgba(240, 168, 57, 0.9)",
+    "accent2": "rgb(251, 236, 190)",
+    "name": "salazzle-totem"
+  },
+  {
+    "accent": "rgba(246, 236, 90, 0.9)",
+    "accent2": "rgb(251, 250, 216)",
+    "name": "minior-orange-meteor"
+  },
+  {
+    "accent": "rgba(141, 197, 108, 0.9)",
+    "accent2": "rgb(234, 243, 217)",
+    "name": "minior-yellow-meteor"
+  },
+  {
+    "accent": "rgba(34, 182, 217, 0.9)",
+    "accent2": "rgb(209, 228, 240)",
+    "name": "minior-green-meteor"
+  },
+  {
+    "accent": "rgba(182, 135, 185, 0.9)",
+    "accent2": "rgb(235, 233, 245)",
+    "name": "minior-blue-meteor"
+  },
+  {
+    "accent": "rgba(181, 224, 234, 0.9)",
+    "accent2": "rgb(16, 169, 210)",
+    "name": "minior-indigo-meteor"
+  },
+  {
+    "accent": "rgba(178, 165, 132, 0.9)",
+    "accent2": "rgb(25, 24, 23)",
+    "name": "minior-violet-meteor"
+  },
+  {
+    "accent": "rgba(174, 160, 119, 0.9)",
+    "accent2": "rgb(37, 34, 30)",
+    "name": "minior-red"
+  },
+  {
+    "accent": "rgba(220, 184, 121, 0.9)",
+    "accent2": "rgb(30, 34, 23)",
+    "name": "minior-orange"
+  },
+  {
+    "accent": "rgba(99, 115, 114, 0.9)",
+    "accent2": "rgb(210, 209, 204)",
+    "name": "minior-yellow"
+  },
+  {
+    "accent": "rgba(199, 177, 128, 0.9)",
+    "accent2": "rgb(41, 35, 31)",
+    "name": "minior-green"
+  },
+  {
+    "accent": "rgba(174, 158, 149, 0.9)",
+    "accent2": "rgb(30, 27, 25)",
+    "name": "minior-blue"
+  },
+  {
+    "accent": "rgba(175, 140, 120, 0.9)",
+    "accent2": "rgb(30, 29, 27)",
+    "name": "minior-indigo"
+  },
+  {
+    "accent": "rgba(115, 59, 30, 0.9)",
+    "accent2": "rgb(222, 218, 159)",
+    "name": "minior-violet"
+  },
+  {
+    "accent": "rgba(171, 201, 190, 0.9)",
+    "accent2": "rgb(56, 78, 85)",
+    "name": "mimikyu-busted"
+  },
+  {
+    "accent": "rgba(207, 202, 185, 0.9)",
+    "accent2": "rgb(27, 25, 23)",
+    "name": "mimikyu-totem-disguised"
+  },
+  {
+    "accent": "rgba(43, 43, 42, 0.9)",
+    "accent2": "rgb(244, 233, 199)",
+    "name": "mimikyu-totem-busted"
+  },
+  {
+    "accent": "rgba(206, 223, 235, 0.9)",
+    "accent2": "rgb(36, 37, 38)",
+    "name": "kommo-o-totem"
+  },
+  {
+    "accent": "rgba(240, 237, 210, 0.9)",
+    "accent2": "rgb(207, 195, 109)",
+    "name": "magearna-original"
+  },
+  {
+    "accent": "rgba(225, 183, 77, 0.9)",
+    "accent2": "rgb(65, 38, 32)",
+    "name": "pikachu-partner-cap"
+  },
+  {
+    "accent": "rgba(202, 159, 110, 0.9)",
+    "accent2": "rgb(72, 36, 26)",
+    "name": "marowak-totem"
+  },
+  {
+    "accent": "rgba(225, 188, 121, 0.9)",
+    "accent2": "rgb(42, 35, 31)",
+    "name": "ribombee-totem"
+  },
+  {
+    "accent": "rgba(156, 143, 129, 0.9)",
+    "accent2": "rgb(37, 42, 41)",
+    "name": "rockruff-own-tempo"
+  },
+  {
+    "accent": "rgba(191, 189, 210, 0.9)",
+    "accent2": "rgb(50, 40, 62)",
+    "name": "lycanroc-dusk"
+  },
+  {
+    "accent": "rgba(179, 186, 204, 0.9)",
+    "accent2": "rgb(40, 34, 43)",
+    "name": "araquanid-totem"
+  },
+  {
+    "accent": "rgba(226, 185, 169, 0.9)",
+    "accent2": "rgb(40, 34, 32)",
+    "name": "togedemaru-totem"
+  },
+  {
+    "accent": "rgba(192, 166, 188, 0.9)",
+    "accent2": "rgb(33, 30, 34)",
+    "name": "necrozma-dusk"
+  },
+  {
+    "accent": "rgba(86, 92, 72, 0.9)",
+    "accent2": "rgb(211, 192, 158)",
+    "name": "necrozma-dawn"
+  },
+  {
+    "accent": "rgba(147, 153, 135, 0.9)",
+    "accent2": "rgb(24, 24, 24)",
+    "name": "necrozma-ultra"
+  },
+  {
+    "accent": "rgba(86, 103, 126, 0.9)",
+    "accent2": "rgb(234, 232, 232)",
+    "name": "pikachu-starter"
+  },
+  {
+    "accent": "rgba(197, 106, 74, 0.9)",
+    "accent2": "rgb(39, 39, 39)",
+    "name": "eevee-starter"
+  },
+  {
+    "accent": "rgba(148, 132, 168, 0.9)",
+    "accent2": "rgb(40, 42, 46)",
+    "name": "pikachu-world-cap"
+  },
+  {
+    "accent": "rgba(103, 90, 118, 0.9)",
+    "accent2": "rgb(221, 184, 194)",
+    "name": "meowth-galar"
+  },
+  {
+    "accent": "rgba(66, 68, 70, 0.9)",
+    "accent2": "rgb(216, 202, 206)",
+    "name": "ponyta-galar"
+  },
+  {
+    "accent": "rgba(216, 75, 123, 0.9)",
+    "accent2": "rgb(47, 57, 56)",
+    "name": "rapidash-galar"
+  },
+  {
+    "accent": "rgba(222, 219, 217, 0.9)",
+    "accent2": "rgb(41, 40, 40)",
+    "name": "slowpoke-galar"
+  },
+  {
+    "accent": "rgba(186, 208, 215, 0.9)",
+    "accent2": "rgb(45, 77, 96)",
+    "name": "slowbro-galar"
+  },
+  {
+    "accent": "rgba(66, 68, 71, 0.9)",
+    "accent2": "rgb(225, 220, 221)",
+    "name": "farfetchd-galar"
+  },
+  {
+    "accent": "rgba(230, 226, 223, 0.9)",
+    "accent2": "rgb(226, 129, 81)",
+    "name": "weezing-galar"
+  },
+  {
+    "accent": "rgba(210, 219, 225, 0.9)",
+    "accent2": "rgb(46, 74, 89)",
+    "name": "mr-mime-galar"
+  },
+  {
+    "accent": "rgba(75, 68, 73, 0.9)",
+    "accent2": "rgb(193, 153, 154)",
+    "name": "articuno-galar"
+  },
+  {
+    "accent": "rgba(114, 113, 99, 0.9)",
+    "accent2": "rgb(220, 209, 193)",
+    "name": "zapdos-galar"
+  },
+  {
+    "accent": "rgba(84, 89, 75, 0.9)",
+    "accent2": "rgb(193, 216, 138)",
+    "name": "moltres-galar"
+  },
+  {
+    "accent": "rgba(20, 109, 183, 0.9)",
+    "accent2": "rgb(206, 203, 180)",
+    "name": "slowking-galar"
+  },
+  {
+    "accent": "rgba(18, 111, 190, 0.9)",
+    "accent2": "rgb(230, 217, 88)",
+    "name": "corsola-galar"
+  },
+  {
+    "accent": "rgba(114, 115, 148, 0.9)",
+    "accent2": "rgb(208, 226, 233)",
+    "name": "zigzagoon-galar"
+  },
+  {
+    "accent": "rgba(193, 199, 200, 0.9)",
+    "accent2": "rgb(44, 47, 50)",
+    "name": "linoone-galar"
+  },
+  {
+    "accent": "rgba(102, 95, 117, 0.9)",
+    "accent2": "rgb(207, 201, 203)",
+    "name": "darumaka-galar"
+  },
+  {
+    "accent": "rgba(111, 91, 117, 0.9)",
+    "accent2": "rgb(227, 143, 147)",
+    "name": "darmanitan-galar-standard"
+  },
+  {
+    "accent": "rgba(83, 64, 88, 0.9)",
+    "accent2": "rgb(210, 198, 135)",
+    "name": "darmanitan-galar-zen"
+  },
+  {
+    "accent": "rgba(166, 152, 141, 0.9)",
+    "accent2": "rgb(37, 52, 71)",
+    "name": "yamask-galar"
+  },
+  {
+    "accent": "rgba(32, 31, 81, 0.9)",
+    "accent2": "rgb(228, 106, 149)",
+    "name": "stunfisk-galar"
+  },
+  {
+    "accent": "rgba(68, 68, 66, 0.9)",
+    "accent2": "rgb(217, 216, 186)",
+    "name": "zygarde-10"
+  },
+  {
+    "accent": "rgba(55, 62, 52, 0.9)",
+    "accent2": "rgb(178, 134, 166)",
+    "name": "cramorant-gulping"
+  },
+  {
+    "accent": "rgba(76, 55, 70, 0.9)",
+    "accent2": "rgb(200, 117, 82)",
+    "name": "cramorant-gorging"
+  },
+  {
+    "accent": "rgba(165, 179, 191, 0.9)",
+    "accent2": "rgb(40, 74, 81)",
+    "name": "toxtricity-low-key"
+  },
+  {
+    "accent": "rgba(132, 53, 104, 0.9)",
+    "accent2": "rgb(38, 22, 24)",
+    "name": "eiscue-noice"
+  },
+  {
+    "accent": "rgba(92, 92, 90, 0.9)",
+    "accent2": "rgb(222, 127, 143)",
+    "name": "indeedee-female"
+  },
+  {
+    "accent": "rgba(151, 87, 71, 0.9)",
+    "accent2": "rgb(238, 227, 222)",
+    "name": "morpeko-hangry"
+  },
+  {
+    "accent": "rgba(75, 74, 86, 0.9)",
+    "accent2": "rgb(206, 160, 170)",
+    "name": "zacian-crowned"
+  },
+  {
+    "accent": "rgba(201, 118, 43, 0.9)",
+    "accent2": "rgb(238, 225, 230)",
+    "name": "zamazenta-crowned"
+  },
+  {
+    "accent": "rgba(73, 84, 112, 0.9)",
+    "accent2": "rgb(205, 197, 216)",
+    "name": "eternatus-eternamax"
+  },
+  {
+    "accent": "rgba(169, 190, 176, 0.9)",
+    "accent2": "rgb(170, 35, 63)",
+    "name": "urshifu-rapid-strike"
+  },
+  {
+    "accent": "rgba(207, 183, 149, 0.9)",
+    "accent2": "rgb(140, 52, 61)",
+    "name": "zarude-dada"
+  },
+  {
+    "accent": "rgba(238, 213, 113, 0.9)",
+    "accent2": "rgb(134, 72, 54)",
+    "name": "calyrex-ice"
+  },
+  {
+    "accent": "rgba(164, 179, 190, 0.9)",
+    "accent2": "rgb(113, 64, 90)",
+    "name": "calyrex-shadow"
+  },
+  {
+    "accent": "rgba(146, 99, 76, 0.9)",
+    "accent2": "rgb(237, 236, 182)",
+    "name": "venusaur-gmax"
+  },
+  {
+    "accent": "rgba(72, 101, 95, 0.9)",
+    "accent2": "rgb(227, 193, 177)",
+    "name": "charizard-gmax"
+  },
+  {
+    "accent": "rgba(108, 98, 88, 0.9)",
+    "accent2": "rgb(212, 174, 177)",
+    "name": "blastoise-gmax"
+  },
+  {
+    "accent": "rgba(79, 66, 69, 0.9)",
+    "accent2": "rgb(218, 197, 201)",
+    "name": "butterfree-gmax"
+  },
+  {
+    "accent": "rgba(154, 117, 94, 0.9)",
+    "accent2": "rgb(38, 76, 55)",
+    "name": "pikachu-gmax"
+  },
+  {
+    "accent": "rgba(239, 167, 63, 0.9)",
+    "accent2": "rgb(91, 62, 65)",
+    "name": "meowth-gmax"
+  },
+  {
+    "accent": "rgba(105, 121, 154, 0.9)",
+    "accent2": "rgb(100, 31, 52)",
+    "name": "machamp-gmax"
+  },
+  {
+    "accent": "rgba(54, 44, 69, 0.9)",
+    "accent2": "rgb(221, 59, 82)",
+    "name": "gengar-gmax"
+  },
+  {
+    "accent": "rgba(132, 62, 63, 0.9)",
+    "accent2": "rgb(181, 195, 151)",
+    "name": "kingler-gmax"
+  },
+  {
+    "accent": "rgba(101, 100, 95, 0.9)",
+    "accent2": "rgb(229, 164, 100)",
+    "name": "lapras-gmax"
+  },
+  {
+    "accent": "rgba(68, 47, 49, 0.9)",
+    "accent2": "rgb(206, 64, 69)",
+    "name": "eevee-gmax"
+  },
+  {
+    "accent": "rgba(214, 169, 111, 0.9)",
+    "accent2": "rgb(125, 36, 58)",
+    "name": "snorlax-gmax"
+  },
+  {
+    "accent": "rgba(214, 169, 111, 0.9)",
+    "accent2": "rgb(125, 36, 58)",
+    "name": "garbodor-gmax"
+  },
+  {
+    "accent": "rgba(111, 87, 80, 0.9)",
+    "accent2": "rgb(234, 189, 187)",
+    "name": "melmetal-gmax"
+  },
+  {
+    "accent": "rgba(216, 146, 162, 0.9)",
+    "accent2": "rgb(73, 47, 92)",
+    "name": "rillaboom-gmax"
+  },
+  {
+    "accent": "rgba(198, 87, 49, 0.9)",
+    "accent2": "rgb(237, 208, 46)",
+    "name": "cinderace-gmax"
+  },
+  {
+    "accent": "rgba(126, 85, 103, 0.9)",
+    "accent2": "rgb(220, 213, 222)",
+    "name": "inteleon-gmax"
+  },
+  {
+    "accent": "rgba(74, 64, 95, 0.9)",
+    "accent2": "rgb(200, 43, 79)",
+    "name": "corviknight-gmax"
+  },
+  {
+    "accent": "rgba(218, 184, 158, 0.9)",
+    "accent2": "rgb(79, 87, 89)",
+    "name": "orbeetle-gmax"
+  },
+  {
+    "accent": "rgba(64, 80, 82, 0.9)",
+    "accent2": "rgb(219, 179, 168)",
+    "name": "drednaw-gmax"
+  },
+  {
+    "accent": "rgba(172, 163, 174, 0.9)",
+    "accent2": "rgb(45, 78, 90)",
+    "name": "coalossal-gmax"
+  },
+  {
+    "accent": "rgba(160, 102, 118, 0.9)",
+    "accent2": "rgb(43, 28, 40)",
+    "name": "flapple-gmax"
+  },
+  {
+    "accent": "rgba(73, 73, 117, 0.9)",
+    "accent2": "rgb(237, 202, 200)",
+    "name": "appletun-gmax"
+  },
+  {
+    "accent": "rgba(216, 146, 162, 0.9)",
+    "accent2": "rgb(73, 47, 92)",
+    "name": "sandaconda-gmax"
+  },
+  {
+    "accent": "rgba(192, 148, 137, 0.9)",
+    "accent2": "rgb(38, 35, 36)",
+    "name": "toxtricity-amped-gmax"
+  },
+  {
+    "accent": "rgba(92, 84, 82, 0.9)",
+    "accent2": "rgb(204, 87, 57)",
+    "name": "centiskorch-gmax"
+  },
+  {
+    "accent": "rgba(200, 121, 70, 0.9)",
+    "accent2": "rgb(19, 15, 14)",
+    "name": "hatterene-gmax"
+  },
+  {
+    "accent": "rgba(208, 159, 112, 0.9)",
+    "accent2": "rgb(19, 13, 11)",
+    "name": "grimmsnarl-gmax"
+  },
+  {
+    "accent": "rgba(211, 177, 156, 0.9)",
+    "accent2": "rgb(56, 49, 76)",
+    "name": "alcremie-gmax"
+  },
+  {
+    "accent": "rgba(51, 53, 69, 0.9)",
+    "accent2": "rgb(206, 195, 181)",
+    "name": "copperajah-gmax"
+  },
+  {
+    "accent": "rgba(161, 152, 175, 0.9)",
+    "accent2": "rgb(22, 20, 22)",
+    "name": "duraludon-gmax"
+  },
+  {
+    "accent": "rgba(47, 65, 102, 0.9)",
+    "accent2": "rgb(212, 209, 214)",
+    "name": "urshifu-single-strike-gmax"
+  },
+  {
+    "accent": "rgba(174, 183, 137, 0.9)",
+    "accent2": "rgb(32, 87, 60)",
+    "name": "urshifu-rapid-strike-gmax"
+  },
+  {
+    "accent": "rgba(219, 187, 186, 0.9)",
+    "accent2": "rgb(38, 31, 35)",
+    "name": "toxtricity-low-key-gmax"
+  },
+  {
+    "accent": "rgba(202, 157, 159, 0.9)",
+    "accent2": "rgb(31, 25, 26)",
+    "name": "growlithe-hisui"
+  },
+  {
+    "accent": "rgba(188, 179, 181, 0.9)",
+    "accent2": "rgb(50, 53, 57)",
+    "name": "arcanine-hisui"
+  },
+  {
+    "accent": "rgba(201, 198, 208, 0.9)",
+    "accent2": "rgb(31, 32, 32)",
+    "name": "voltorb-hisui"
+  },
+  {
+    "accent": "rgba(205, 200, 213, 0.9)",
+    "accent2": "rgb(42, 42, 47)",
+    "name": "electrode-hisui"
+  },
+  {
+    "accent": "rgba(193, 198, 206, 0.9)",
+    "accent2": "rgb(58, 70, 84)",
+    "name": "typhlosion-hisui"
+  },
+  {
+    "accent": "rgba(176, 132, 113, 0.9)",
+    "accent2": "rgb(41, 39, 34)",
+    "name": "qwilfish-hisui"
+  },
+  {
+    "accent": "rgba(51, 76, 102, 0.9)",
+    "accent2": "rgb(133, 185, 213)",
+    "name": "sneasel-hisui"
+  },
+  {
+    "accent": "rgba(182, 165, 188, 0.9)",
+    "accent2": "rgb(37, 34, 39)",
+    "name": "samurott-hisui"
+  },
+  {
+    "accent": "rgba(84, 124, 84, 0.9)",
+    "accent2": "rgb(231, 231, 227)",
+    "name": "lilligant-hisui"
+  },
+  {
+    "accent": "rgba(169, 185, 175, 0.9)",
+    "accent2": "rgb(23, 23, 20)",
+    "name": "zorua-hisui"
+  },
+  {
+    "accent": "rgba(180, 125, 153, 0.9)",
+    "accent2": "rgb(24, 23, 25)",
+    "name": "zoroark-hisui"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "braviary-hisui"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "sliggoo-hisui"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "goodra-hisui"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "avalugg-hisui"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "decidueye-hisui"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "dialga-origin"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "palkia-origin"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "basculin-white-striped"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "basculegion-female"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "enamorus-therian"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tauros-paldea-combat-breed"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tauros-paldea-blaze-breed"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tauros-paldea-aqua-breed"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "wooper-paldea"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "oinkologne-female"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "dudunsparce-three-segment"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "palafin-hero"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "maushold-family-of-three"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tatsugiri-droopy"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "tatsugiri-stretchy"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "squawkabilly-blue-plumage"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "squawkabilly-yellow-plumage"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "squawkabilly-white-plumage"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "gimmighoul-roaming"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "koraidon-limited-build"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "koraidon-sprinting-build"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "koraidon-swimming-build"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "koraidon-gliding-build"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "miraidon-low-power-mode"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "miraidon-drive-mode"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "miraidon-aquatic-mode"
+  },
+  {
+    "accent": "rgba(170, 170, 170, 0.9)",
+    "accent2": "rgb(27, 27, 27)",
+    "name": "miraidon-glide-mode"
+  }
+]
