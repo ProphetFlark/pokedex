@@ -1,20 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  Navigate,
-} from "react-router-dom";
+import { Route, Routes, Navigate, HashRouter } from "react-router-dom";
 import NavBar from "./Components/NavBar";
 import PokemonPage from "./Components/PokemonPage";
 import Pokemons from "./Components/Pokemons";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  // React.StrictMode
+  //React.StrictMode
   <>
-    <Router>
+    <HashRouter>
       <NavBar />
       <Routes>
         <Route exact path="/" element={<Pokemons />} />
@@ -22,6 +17,6 @@ root.render(
 
         <Route path="*" element={<Navigate to="/" />} />
       </Routes>
-    </Router>
+    </HashRouter>
   </>
 );

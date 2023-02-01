@@ -83,11 +83,87 @@
   cursor: pointer;
 }
 
+.filtrar {
+  display: flex;
+  flex-direction: row;
+  padding: 5px 15px;
+  background-color: snow;
+  width: auto;
+  margin: 0.5rem auto 1rem;
+  border: 2px solid var(--color-accent2);
+  border-radius: 10px;
+  align-items: center;
+}
+.icono {
+  width: 25px;
+  fill: var(--color-accent);
+}
+.filtrartexto {
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+.filtrar:hover {
+  cursor: pointer;
+}
+/* BARRA DE BUSQUEDA */
+.sugerencia {
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.react-autosuggest__suggestions-container--open {
+  display: block;
+  position: absolute;
+  width: 450px;
+  border: 1px solid var(--color-accent2);
+  background-color: var(--color-accent);
+  font-weight: 300;
+  font-size: 16px;
+  z-index: 2;
+  max-height: 300px;
+  overflow: auto;
+}
+
+.react-autosuggest__suggestions-list {
+  list-style: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  text-transform: capitalize;
+  color: var(--color-accent2);
+  filter: brightness(1.3);
+}
+
+.react-autosuggest__input {
+  width: 440px;
+  text-transform: capitalize;
+  padding: 5px;
+  background-color: var(--color-accent);
+  filter: brightness(1.3);
+  border: 1px solid var(--color-accent2);
+  color: #000;
+  border-radius: 5px;
+}
+
+.react-autosuggest__suggestion--highlighted {
+  background-color: rgb(179, 179, 179);
+}
+
+.imgpequesearch {
+  height: 50px;
+  width: auto;
+  padding: -15px 0px;
+  margin: -10px 0px;
+}
+
 /* FILTROS */
 
 .filtropadre {
   padding-top: 3.7rem;
   flex-direction: row;
+  background-color: transparent;
 }
 
 .divfiltros {
@@ -98,6 +174,7 @@
   padding: 1rem;
   flex-direction: column;
   max-width: 1250px;
+  background-color: transparent;
 }
 
 .tipos {
@@ -106,6 +183,11 @@
   flex-direction: row;
   gap: 0.5rem;
   padding-left: 1.5rem;
+  display: none;
+}
+
+.show {
+  display: flex;
 }
 
 .tipos button {
@@ -130,10 +212,12 @@
 }
 .tipos .bug,
 .tipopoke .bug {
+  color: snow;
   background: var(--color-bug);
 }
 .tipos .dragon,
 .tipopoke .dragon {
+  color: snow;
   background: var(--color-dragon);
 }
 .tipos .fairy,
@@ -143,10 +227,12 @@
 }
 .tipos .fire,
 .tipopoke .fire {
+  color: snow;
   background: var(--color-fire);
 }
 .tipos .ghost,
 .tipopoke .ghost {
+  color: snow;
   background: var(--color-ghost);
 }
 .tipos .ground,
@@ -161,6 +247,7 @@
 }
 .tipos .psychic,
 .tipopoke .psychic {
+  color: snow;
   background: var(--color-psychic);
 }
 .tipos .steel,
@@ -170,6 +257,7 @@
 }
 .tipos .dark,
 .tipopoke .dark {
+  color: snow;
   background: var(--color-dark);
 }
 .tipos .electric,
@@ -179,6 +267,7 @@
 }
 .tipos .fighting,
 .tipopoke .fighting {
+  color: snow;
   background: var(--color-fighting);
 }
 .tipos .flying,
@@ -198,14 +287,17 @@
 }
 .tipos .poison,
 .tipopoke .poison {
+  color: snow;
   background: var(--color-poison);
 }
 .tipos .rock,
 .tipopoke .rock {
+  color: snow;
   background: var(--color-rock);
 }
 .tipos .water,
 .tipopoke .water {
+  color: snow;
   background: var(--color-water);
 }
 
@@ -238,9 +330,51 @@
   background: var(--color-ix);
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent2);
+}
+
+.loaderbody {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+}
+
+.preloader {
+  width: 100px;
+  height: 100px;
+  border-top: 5px solid #000;
+  border-radius: 100%;
+  animation: girar 1s infinite linear;
+}
+
+@keyframes girar {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 /* POKEMONS */
 
 .divpokemonpadre {
+  padding: 0rem 0 1rem 1rem;
   width: 95vw;
   margin: auto;
   max-width: 1500px;
@@ -249,7 +383,6 @@
   flex-direction: row;
   justify-content: center;
   gap: 1rem;
-  padding: 1rem 0 1rem 1rem;
 }
 
 .pokemonindividual {
@@ -263,6 +396,13 @@
   border-radius: 10px;
   display: flex;
   flex-direction: column;
+}
+.colorfondopoke {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  filter: contrast(0.8) brightness(1.2);
 }
 .numeroback {
   z-index: -1;
@@ -372,7 +512,7 @@
 .padrepage {
   display: flex;
   flex-direction: column;
-  padding-top: 3.2rem;
+  padding-top: 4rem;
   background-color: var(--color-accent);
   width: auto;
   height: auto;
@@ -417,6 +557,9 @@
   justify-content: space-between;
   margin: 0rem 2rem;
   align-items: center;
+  width: 95vw;
+  max-width: 1500px;
+  margin: 0 auto;
 }
 
 .izquierda,
@@ -494,6 +637,9 @@
   position: relative;
   backdrop-filter: blur(7px);
   align-items: center;
+  width: 95vw;
+  max-width: 1500px;
+  margin: 0 auto;
 }
 
 .encabezado .infodetalle {
@@ -545,12 +691,12 @@
 }
 
 .imagenhover .imgdetallehidden {
+  width: 100%;
+  height: auto;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50.3%);
   position: absolute;
-  width: 100%;
-  height: auto;
   opacity: 0;
 }
 
@@ -578,6 +724,9 @@
   position: relative;
   backdrop-filter: blur(1px);
   align-items: center;
+  width: 95vw;
+  max-width: 1500px;
+  margin: 2rem auto;
 }
 
 .especieyhabi .infobasica {
@@ -735,6 +884,7 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
 
 .abilities .hiddenabi,
 .unhiddenabi {
+  display: flex;
   width: 35vw;
   background-color: snow;
   border-radius: 15px;
@@ -743,6 +893,10 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
   position: relative;
   align-items: center;
   justify-content: center;
+}
+
+.abilities .unhiddenabi {
+  column-gap: 1.5rem;
 }
 
 .abilities .hiddenabi::after {
@@ -758,6 +912,7 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
   content: "Oculta";
   font-size: 0.8rem;
   position: absolute;
+  align-items: center;
   width: 5vw;
   height: 40px;
   top: 0%;
@@ -774,7 +929,7 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
 
 .estadisticaspadre {
   width: 89%;
-  justify-content: start;
+  justify-content: flex-start;
   margin: 1rem 5rem 3rem;
   display: flex;
   flex-direction: row;
@@ -821,4 +976,378 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
   color: var(--color-accent2);
   margin-top: 1.5rem;
   text-align: center;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 800px) {
+  /* FILTROS */
+
+  .filtropadre {
+    width: 95vw;
+    display: flex;
+    padding-top: 3.7rem;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .divfiltros {
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 0;
+  }
+
+  .tipos {
+    margin: 0 auto 1rem;
+    max-width: 700px;
+    flex-direction: row;
+    display: none;
+  }
+  .tipos button {
+    width: 100px;
+  }
+  .show {
+    display: flex;
+  }
+  /* HOME */
+  .divpokemonpadre {
+    padding: 0rem 0rem 1.5rem 0rem;
+    width: 100vw;
+    max-width: 700px;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 0.5rem;
+  }
+
+  .pokemonindividual {
+    width: 85vw;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    isolation: isolate;
+    margin-bottom: 0rem;
+  }
+
+  .pokemonindividual::before {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    border-radius: 0 100vmax 100vmax 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    left: 0%;
+  }
+  .numeroback {
+    transform: translate(50%, -50%);
+    font-size: 3rem;
+  }
+
+  .imagenpoke {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    margin: 0;
+  }
+
+  .imagenpoke img {
+    object-fit: contain;
+    width: 85%;
+    height: auto;
+  }
+  .datospoke {
+    flex-grow: 2;
+    width: 35vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0rem;
+    align-items: center;
+    margin: 1rem;
+  }
+  .datospoke .numero {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .datospoke .nombre {
+    font-size: 1.3rem;
+    color: rgba(0, 0, 0, 0.8);
+  }
+
+  .pokemonindividual .tipopoke {
+    display: flex;
+    width: auto;
+    align-items: center;
+    flex-direction: column !important;
+    margin: 0;
+    justify-content: flex-end;
+    margin-right: 1rem;
+    row-gap: 0.5rem;
+  }
+
+  .tipopoke span {
+    width: 95px;
+    padding: 5px 0px;
+  }
+
+  /* NAVBAR */
+
+  .divimg img {
+    max-width: 70px;
+    width: 70px;
+    height: auto;
+    padding: 0.5rem 0.5rem 0.5rem 0.8rem;
+  }
+
+  .inicio h1 {
+    display: none;
+  }
+
+  /* BARRA DE BUSQUEDA */
+  .react-autosuggest__suggestions-container--open {
+    width: 57vw;
+    margin-left: -3.5rem;
+    font-size: 18px;
+    max-height: 400px;
+  }
+  .react-autosuggest__input {
+    width: 55vw;
+    margin-left: -3.5rem;
+  }
+  .imgpequesearch {
+    height: 55px;
+  }
+
+  /* POKEMON PAGE */
+  .padrepage {
+    padding-top: 3.5rem;
+    position: relative;
+  }
+
+  .fondo {
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+  }
+
+  .fondo img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+  }
+
+  .fondo .texto {
+    width: auto;
+    height: 100px;
+  }
+
+  .fondo .texto h1 {
+    font-size: 100px;
+  }
+
+  .botones {
+    width: 95vw;
+    margin: 0rem 0.5rem;
+    overflow: hidden;
+  }
+
+  .izquierda img,
+  .derecha img {
+    height: 45px;
+    margin: -0.5rem;
+  }
+
+  .botones .izquierda,
+  .botones .derecha {
+    width: 38vw;
+  }
+  .izquierda p,
+  .derecha p {
+    width: 100%;
+    margin: 0 -0.1rem;
+    font-size: 0.7rem;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .izquierda button,
+  .derecha button {
+    padding: 6px 5px;
+    margin: 6px 0px;
+  }
+
+  .encabezado {
+    width: 95vw;
+    border-radius: 1rem;
+    margin: 1rem auto 0;
+  }
+
+  .encabezado .infodetalle {
+    width: 30vw;
+    padding-left: 3rem;
+  }
+
+  .encabezado .infodetalle .nombre {
+    font-size: 7vw;
+    white-space: nowrap;
+  }
+  .encabezado .infodetalle .especie {
+    font-size: 4vw;
+    white-space: nowrap;
+  }
+  .encabezado .infodetalle .numero {
+    text-align: left;
+    font-size: 2vw;
+  }
+
+  .tipopoke {
+    width: 35vw;
+    flex-direction: row !important;
+    justify-content: start;
+  }
+  .tipopoke span {
+    margin: 0 !important;
+    width: 60px;
+  }
+
+  .imagenhover {
+    padding-top: 1rem;
+    width: 150px;
+    height: auto;
+  }
+
+  .imagenhover .imgdetallehidden {
+    padding-top: 1rem;
+    transform: translate(-50%, -50.7%);
+  }
+
+  .textoabajoimagen p {
+    width: 180px;
+    padding-right: 1rem;
+  }
+
+  .especieyhabi {
+    border-radius: 1rem;
+    margin: 2rem auto;
+    width: 95vw;
+  }
+
+  .especieyhabi .infobasica {
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+    justify-content: center;
+  }
+
+  .especieyhabi .infobasica .masdetalles {
+    flex-direction: column;
+  }
+
+  .especieyhabi .infobasica .masdetalles .imagencita {
+    width: auto;
+    height: auto;
+    padding-top: 1rem;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+  }
+  .especieyhabi .infobasica .masdetalles .imagencita img {
+    width: 70%;
+    height: 60%;
+    object-fit: cover;
+  }
+
+  audio {
+    margin-top: 0;
+    width: 180px;
+  }
+
+  .especieyhabi .infobasica .masdetalles {
+    width: 95vw;
+  }
+
+  .especieyhabi .infobasica .masdetalles .detallescompletos {
+    flex-direction: row;
+    row-gap: 1rem;
+    column-gap: 0rem;
+    margin: 0;
+    width: 85%;
+  }
+
+  .especieyhabi .infobasica .masdetalles .detallescompletos h4,
+  .especieyhabi .infobasica .masdetalles .detallescompletos .egggroups h4 {
+    text-align: center;
+    width: 25vw;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 0.8rem;
+  }
+
+  .especieyhabi .hastaabajo {
+    border-radius: 0.5rem;
+  }
+
+  .abilities {
+    column-gap: 0.5rem;
+  }
+
+  .abilities .hiddenabi,
+  .unhiddenabi {
+    width: 40vw;
+  }
+
+  .abilities .unhiddenabi {
+    column-gap: 0.5rem;
+  }
+
+  .abilities .hiddenabi::after {
+    width: 42px;
+  }
+  .abilities .hiddenabi::before {
+    width: 42px;
+    height: 40px;
+    top: 50%;
+    left: 0%;
+    transform: translate(0%, -20%);
+  }
+
+  .abilities .hiddenabi h1,
+  .unhiddenabi h1 {
+    font-size: 3vw;
+  }
+  .abilities .hiddenabi h1 {
+    padding-left: 0.8rem;
+  }
+
+  .estadisticaspadre {
+    width: auto;
+    margin: 1rem 0rem 1rem 1rem;
+  }
+
+  .estadisticaspadre .estadisticas {
+    width: 100%;
+  }
+
+  .barra0,
+  .barra1,
+  .barra2,
+  .barra3,
+  .barra4,
+  .barra5 {
+    font-size: 0.5rem;
+  }
+
+  .nombres {
+    font-size: 0.5rem;
+  }
+
+  .totalh2 {
+    font-size: 1.5rem;
+  }
 }

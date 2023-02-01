@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { FastAverageColor } from "fast-average-color";
+import big from "../assets/big.svg";
 
 const Pokemon = ({ pokemon }) => {
   const tipo = (type) => {
@@ -48,31 +48,35 @@ const Pokemon = ({ pokemon }) => {
     }
   };
 
-  const fac = new FastAverageColor();
-  const colorin = (image) => {
-    fac.getColorAsync(image).then((color) => color.hex.toString());
-  };
+  const accentcolor = require("../assets/pokedata.json");
+
 
   return (
-    <Link
-      to={`pokemon/${pokemon.id}`}
-      className="links"
-      value={pokemon.id}
-    >
+    <Link to={`pokemon/${pokemon.id}`} className="links" value={pokemon.id}>
       <div className="pokemonindividual">
-        <div className="numeroback" id="afectado">
+        <div
+          className="colorfondopoke"
+          // style={{
+          //   backgroundColor: `${accentcolor[pokemon.id - 1].accent}`,
+          // }}
+        ></div>
+        <div
+          className="numeroback"
+          // style={{
+          //   color: `${accentcolor[pokemon.id - 1].accent2}`,
+          // }}
+        >
           <p>#{pokemon.id.toString().padStart(3, 0)}</p>
         </div>
         <div className="imagenpoke">
           <img
-            src={pokemon.sprites.other["official-artwork"].front_default}
+            src={
+              pokemon.sprites.other["official-artwork"].front_default === null
+                ? big
+                : pokemon.sprites.other["official-artwork"].front_default
+            }
             alt={`Pokémon ${pokemon.name}`}
           />
-          {/* <img
-            className="hiddenimg"
-            src={pokemon.sprites.other["official-artwork"].front_shiny}
-            alt={`Pokémon ${pokemon.name}`}
-          /> */}
         </div>
         <div className="datospoke">
           <h4 className="numero">#{pokemon.id.toString().padStart(3, 0)}</h4>

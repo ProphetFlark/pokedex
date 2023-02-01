@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "../styles.css";
+import mini from "../assets/mini.svg";
+import big from "../assets/big.svg";
+import shiny from "../assets/shiny.svg";
 
 const PokemonPage = () => {
   const navigate = useNavigate();
@@ -81,8 +84,8 @@ const PokemonPage = () => {
 
   if (!pokemondatos.id || !pokemonespecie.order) {
     return (
-      <div>
-        <p style={{ fontSize: "7rem" }}>Loading...</p>
+      <div className="loaderbody">
+        <div className="preloader"></div>
       </div>
     );
   }
@@ -101,10 +104,10 @@ const PokemonPage = () => {
   );
 
   const handleClick = () => {
-    navigate(urlfin1);
+    parseInt(indice) === 1 ? navigate("/") : navigate(urlfin1);
   };
   const handleClick2 = () => {
-    navigate(urlfin2);
+    parseInt(indice) > 1007 ? navigate("/") : navigate(urlfin2);
   };
 
   return (
@@ -114,7 +117,11 @@ const PokemonPage = () => {
           <h1>#{pokemondatos.id.toString().padStart(3, 0)}</h1>
         </div>
         <img
-          src={pokemondatos.sprites.other.dream_world.front_default}
+          src={
+            pokemondatos.sprites.other.dream_world.front_default === null
+              ? big
+              : pokemondatos.sprites.other.dream_world.front_default
+          }
           alt={pokemondatos.name}
         />
       </div>
@@ -124,7 +131,9 @@ const PokemonPage = () => {
           <img
             src={
               pokemondatos.id === 1
-                ? pokemondatos.sprites.front_default
+                ? "https://pixsector.com/cache/1788ac30/ave36c6a1e9d5a19e29c4.png"
+                : botonesdatos[pokemondatos.id - 2].img === null
+                ? mini
                 : botonesdatos[pokemondatos.id - 2].img
             }
             alt={pokemondatos.name}
@@ -132,14 +141,24 @@ const PokemonPage = () => {
           />
           <p>
             {pokemondatos.id === 1
-              ? pokemondatos.name
+              ? "Inicio"
               : botonesdatos[pokemondatos.id - 2].nombre}
           </p>
         </div>
         <div className="derecha">
-          <p>{botonesdatos[pokemondatos.id].nombre}</p>
+          <p>
+            {parseInt(indice) > 1007
+              ? "Inicio"
+              : botonesdatos[pokemondatos.id].nombre}
+          </p>
           <img
-            src={botonesdatos[pokemondatos.id].img}
+            src={
+              parseInt(indice) > 1007
+                ? "https://pixsector.com/cache/1788ac30/ave36c6a1e9d5a19e29c4.png"
+                : botonesdatos[pokemondatos.id].img === null
+                ? mini
+                : botonesdatos[pokemondatos.id].img
+            }
             alt={pokemondatos.name}
             className="pokebutton"
           />
@@ -152,7 +171,9 @@ const PokemonPage = () => {
           <h3 className="especie">
             {pokemonespecie.genera.length > 4
               ? pokemonespecie.genera[5].genus
-              : pokemonespecie.genera[0].genus}
+              : pokemonespecie.genera === 0
+              ? "Desconocido"
+              : "Pokémon desconocido"}
           </h3>
           <h4 className="numero">
             Pokédex Nacional: #{pokemondatos.id.toString().padStart(3, 0)}
@@ -172,18 +193,30 @@ const PokemonPage = () => {
         <div className="imagencompleto">
           <div className="imagenhover">
             <img
-              src={pokemondatos.sprites.other["official-artwork"].front_default}
+              src={
+                pokemondatos.sprites.other["official-artwork"].front_default ===
+                null
+                  ? big
+                  : pokemondatos.sprites.other["official-artwork"].front_default
+              }
               alt={pokemondatos.name}
               className="imgdetalle"
             />
             <img
-              src={pokemondatos.sprites.other["official-artwork"].front_shiny}
+              src={
+                pokemondatos.sprites.other["official-artwork"].front_shiny ===
+                null
+                  ? shiny
+                  : pokemondatos.sprites.other["official-artwork"].front_shiny
+              }
               alt={pokemondatos.name}
               className="imgdetallehidden"
             />
           </div>
           <div className="textoabajoimagen">
-            <p>*Pasa el ratón por encima para cambiar a su forma Shiny</p>
+            <p>
+              *Pasa el ratón por encima o toca para cambiar a su forma Shiny
+            </p>
           </div>
         </div>
       </div>
@@ -195,15 +228,19 @@ const PokemonPage = () => {
           <div className="masdetalles">
             <div className="imagencita">
               <img
-                src={pokemondatos.sprites.front_default}
+                src={
+                  pokemondatos.sprites.front_default === null
+                    ? mini
+                    : pokemondatos.sprites.front_default
+                }
                 alt={pokemondatos.name}
               />
               <div className="grito">
                 <audio controls autoPlay id="mySound">
                   <source
-                    src={`https://play.pokemonshowdown.com/audio/cries/${
-                      accentcolor[pokemondatos.id - 1].name
-                    }.mp3`}
+                    src={`https://play.pokemonshowdown.com/audio/cries/${accentcolor[
+                      pokemondatos.id - 1
+                    ].name.replace("-", "")}.mp3`}
                     type="audio/mpeg"
                   />
                 </audio>
@@ -276,14 +313,14 @@ const PokemonPage = () => {
             <div className="hiddenabi">
               {pokemondatos.abilities?.map((abilitiess) => (
                 <h1 key={abilitiess.ability.name}>
-                  {abilitiess.is_hidden ? abilitiess.ability.name : ""}
+                  {abilitiess.is_hidden && abilitiess.ability.name}
                 </h1>
               ))}
             </div>
             <div className="unhiddenabi">
               {pokemondatos.abilities?.map((abilitiess) => (
-                <h1 key={abilitiess.ability.name}>
-                  {!abilitiess.is_hidden ? abilitiess.ability.name : ""}
+                <h1 key={!abilitiess.is_hidden && abilitiess.ability.name}>
+                  {!abilitiess.is_hidden && abilitiess.ability.name}
                 </h1>
               ))}
             </div>
