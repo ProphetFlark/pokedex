@@ -54,6 +54,7 @@ const NavBar = () => {
         className="imgpequesearch"
         src={`${suggestion.img === null ? mini : suggestion.img}`}
         alt={suggestion.nombre}
+        loading="lazy"
       />
       {`${suggestion.id.toString().padStart(3, 0) + " - " + suggestion.nombre}`}
     </div>

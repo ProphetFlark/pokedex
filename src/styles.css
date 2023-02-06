@@ -182,8 +182,9 @@
   flex-wrap: wrap;
   flex-direction: row;
   gap: 0.5rem;
-  padding-left: 1.5rem;
   display: none;
+  margin: 0 auto;
+  justify-content: center;
 }
 
 .show {
@@ -191,7 +192,7 @@
 }
 
 .tipos button {
-  width: 75px;
+  width: 100px;
   padding: 5px 0px;
   text-align: center;
   border-radius: 100vmax;
@@ -206,127 +207,155 @@
   font-weight: 700;
 }
 
-.tipos .all {
+.tipos .all,
+.all {
   background: snow;
   color: #000;
 }
 .tipos .bug,
-.tipopoke .bug {
+.tipopoke .bug,
+.bug {
   color: snow;
   background: var(--color-bug);
 }
 .tipos .dragon,
-.tipopoke .dragon {
+.tipopoke .dragon,
+.dragon {
   color: snow;
   background: var(--color-dragon);
 }
 .tipos .fairy,
-.tipopoke .fairy {
+.tipopoke .fairy,
+.fairy {
   background: var(--color-fairy);
   color: #000;
 }
 .tipos .fire,
-.tipopoke .fire {
+.tipopoke .fire,
+.fire {
   color: snow;
   background: var(--color-fire);
 }
 .tipos .ghost,
-.tipopoke .ghost {
+.tipopoke .ghost,
+.ghost {
   color: snow;
   background: var(--color-ghost);
 }
 .tipos .ground,
-.tipopoke .ground {
+.tipopoke .ground,
+.ground {
   background: var(--color-ground);
   color: #000;
 }
 .tipos .normal,
-.tipopoke .normal {
+.tipopoke .normal,
+.normal {
   background: var(--color-normal);
   color: #000;
 }
 .tipos .psychic,
-.tipopoke .psychic {
+.tipopoke .psychic,
+.psychic {
   color: snow;
   background: var(--color-psychic);
 }
 .tipos .steel,
-.tipopoke .steel {
+.tipopoke .steel,
+.steel {
   background: var(--color-steel);
   color: #000;
 }
 .tipos .dark,
-.tipopoke .dark {
+.tipopoke .dark,
+.dark {
   color: snow;
   background: var(--color-dark);
 }
 .tipos .electric,
-.tipopoke .electric {
+.tipopoke .electric,
+.electric {
   background: var(--color-electric);
   color: #000;
 }
 .tipos .fighting,
-.tipopoke .fighting {
+.tipopoke .fighting,
+.fighting {
   color: snow;
   background: var(--color-fighting);
 }
 .tipos .flying,
-.tipopoke .flying {
+.tipopoke .flying,
+.flying {
   background: var(--color-flying);
   color: #000;
 }
 .tipos .grass,
-.tipopoke .grass {
+.tipopoke .grass,
+.grass {
   background: var(--color-grass);
   color: #000;
 }
 .tipos .ice,
-.tipopoke .ice {
+.tipopoke .ice,
+.ice {
   background: var(--color-ice);
   color: #000;
 }
 .tipos .poison,
-.tipopoke .poison {
+.tipopoke .poison,
+.poison {
   color: snow;
   background: var(--color-poison);
 }
 .tipos .rock,
-.tipopoke .rock {
+.tipopoke .rock,
+.rock {
   color: snow;
   background: var(--color-rock);
 }
 .tipos .water,
-.tipopoke .water {
+.tipopoke .water,
+.water {
   color: snow;
   background: var(--color-water);
 }
 
-.tipos .igen {
+.tipos .igen,
+.igen {
   background: var(--color-i);
 }
-.tipos .iigen {
+.tipos .iigen,
+.iigen {
   background: var(--color-ii);
 }
-.tipos .iiigen {
+.tipos .iiigen,
+.iiigen {
   background: var(--color-iii);
 }
-.tipos .ivgen {
+.tipos .ivgen,
+.ivgen {
   background: var(--color-iv);
 }
-.tipos .vgen {
+.tipos .vgen,
+.vgen {
   color: rgb(0, 0, 0);
   background: var(--color-v);
 }
-.tipos .vigen {
+.tipos .vigen,
+.vigen {
   background: var(--color-vi);
 }
-.tipos .viigen {
+.tipos .viigen,
+.viigen {
   background: var(--color-vii);
 }
-.tipos .viiigen {
+.tipos .viiigen,
+.viiigen {
   background: var(--color-viii);
 }
-.tipos .ixgen {
+.tipos .ixgen,
+.ixgen {
   background: var(--color-ix);
 }
 
@@ -335,21 +364,30 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: rgb(0, 0, 0);
+  background: var(--color-accent);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--color-accent);
+  background: var(--color-accent2);
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--color-accent2);
 }
 
-.loaderbody {
+.loaderbodypadre {
   min-height: 100vh;
-  display: flex;
   align-items: center;
+  justify-content: center;
+}
+
+.loaderbody {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
   justify-content: center;
   z-index: -1;
 }
@@ -358,10 +396,16 @@
   width: 100px;
   height: 100px;
   border-top: 5px solid #000;
+  text-align: center;
+  justify-content: center;
+  margin: 2rem auto;
   border-radius: 100%;
   animation: girar 1s infinite linear;
 }
 
+.loaderbodypadre .texto {
+  width: 80vw;
+}
 @keyframes girar {
   from {
     transform: rotate(0deg);
@@ -458,6 +502,8 @@
 .datospoke .nombre {
   font-size: 1.7rem;
   text-transform: capitalize;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .tipopoke {
@@ -616,6 +662,10 @@
   color: #000;
 }
 
+.derecha p {
+  text-align: right;
+  margin-left: 2vw;
+}
 .izquierda button,
 .derecha button {
   padding: 10px 7px;
@@ -978,6 +1028,60 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
   text-align: center;
 }
 
+.headertipo {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 1rem 0rem;
+}
+
+.headertipo .cuadradotipo span {
+  padding: 10px 50px;
+  border-radius: 20px;
+  border: 2px solid #999;
+  color: #000;
+}
+
+.cargandodiv {
+  display: block;
+  text-align: center;
+  margin: 0.5rem auto;
+}
+.h1cargando {
+  position: relative;
+  font: 4rem;
+  color: #000;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.h1cargando:before {
+  content: attr(data-text);
+  position: absolute;
+  overflow: hidden;
+  max-width: 7em;
+  white-space: nowrap;
+  color: white;
+  animation: loading 8s linear infinite;
+}
+@keyframes loading {
+  0% {
+    max-width: 0;
+  }
+}
+
+/* =====================================================================================================================
+===================================================================================================================== 
+=====================================================================================================================
+=====================================================================================================================
+=====================================================================================================================
+=====================================================================================================================
+=====================================================================================================================
+=====================================================================================================================
+=====================================================================================================================
+=====================================================================================================================
+*/
+
 /* RESPONSIVE */
 
 @media (max-width: 800px) {
@@ -1006,7 +1110,7 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
     display: none;
   }
   .tipos button {
-    width: 100px;
+    width: 80px;
   }
   .show {
     display: flex;
@@ -1048,7 +1152,7 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
   .imagenpoke {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     width: 100px;
     height: 100px;
     margin: 0;
@@ -1191,15 +1295,17 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
 
   .encabezado .infodetalle {
     width: 30vw;
+    z-index: 100;
     padding-left: 3rem;
   }
 
   .encabezado .infodetalle .nombre {
-    font-size: 7vw;
+    font-size: 6vw;
     white-space: nowrap;
   }
+
   .encabezado .infodetalle .especie {
-    font-size: 4vw;
+    font-size: 3.7vw;
     white-space: nowrap;
   }
   .encabezado .infodetalle .numero {
@@ -1228,9 +1334,14 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
     transform: translate(-50%, -50.7%);
   }
 
-  .textoabajoimagen p {
+  .textoabajoimagen {
     width: 180px;
-    padding-right: 1rem;
+    height: 50px;
+  }
+
+  .textoabajoimagen p {
+    font-size: 0.5rem;
+    padding: 0 1rem 1rem 1rem;
   }
 
   .especieyhabi {

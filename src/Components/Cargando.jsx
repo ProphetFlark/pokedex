@@ -2,16 +2,13 @@ import React from "react";
 
 const Cargando = () => {
   return (
-    <strong
-      style={{
-        display: "block",
-        width: "100%",
-        textAlign: "center",
-        margin: "0 auto",
-      }}
-    >
-      Cargando...
-    </strong>
+    <div className="cargandodiv">
+      <h1 className="h1cargando" data-text="Cargando…">
+        Cargando…
+      </h1>
+      <h4>(La carga dependerá de tu conexión a internet)</h4>
+      <h5>(Si la carga falla, podrá ser culpa del servidor)</h5>
+    </div>
   );
 };
 

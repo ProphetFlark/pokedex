@@ -49,23 +49,20 @@ const Pokemon = ({ pokemon }) => {
   };
 
   const accentcolor = require("../assets/pokedata.json");
+  let color = "";
 
+  accentcolor.find((dato) => {
+    dato.name === pokemon.name && (color = dato.accent);
+  });
 
   return (
     <Link to={`pokemon/${pokemon.id}`} className="links" value={pokemon.id}>
       <div className="pokemonindividual">
         <div
           className="colorfondopoke"
-          // style={{
-          //   backgroundColor: `${accentcolor[pokemon.id - 1].accent}`,
-          // }}
+          style={{ backgroundColor: `${color}` }}
         ></div>
-        <div
-          className="numeroback"
-          // style={{
-          //   color: `${accentcolor[pokemon.id - 1].accent2}`,
-          // }}
-        >
+        <div className="numeroback">
           <p>#{pokemon.id.toString().padStart(3, 0)}</p>
         </div>
         <div className="imagenpoke">
@@ -76,6 +73,7 @@ const Pokemon = ({ pokemon }) => {
                 : pokemon.sprites.other["official-artwork"].front_default
             }
             alt={`Pokémon ${pokemon.name}`}
+            loading="lazy"
           />
         </div>
         <div className="datospoke">

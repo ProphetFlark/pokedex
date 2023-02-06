@@ -84,8 +84,17 @@ const PokemonPage = () => {
 
   if (!pokemondatos.id || !pokemonespecie.order) {
     return (
-      <div className="loaderbody">
-        <div className="preloader"></div>
+      <div className="loaderbodypadre">
+        <div className="loaderbody">
+          <div className="preloader"></div>
+          <div className="texto">
+            <h4>(La carga dependerá de tu conexión a internet)</h4>
+            <h5>
+              (Si la carga falla, o simplemente no carga, podría ser culpa del
+              servidor)
+            </h5>
+          </div>
+        </div>
       </div>
     );
   }

@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 import "../styles.css";
 
 const Filters = ({ choosenumber }) => {
@@ -113,6 +112,9 @@ const Filters = ({ choosenumber }) => {
           </button>
           <button onClick={() => choosenumber(27)} className="ixgen">
             IX Gen.
+          </button>
+          <button onClick={() => choosenumber(28)} className="all">
+            Especiales
           </button>
         </div>
       </div>
