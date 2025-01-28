@@ -60,7 +60,7 @@ const PokemonPage = () => {
   };
 
   const calculateBarWidth = (baseStat, maxStat) => {
-    return (((baseStat / maxStat) * 100) -25 );
+    return (((baseStat / maxStat) * 100) -35 );
   };
 
   if (!pokemondatos.id || !pokemonespecie.order) {
