@@ -56,7 +56,7 @@ const PokemonPage = () => {
   };
 
   const getMaxStat = (stats) => {
-    return Math.max(...stats.map(stat => stat.base_stat));
+    return Math.max(...stats.map(stat => stat.base_stat)) - 35;
   };
 
   const calculateBarWidth = (baseStat, maxStat) => {
@@ -108,7 +108,7 @@ const PokemonPage = () => {
         <div className="izquierda">
           <button onClick={handleClick}>Anterior</button>
           <img
-            src={pokemondatos.id === 1 ? "https://via.placeholder.com/50" : botonesdatos[pokemondatos.id - 2].img || mini}
+            src={pokemondatos.id === 1 ? "https://pixsector.com/cache/1788ac30/ave36c6a1e9d5a19e29c4.png" : botonesdatos[pokemondatos.id - 2].img || mini}
             alt={pokemondatos.name}
             className="pokebutton"
           />
