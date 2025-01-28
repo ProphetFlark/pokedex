@@ -38,7 +38,4 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "react-router-scroll-memory": "^2.0.7"
-  }
 }
