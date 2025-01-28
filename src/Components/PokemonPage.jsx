@@ -56,11 +56,11 @@ const PokemonPage = () => {
   };
 
   const getMaxStat = (stats) => {
-    return Math.max(...stats.map(stat => stat.base_stat)) - 35;
+    return Math.max(...stats.map(stat => stat.base_stat)) ;
   };
 
   const calculateBarWidth = (baseStat, maxStat) => {
-    return (baseStat / maxStat) * 100;
+    return (((baseStat / maxStat) * 100) -25 );
   };
 
   if (!pokemondatos.id || !pokemonespecie.order) {
